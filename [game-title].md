@@ -88,3 +88,12 @@ Fitness attributes encompass character traits related to their physical capabili
 - **Endurance:** Represents a character's capacity to maintain high-level performance and energy throughout battles, making them less susceptible to exhaustion, injuries and physical setbacks.
 - **Resilience:** Represents a character's ability to bounce back from exhaustion, injuries and physical setbacks.
 - **Longevity:** Represents how long a character can maintain their career at a high level.
+
+### 2.5. Performance Attributes
+
+Performance attributes focus on character traits essential for excelling during gameplay. These attributes gauge a character's ability to perform consistently under various conditions and deliver their best when under pressure.
+
+- **Work Rate:** Represents a character's effort and dedication to perform at the highest of their capabilities during a game.
+- **Consistency:** Represents a character's ability to perform at a stable and predictable level.
+- **Pressure:** Represents how well a character can handle intense and high-stakes situations.
+- **Versatility:** Represents a character's capability to adapt and excel in different positions or strategies.
