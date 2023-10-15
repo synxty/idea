@@ -243,3 +243,29 @@ Integrate Strategists into your ranks, and you'll harness their ability to shape
 - Evasion
 - Resistance
 - Health
+
+### 3.6. Titans
+
+#### 3.6.1. Overview
+
+Titans are colossal beings of immense stature, boasting unparalleled durability and the ability to control large swaths of the battlefield. These towering juggernauts are most commonly found anchoring the front lines, where their imposing size allows them to occupy a large area barricading enemy advancements and dominating the forefront.
+
+The defining feature of Titans lies in their exceptional health pools and formidable defense statistics. Their unrivaled resilience makes them formidable tanks, capable of absorbing substantial amounts of damage without faltering. This inherent toughness grants your team invaluable breathing room, affording your other units the time they need to unleash their abilities, recover from adversity, or reposition strategically.
+
+Yet, Titans are not merely bastions of defense; their sheer might knows no bounds. In battle, they wield the power to unleash devastating area-of-effect attacks, wreaking havoc on enemy forces and their front lines. This dual threat capability makes them a significant menace, not just for their tanking abilities but for their potential to obliterate adversaries with unmatched force.
+
+While Titans do not possess the means to directly shield or heal your units, their unwavering presence alone extends your team's longevity and tactical opportunities. These colossal behemoths are challenging to bring down, demanding relentless focus from the enemy and affording your team crucial control over the battlefield.
+
+Incorporate Titans into your strategy wisely, using their incredible size and resilience to dictate the flow of battle and secure your path to victory.
+
+#### 3.6.2. Signature Passive
+
+[TODO]
+
+#### 3.6.3. Essential Stats
+
+- Health
+- Health Regeneration
+- Area of Effect
+- Damage
+- Resistance
