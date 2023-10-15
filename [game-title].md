@@ -193,3 +193,29 @@ If at least one of the Paladin's abilities is activated during the planning phas
 - Damage
 - Health
 - Resistance
+
+### 3.4. Rangers
+
+#### 3.4.1. Overview
+
+Rangers stand as the vanguard of your team's offensive might, serving as the paramount source of unrelenting damage. These nimble marksmen specialize in the art of delivering precision strikes from afar, inflicting devastating harm upon their targets. In fact, the farther they position themselves from the heat of battle, the more potent their attacks become, making them formidable damage dealers with a propensity for long-range engagements.
+
+The hallmark of Rangers lies in their capacity to maintain a relentless barrage of damage, consistently chipping away at enemy forces. Their attacks carry immense power and accuracy, capable of whittling down foes with surgical precision. This inherent ranged advantage positions them as a primary asset when it comes to controlling the tempo of battle.
+
+However, the prowess of Rangers comes at a price. They are inherently squishy and fragile units, vulnerable to enemy counterattacks and susceptible to harm. Protecting these delicate but formidable ranged units is imperative to harnessing their full potential.
+
+Rangers embody a precarious balance—balancing their unparalleled damage output with the necessity for strategic positioning and protection. When placed correctly and safeguarded, they become an unstoppable force, capable of decimating adversaries from a safe distance.
+
+Incorporate Rangers into your strategy shrewdly, recognizing their value as your team's foremost damage dealers, but always mindful of their need for protection.
+
+#### 3.4.2. Signature Passive
+
+Unless stated otherwise by a specific ability, Rangers exclusively target the closest enemy character. The further the Ranger is from the target, the more damage they deal. Additionally, every round on their turn, Rangers utilize their basic ability for half of the energy cost.
+
+#### 3.4.3. Essential Stats
+
+- Range
+- Damage
+- Critical Hit
+- Critical Hit Chance
+- Life Steal
