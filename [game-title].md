@@ -97,3 +97,12 @@ Performance attributes focus on character traits essential for excelling during 
 - **Consistency:** Represents a character's ability to perform at a stable and predictable level.
 - **Pressure:** Represents how well a character can handle intense and high-stakes situations.
 - **Versatility:** Represents a character's capability to adapt and excel in different positions or strategies.
+
+### 2.6. Development Attributes
+
+Development attributes are character traits vital for growth and advancement. These attributes reflect a character's commitment to improving their skills, achieving their goals, and attaining success in their career.
+
+- **Progression Rate:** Represents the speed at which a character can learn new abilities, improve their stats and enhance their attributes.
+- **Determination:** Reflect's a character's drive to improve their stats and enhance their attributes
+- **Professionalism:** Reflect's how effectively a character manages their stats and attributes improvements.
+- **Ambition:** Represents a character's desire to achieve greatness, climb the ranks, and continuously strive to be the best.
