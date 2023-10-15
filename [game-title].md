@@ -79,3 +79,12 @@ Team cohesion attributes encompass character traits essential for promoting effe
 - **Leadership:** Represents a character's capacity to guide and inspire their teammates and making them better.
 - **Teamwork:** Represents a character's ability to work in harmony with others, promoting unity and cohesion.
 - **Dedication:** Represents a character's unwavering commitment to their team's objectives, promoting loyalty and a strong sense of duty.
+
+### 2.4. Fitness Attributes
+
+Fitness attributes encompass character traits related to their physical capabilities and overall health. These attributes gauge a character's physical condition, their ability to withstand wear and tear, and their longevity in their respective careers.
+
+- **Fragility:** Represents how easily a character can succumb to exhaustion, injuries and physical setbacks.
+- **Endurance:** Represents a character's capacity to maintain high-level performance and energy throughout battles, making them less susceptible to exhaustion, injuries and physical setbacks.
+- **Resilience:** Represents a character's ability to bounce back from exhaustion, injuries and physical setbacks.
+- **Longevity:** Represents how long a character can maintain their career at a high level.
