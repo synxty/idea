@@ -143,3 +143,29 @@ If at least one of the Assassin's abilities is activated during the planing phas
 - Critical Hit Chance
 - Accuracy
 - Evasion
+
+### 3.2. Healers
+
+#### 3.2.1. Overview
+
+Healers are the benevolent guardians of the back lines, standing firm in their pivotal role as the lifelines of your team. Their primary objective is the preservation of their comrades' vitality, and they excel in providing essential support to their allies.
+
+Typically positioned at the rear of the battlefield, Healers prioritize the well-being of their team above all else. With a focus on healing and assistance, their actions are guided by the singular aim of ensuring their companions' survival and success.
+
+While Healers possess remarkable restorative abilities, they are often vulnerable themselves. Their relatively low health and frail constitution make them prime targets for enemy assaults. Without adequate protection, they may fall swiftly, leaving your team in a precarious position.
+
+To maximize their effectiveness, wise commanders take measures to shield their Healers from harm. Whether through the deployment of protective units or strategic positioning, safeguarding these essential support specialists is paramount.
+
+Healers exemplify unwavering dedication to the well-being of their team, offering a lifeline in the most dire of circumstances. They are the backbone of resilience, the source of hope, and the guardians of survival in your quest for victory.
+
+#### 3.2.2. Signature Passive
+
+If at least one of the Healer's abilities is activated during the planing phase, the Healer heals adjacent allies for a small amount of health in the beginning of the battle phase.
+
+#### 3.2.3. Essential Stats
+
+- Healing Power
+- Area of Effect
+- Evasion
+- Health
+- Health Regeneration
