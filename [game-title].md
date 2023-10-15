@@ -70,3 +70,12 @@ Defensive attributes are primarily focused on a character's ability to withstand
 
 - **Speed:** The character's swiftness in action, affecting turn order.
 - **Area of Effect:** The area covered by a character's abilities, influencing how many opponents or allies are affected.
+
+### 2.3. Team Cohesion Attributes
+
+Team cohesion attributes encompass character traits essential for promoting effective teamwork and unity within a group. These attributes measure a character's ability to function as a cohesive unit, inspire their teammates, and work in harmony with others to achieve success on the battlefield and are crucial for maintaining a balanced and synergistic team environment.
+
+- **Adaptability:** Represents a character's ability to adjust to different situations, strategies, and teammates.
+- **Leadership:** Represents a character's capacity to guide and inspire their teammates and making them better.
+- **Teamwork:** Represents a character's ability to work in harmony with others, promoting unity and cohesion.
+- **Dedication:** Represents a character's unwavering commitment to their team's objectives, promoting loyalty and a strong sense of duty.
