@@ -23,3 +23,18 @@ The game concludes when one of the players has no characters remaining on the bo
 Before the game, players must assemble a squad of 5 characters available on their team's roster. Each team has a roster of 12 characters, 2 for each character role. Since there are 6 different roles and only 5 squad spots available, players must carefully consider their options and select the best combination of characters to achieve victory. Squads can be built with any combination of roles and it's not required that they differ.
 
 Besides roles, players also have to keep in mind a character's type, origin, and soul as these traits can be used to counter the opposition.
+
+## 2. Characters Attributes & Stats
+
+### 2.1. Profile Attributes
+
+Profile attributes encompass essential information about each character. These attributes offer a comprehensive view of a character's background, identity, and intrinsic qualities, aiding players in crafting their squads and devising winning strategies on the battlefield.
+
+- **ID:** The character's unique identifier for each character, allowing for easy tracking and organization.
+- **Name:** The character's unique and distinctive given name. It provides a personal touch to their identity.
+- **Height:** The character's physical stature.
+- **Weight:** The character's body mass.
+- **Type:** The character's elemental affiliation, affecting interactions and damage calculation.
+- **Origin:** The character's place of origin, affecting their appearance, interactions and damage calculation.
+- **Soul:** [TODO]
+- **Role:** The character's designated position or purpose on the team, dictating their abilities and role in battles.
