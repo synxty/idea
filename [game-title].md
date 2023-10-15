@@ -169,3 +169,27 @@ If at least one of the Healer's abilities is activated during the planing phase,
 - Evasion
 - Health
 - Health Regeneration
+
+### 3.3. Paladins
+
+#### 3.3.1. Overview
+
+Paladins are versatile warriors often found at the forefront of the battle or strategically positioned to safeguard their allies. Their approach to combat combines the prowess of relentless offense with the resilience of stalwart defense.
+
+These adaptable champions can take on the role of bruisers, boasting impressive health pools and formidable resistance to enemy assaults. While they excel in absorbing incoming damage and protecting their team, Paladins are equally adept at delivering punishing blows to foes.
+
+Paladins' strategic positioning can vary, with some opting for an offensive stance to engage enemies directly, while others prioritize defense, acting as unyielding bulwarks to shield their backline allies. Their play style hinges on the situation, and they possess the flexibility to swiftly transition between offense and defense as needed.
+
+Incorporate Paladins into your team, and you'll gain access to these dependable guardians, capable of both leading the charge and shielding your squad from harm. Their well-rounded abilities and adaptable nature make them a valuable asset in your quest for victory.
+
+#### 3.3.2. Signature Passive
+
+If at least one of the Paladin's abilities is activated during the planning phase and the paladin is positioned in the front line, they gain increased damage and resistance for the rest of the round. If the paladin is positioned anywhere else, they gain increased block power and resistance for the rest of the round.
+
+#### 3.3.3. Essential Stats
+
+- Block Power
+- Block Chance
+- Damage
+- Health
+- Resistance
