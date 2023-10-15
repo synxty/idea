@@ -42,3 +42,14 @@ Profile attributes encompass essential information about each character. These a
 ### 2.2. Combat Attributes
 
 Combat attributes define a character's combat-related statistics. They encompass crucial aspects like health, offensive, defensive and additional combat statistics. The combat attributes are essential for shaping the outcome of battles.
+
+#### 2.2.1. Offensive Attributes
+
+Offensive attributes are primarily focused on a character's ability to deal damage or harm to opponents. These attributes are crucial for characters with roles that focus on dealing damage, such as Assassins, Rangers, and to a lesser extent, Paladins and Titans. These stats help characters maximize their damage output and contribute to the defeat of opponents.
+
+- **Damage:** The character's offensive strength, influencing the damage dealt to opponents.
+- **Critical Hit:** The bonus damage inflicted when a character strikes a critical hit.
+- **Critical Hit Chance:** The likelihood of a character landing a critical hit.
+- **Range:** The distance from which a character can engage in combat effectively.
+- **Accuracy:** The character's precision in landing attacks on opponents.
+- **Life Steal:** The character's ability to regain health by dealing damage to opponents.
