@@ -219,3 +219,27 @@ Unless stated otherwise by a specific ability, Rangers exclusively target the cl
 - Critical Hit
 - Critical Hit Chance
 - Life Steal
+
+#### 3.5.1. Overview
+
+Strategists possess an adaptable presence on the battlefield, offering valuable contributions whether positioned in the front lines, alongside allies, or strategically situated in the rear ranks. Their primary objective is to exert unparalleled control over the battle's ebb and flow.
+
+Equipped with the ability to influence the course of combat, Strategists become linchpins in your tactical maneuvers. Their effectiveness hinges on their health and resistance stats, which dictate their survivability and strategic utility.
+
+These shrewd commanders excel at orchestrating the battlefield to their advantage. They can employ their talents to bolster and empower their comrades, transforming them into formidable forces. Conversely, Strategists wield the power to debilitate and thwart their adversaries, hindering their effectiveness or outright disabling them.
+
+Strategists shine as masters of battlefield manipulation, seamlessly transitioning their focus between roles as the situation demands. Whether it's enhancing the prowess of allies or undermining the strengths of foes, their keen strategic insight ensures they remain pivotal assets to your team's success.
+
+Integrate Strategists into your ranks, and you'll harness their ability to shape the battle to your advantage. Their multifaceted approach to warfare and unwavering commitment to control make them indispensable in your pursuit of victory.
+
+#### 3.5.2. Signature Passive
+
+[TODO]
+
+#### 3.5.3. Essential Stats
+
+- Speed
+- Accuracy
+- Evasion
+- Resistance
+- Health
