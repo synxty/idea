@@ -65,3 +65,8 @@ Defensive attributes are primarily focused on a character's ability to withstand
 - **Evasion:** The character's ability to dodge incoming attacks.
 - **Block Power:** The ability of a character to block incoming damage.
 - **Block Chance:** The likelihood of a character successfully blocking an incoming attack.
+
+#### 2.2.3. General Attributes
+
+- **Speed:** The character's swiftness in action, affecting turn order.
+- **Area of Effect:** The area covered by a character's abilities, influencing how many opponents or allies are affected.
