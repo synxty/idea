@@ -117,3 +117,29 @@ Within this section, we explore the dynamic range of roles that characters can e
 - **Rangers:** Experts in precision ranged combat, dealing consistent long-range damage while relying on protection due to their fragility.
 - **Strategists:** Adaptable commanders with the ability to control the battlefield, enhancing allies and debilitating enemies as needed.
 - **Titans:** Colossal frontline behemoths with immense durability and area-of-effect damage potential, providing critical battlefield control.
+
+### 3.1. Assassins
+
+#### 3.1.1. Overview
+
+Assassins are the shadowy harbingers of chaos, lurking in the shadows and poised for swift, deadly strikes. Their primary mission is to infiltrate enemy lines, unleashing devastating, single-target assaults that can decimate foes in a single, lethal blow.
+
+These cunning operatives excel at pinpointing high-priority targets, often positioned in the enemy's back line. With unparalleled precision and the ability to deliver astonishing bursts of damage, Assassins specialize in eliminating key threats to your team's success.
+
+Their combat strategy revolves around stealth, speed, and ruthlessness. Assassins are masters of subterfuge, slipping past defenses to strike precisely where it hurts the most. Their attacks are calculated to eliminate opponents swiftly, disrupting enemy formations and creating opportunities for their comrades.
+
+However, this mastery of offense comes at a cost. Assassins tend to be relatively fragile, with lower health and defenses compared to other roles. Their survival depends on remaining hidden and avoiding direct confrontations whenever possible. Without adequate protection or support, they can easily succumb to enemy counterattacks.
+
+To fully harness the power of Assassins, strategic commanders must ensure their safety and provide opportunities for them to exploit enemy vulnerabilities. Properly utilized, Assassins can turn the tide of battle, becoming the bane of high-value targets and a crucial asset in achieving victory.
+
+#### 3.1.2. Signature Passive
+
+If at least one of the Assassin's abilities is activated during the planing phase, the Assassin jumps to the furthest available tile adjacent to the furthest enemy character. Assassin's damage is increased the further they jump. After casting their abilities, the Assassin returns to their original position and gains stealth for the rest of the round.
+
+#### 3.1.3. Essential Stats
+
+- Damage
+- Critical Hit
+- Critical Hit Chance
+- Accuracy
+- Evasion
