@@ -106,3 +106,14 @@ Development attributes are character traits vital for growth and advancement. Th
 - **Determination:** Reflect's a character's drive to improve their stats and enhance their attributes
 - **Professionalism:** Reflect's how effectively a character manages their stats and attributes improvements.
 - **Ambition:** Represents a character's desire to achieve greatness, climb the ranks, and continuously strive to be the best.
+
+## 3. Character Roles
+
+Within this section, we explore the dynamic range of roles that characters can embrace in the game. Each role boasts a distinct set of characteristics and strengths, allowing players to make informed decisions about their team composition and battlefield strategies. There are a total of six roles in the game:
+
+- **Assassins:** Stealthy specialists who excel at eliminating high-priority targets with devastating single-target attacks.
+- **Healers:** Lifelines of the team, positioned in the back line, dedicated to healing and supporting allies while being vulnerable themselves.
+- **Paladins:** Versatile warriors skilled in both offense and defense, capable of leading the charge or shielding their allies.
+- **Rangers:** Experts in precision ranged combat, dealing consistent long-range damage while relying on protection due to their fragility.
+- **Strategists:** Adaptable commanders with the ability to control the battlefield, enhancing allies and debilitating enemies as needed.
+- **Titans:** Colossal frontline behemoths with immense durability and area-of-effect damage potential, providing critical battlefield control.
