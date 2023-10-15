@@ -38,3 +38,7 @@ Profile attributes encompass essential information about each character. These a
 - **Origin:** The character's place of origin, affecting their appearance, interactions and damage calculation.
 - **Soul:** [TODO]
 - **Role:** The character's designated position or purpose on the team, dictating their abilities and role in battles.
+
+### 2.2. Combat Attributes
+
+Combat attributes define a character's combat-related statistics. They encompass crucial aspects like health, offensive, defensive and additional combat statistics. The combat attributes are essential for shaping the outcome of battles.
