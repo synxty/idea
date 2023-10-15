@@ -53,3 +53,15 @@ Offensive attributes are primarily focused on a character's ability to deal dama
 - **Range:** The distance from which a character can engage in combat effectively.
 - **Accuracy:** The character's precision in landing attacks on opponents.
 - **Life Steal:** The character's ability to regain health by dealing damage to opponents.
+
+#### 2.2.2. Defensive Attributes
+
+Defensive attributes are primarily focused on a character's ability to withstand, mitigate, or avoid damage from opponents. These attributes are crucial for characters with tank, support, or healing roles, as they enable these characters to endure attacks, protect allies, and keep the team or themselves alive in battle.
+
+- **Health:** The amount of damage a character can withstand before being defeated.
+- **Health Regeneration:** The speed at which a character naturally recovers health during battles.
+- **Healing Power:** The character's ability to restore health to themselves or others.
+- **Resistance:** The character's defensive strength, reducing the damage received from opponents.
+- **Evasion:** The character's ability to dodge incoming attacks.
+- **Block Power:** The ability of a character to block incoming damage.
+- **Block Chance:** The likelihood of a character successfully blocking an incoming attack.
