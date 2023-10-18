@@ -243,28 +243,26 @@ If none of the Strategist's abilities are activated during the planning phase, t
 
 ### 3.6. Titans
 
-Titans are colossal beings of immense stature, boasting unparalleled durability and the ability to control large swaths of the battlefield. These towering juggernauts are most commonly found anchoring the front lines, where their imposing size allows them to occupy a large area barricading enemy advancements and dominating the forefront.
+Titans are colossal beings of immense stature, boasting unparalleled durability and the ability to cover large swaths of the battlefield. These towering juggernauts are most commonly found anchoring the front lines, where their imposing size allows them to occupy a large area barricading enemy advancements and dominating the forefront.
 
-The defining feature of Titans lies in their exceptional health pools and formidable defense statistics. Their unrivaled resilience makes them formidable tanks, capable of absorbing substantial amounts of damage without faltering. This inherent toughness grants your team invaluable breathing room, affording your other units the time they need to unleash their abilities, recover from adversity, or reposition strategically.
+The defining feature of Titans lies in their exceptional health pools and resistance which makes them formidable tanks, capable of absorbing substantial amounts of damage without faltering. Yet, Titans are not merely bastions of defense, their sheer might knows no bounds. They wield the power to unleash devastating large attacks, wreaking havoc on enemy forces and their front lines
 
-Yet, Titans are not merely bastions of defense; their sheer might knows no bounds. In battle, they wield the power to unleash devastating area-of-effect attacks, wreaking havoc on enemy forces and their front lines. This dual threat capability makes them a significant menace, not just for their tanking abilities but for their potential to obliterate adversaries with unmatched force.
+Incorporate Titans into your strategy wisely, utilizing their size and resilience to bolster your team, trample the enemies and secure victory.
 
-While Titans do not possess the means to directly shield or heal your units, their unwavering presence alone extends your team's longevity and tactical opportunities. These colossal behemoths are challenging to bring down, demanding relentless focus from the enemy and affording your team crucial control over the battlefield.
+#### 3.6.1. Play Style
 
-Incorporate Titans into your strategy wisely, using their incredible size and resilience to dictate the flow of battle and secure your path to victory.
+Titans deal more damage the closer they are to their target with the damage being spread based on the Titan's area of effect. The damage is reduced as it spreads.
 
-#### 3.6.1. Signature Passive
+#### 3.6.2. Signature Passive
 
 If none of the Titan's abilities are activated during the planning phase, the titan gains Health Regeneration.
 
 If at least one of the Titan's abilities is activated during the planning phase, the titan gains increased damage and resistance for the rest of the round.
 
-Titans do more damage the closer they are to their target.
-
-#### 3.6.2. Essential Stats
+#### 3.6.3. Key Combat Attributes
 
 - Health
-- Health Regeneration
-- Area of Effect
-- Damage
 - Resistance
+- Damage
+- Area of Effect
+- Health Regeneration
