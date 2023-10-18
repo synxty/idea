@@ -41,7 +41,7 @@ Profile attributes encompass essential information about each character. These a
 
 ### 2.2. Combat Attributes
 
-Combat attributes define a character's combat-related statistics. They encompass crucial aspects like health, offensive, defensive and additional combat statistics. The combat attributes are essential for shaping the outcome of battles.
+Combat attributes define a character's combat-related statistics. They encompass crucial aspects like offensive, defensive and additional combat statistics. The combat attributes are essential for shaping the outcome of battles.
 
 #### 2.2.1. Offensive Attributes
 
@@ -134,7 +134,7 @@ Assassin's damage is increased the further they jump so it's encourage to positi
 
 If at least one of the Assassin's abilities is activated during the planing phase, the Assassin jumps to the furthest available tile adjacent to the furthest enemy character. After casting their abilities, the Assassin returns to their original position and gains stealth for the rest of the round.
 
-#### 3.1.3. Essential Stats
+#### 3.1.3. Key Combat Attributes
 
 - Damage
 - Critical Hit
@@ -158,29 +158,31 @@ Healers healing power is increased the closer they are to their target. As they 
 
 If at least one of the Healer's abilities is activated during the planing phase, the Healer heals adjacent allies for a small amount of health in the beginning of the battle phase.
 
-#### 3.2.3. Essential Stats
+#### 3.2.3. Key Combat Attributes
 
 - Healing Power
-- Area of Effect
 - Evasion
-- Health
 - Health Regeneration
+- Life Steal
+- Health
 
 ### 3.3. Paladins
 
-Paladins are versatile warriors often found at the forefront of the battle or strategically positioned to safeguard their allies. Their approach to combat combines the prowess of relentless offense with the resilience of stalwart defense.
+Paladins are versatile warriors who can be found at the vanguard of battle or strategically positioned to protect allies.
 
-These adaptable champions can take on the role of bruisers, boasting impressive health pools and formidable resistance to enemy assaults. While they excel in absorbing incoming damage and protecting their team, Paladins are equally adept at delivering punishing blows to foes.
-
-Paladins' strategic positioning can vary, with some opting for an offensive stance to engage enemies directly, while others prioritize defense, acting as unyielding bulwarks to shield their backline allies. Their play style hinges on the situation, and they possess the flexibility to swiftly transition between offense and defense as needed.
+These adaptable champions can take on the role of bruisers, boasting impressive health pools and formidable resistance to enemy assaults. While they excel in absorbing incoming damage and protecting their team, Paladins are equally adept at delivering punishing attacks to enemies.
 
 Incorporate Paladins into your team, and you'll gain access to these dependable guardians, capable of both leading the charge and shielding your squad from harm. Their well-rounded abilities and adaptable nature make them a valuable asset in your quest for victory.
 
-#### 3.3.1. Signature Passive
+#### 3.3.1. Play Style
+
+Paladin's play style hinges on the situation as they can be valuable in both the front and back lines. Position them accordingly to either lead the charge or protect allies.
+
+#### 3.3.2. Signature Passive
 
 If at least one of the Paladin's abilities is activated during the planning phase and the paladin is positioned in the front line, they gain increased damage and resistance for the rest of the round. If the paladin is positioned anywhere else, they gain increased block power and resistance for the rest of the round.
 
-#### 3.3.2. Essential Stats
+#### 3.3.3. Key Combat Attributes
 
 - Block Power
 - Block Chance
@@ -190,51 +192,54 @@ If at least one of the Paladin's abilities is activated during the planning phas
 
 ### 3.4. Rangers
 
-Rangers stand as the vanguard of your team's offensive might, serving as the paramount source of unrelenting damage. These nimble marksmen specialize in the art of delivering precision strikes from afar, inflicting devastating harm upon their targets. In fact, the farther they position themselves from the heat of battle, the more potent their attacks become, making them formidable damage dealers with a propensity for long-range engagements.
+Rangers stand as the vanguard of your team's offensive might, serving as the paramount source of unrelenting damage. These nimble marksmen specialize in the art of delivering precision strikes from afar, inflicting devastating harm upon their targets.
 
-The hallmark of Rangers lies in their capacity to maintain a relentless barrage of damage, consistently chipping away at enemy forces. Their attacks carry immense power and accuracy, capable of whittling down foes with surgical precision. This inherent ranged advantage positions them as a primary asset when it comes to controlling the tempo of battle.
+Balancing their unparalleled damage output with the need for strategic positioning and protection is crucial. When placed correctly and safeguarded, Rangers become an unstoppable force, capable of decimating adversaries from a safe distance.
 
-However, the prowess of Rangers comes at a price. They are inherently squishy and fragile units, vulnerable to enemy counterattacks and susceptible to harm. Protecting these delicate but formidable ranged units is imperative to harnessing their full potential.
+Incorporate Rangers into your strategy shrewdly, recognizing their value as your team's foremost damage dealers, while always being mindful of their need for protection.
 
-Rangers embody a precarious balance—balancing their unparalleled damage output with the necessity for strategic positioning and protection. When placed correctly and safeguarded, they become an unstoppable force, capable of decimating adversaries from a safe distance.
+#### 3.4.1. Play Style
 
-Incorporate Rangers into your strategy shrewdly, recognizing their value as your team's foremost damage dealers, but always mindful of their need for protection.
+Unless stated otherwise by a specific ability, Rangers exclusively target the closest enemy character.
 
-#### 3.4.1. Signature Passive
+Rangers deal more damage the farther they are from their target, but their Critical Hit Chance and Accuracy increase as they draw closer. This versatility makes them proficient at engaging both front-line enemies and posing a threat to their back-line.
 
-Unless stated otherwise by a specific ability, Rangers exclusively target the closest enemy character. The further the Ranger is from the target, the more damage they deal. Additionally, every round on their turn, Rangers utilize their basic ability for half of the energy cost.
+#### 3.4.2. Signature Passive
 
-#### 3.4.2. Essential Stats
+Every round on their turn, Rangers utilize their basic ability for half of the energy cost.
+
+#### 3.4.3. Key Combat Attributes
 
 - Range
 - Damage
 - Critical Hit
 - Critical Hit Chance
+- Accuracy
 - Life Steal
 
 ### 3.5. Strategists
 
-Strategists possess an adaptable presence on the battlefield, offering valuable contributions whether positioned in the front lines, alongside allies, or strategically situated in the rear ranks. Their primary objective is to exert unparalleled control over the battle's ebb and flow.
+Strategists are the maestros of battlefield control, wielding the power to shape the flow of combat to their advantage. These astute commanders possess a broad array of talents, allowing them to bolster and empower their allies while simultaneously crippling their enemies. Whether they position themselves in the front lines, or strategically hold the rear ranks, they excel at orchestrating the ebb and flow of battle.
 
-Equipped with the ability to influence the course of combat, Strategists become linchpins in your tactical maneuvers. Their effectiveness hinges on their health and resistance stats, which dictate their survivability and strategic utility.
+Armed with the unique ability to manipulate the battlefield with diverse effects, Strategists become linchpins in your tactical maneuvers. Their effectiveness hinges on their evasion and resistance stats, which ensure their survivability and strategic utility.
 
-These shrewd commanders excel at orchestrating the battlefield to their advantage. They can employ their talents to bolster and empower their comrades, transforming them into formidable forces. Conversely, Strategists wield the power to debilitate and thwart their adversaries, hindering their effectiveness or outright disabling them.
+Integrate Strategists into your ranks, and you'll harness their ability to shift the battlefield's dynamics in your favor. Their multifaceted approach to warfare and unwavering commitment to control make them indispensable in your pursuit of victory.
 
-Strategists shine as masters of battlefield manipulation, seamlessly transitioning their focus between roles as the situation demands. Whether it's enhancing the prowess of allies or undermining the strengths of foes, their keen strategic insight ensures they remain pivotal assets to your team's success.
+#### 3.5.1. Play Style
 
-Integrate Strategists into your ranks, and you'll harness their ability to shape the battle to your advantage. Their multifaceted approach to warfare and unwavering commitment to control make them indispensable in your pursuit of victory.
+Strategist's play style revolves around speed and area of effect as it's important to apply effects as soon as possible and to as many characters as possible. Position them accordingly to maximize their abilities.
 
-#### 3.5.1. Signature Passive
+#### 3.5.2. Signature Passive
 
 If none of the Strategist's abilities are activated during the planning phase, the strategist gains increased Evasion and a shield for the rest of the round as well as they generate extra energy for the next round.
 
-#### 3.5.2. Essential Stats
+#### 3.5.3. Key Combat Attributes
 
 - Speed
-- Accuracy
+- Area of Effect
 - Evasion
 - Resistance
-- Health
+- Accuracy
 
 ### 3.6. Titans
 
