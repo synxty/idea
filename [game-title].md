@@ -62,9 +62,9 @@ Defensive attributes are primarily focused on a character's ability to withstand
 - **Health Regeneration:** The speed at which a character naturally recovers health during battles.
 - **Healing Power:** The character's ability to restore health to themselves or others.
 - **Resistance:** The character's defensive strength, reducing the damage received from opponents.
-- **Evasion:** The character's ability to dodge incoming attacks.
-- **Block Power:** The ability of a character to block incoming damage.
-- **Block Chance:** The likelihood of a character successfully blocking an incoming attack.
+- \***\*Evasion**:\*\* The character's ability to dodge incoming attacks.
+- **Block **Power**:** The ability of a character to block incoming damage.
+- **Block Chance:\*\*\*\*** The likelihood of a character successfully blocking an incoming attack.
 
 #### 2.2.3. General Attributes
 
@@ -120,15 +120,15 @@ Within this section, we explore the dynamic range of roles that characters can e
 
 ### 3.1. Assassins
 
-Assassins are shadowy specialists, masters of swift, deadly strikes. Their primary mission is to infiltrate enemy lines, eliminating high-priority targets with single, lethal blows. Excelling at pinpoint precision and delivering devastating damage, Assassins disrupt enemy formations, creating opportunities for their comrades.
+Assassins are shadowy specialists, masters of swift, deadly strikes. Their primary mission is to infiltrate enemy lines, eliminating high-priority targets with single, lethal blows. Excelling at pinpoint precision and delivering devastating **damage**, Assassins disrupt enemy formations, creating opportunities for their comrades.
 
-However, this mastery of offense comes at a cost. Assassins tend to be relatively fragile, with lower health and defenses compared to other roles. Their survival depends on remaining hidden and avoiding direct confrontations whenever possible. Without adequate protection or support, they can easily succumb to enemy attacks.
+However, this mastery of offense comes at a cost. Assassins tend to be relatively fragile, with lower **health** and **resistance** compared to other roles. Their survival depends on remaining hidden and avoiding direct confrontations whenever possible. Without adequate protection or support, they can easily succumb to enemy attacks.
 
 To fully harness the power of Assassins, one must ensure their safety and provide opportunities for them to exploit enemy vulnerabilities. Properly utilized, Assassins can turn the tide of battle, becoming the bane of high-value targets and a crucial asset in achieving victory.
 
 #### 3.1.1. Play Style
 
-Assassin's damage is increased the further they jump so it's encourage to position them the furthest away from their target. They are also the only role that can jump over other characters, allowing them to reach their target even if there are other characters in the way.
+Assassin's **damage** is increased the further they jump so it's encourage to position them the furthest away from their target. They are also the only role that can jump over other characters, allowing them to reach their target even if there are enemy characters in the way.
 
 #### 3.1.2. Signature Passive
 
@@ -136,41 +136,41 @@ If at least one of the Assassin's abilities is activated during the planing phas
 
 #### 3.1.3. Key Combat Attributes
 
-- Damage
-- Critical Hit
-- Critical Hit Chance
-- Accuracy
-- Evasion
+- **Damage**
+- **Critical Hit**
+- **Critical Hit Chance**
+- **Accuracy**
+- **Evasion**
 
 ### 3.2. Healers
 
 Healers are the benevolent guardians of the back lines, standing firm in their pivotal role as the lifelines of your team. Their primary objective is the preservation of their comrades' vitality, and they excel in providing essential support to their allies.
 
-While Healers possess remarkable restorative abilities, they are often vulnerable themselves. Their relatively low health and frail constitution make them prime targets for enemy assaults. Without adequate protection, they may fall swiftly, leaving your team in a precarious position.
+While Healers possess remarkable restorative abilities, they are often vulnerable themselves. Their relatively low **health** and **resistance** constitution make them prime targets for enemy assaults. Without adequate protection, they may fall swiftly, leaving your team in a precarious position.
 
 To maximize their effectiveness, one must take measures to shield their Healers from harm. Whether through the deployment of protective units or strategic positioning, safeguarding these essential support specialists is paramount. They are the backbone of resilience, the source of hope, and the guardians of survival in your quest for victory.
 
 #### 3.2.1. Play Style
 
-Healers healing power is increased the closer they are to their target. As they are extremely vulnerable, it's encouraged to position them in the back line and protect them with other characters.
+Healers **healing power** is increased the closer they are to their target. As they are extremely vulnerable, it's encouraged to position them in the back line and protect them with other characters.
 
 #### 3.2.2. Signature Passive
 
-If at least one of the Healer's abilities is activated during the planing phase, the Healer heals adjacent allies for a small amount of health in the beginning of the battle phase.
+If at least one of the Healer's abilities is activated during the planing phase, the Healer heals adjacent allies for a small amount of **health** in the beginning of the battle phase.
 
 #### 3.2.3. Key Combat Attributes
 
-- Healing Power
-- Evasion
-- Health Regeneration
-- Life Steal
-- Health
+- **Healing Power**
+- **Evasion**
+- **Health Regeneration**
+- **Life Steal**
+- **Health**
 
 ### 3.3. Paladins
 
 Paladins are versatile warriors who can be found at the vanguard of battle or strategically positioned to protect allies.
 
-These adaptable champions can take on the role of bruisers, boasting impressive health pools and formidable resistance to enemy assaults. While they excel in absorbing incoming damage and protecting their team, Paladins are equally adept at delivering punishing attacks to enemies.
+These adaptable champions can take on the role of bruisers, boasting impressive **health** pools and formidable **resistance** to enemy assaults. While they excel in absorbing incoming **damage** and protecting their team, Paladins are equally adept at delivering punishing attacks to enemies.
 
 Incorporate Paladins into your team, and you'll gain access to these dependable guardians, capable of both leading the charge and shielding your squad from harm. Their well-rounded abilities and adaptable nature make them a valuable asset in your quest for victory.
 
@@ -180,29 +180,29 @@ Paladin's play style hinges on the situation as they can be valuable in both the
 
 #### 3.3.2. Signature Passive
 
-If at least one of the Paladin's abilities is activated during the planning phase and the paladin is positioned in the front line, they gain increased damage and resistance for the rest of the round. If the paladin is positioned anywhere else, they gain increased block power and resistance for the rest of the round.
+If at least one of the Paladin's abilities is activated during the planning phase and the paladin is positioned in the front line, they gain increased **damage** and **resistance** for the rest of the round. If the paladin is positioned anywhere else, they gain increased **block power** and **resistance** for the rest of the round.
 
 #### 3.3.3. Key Combat Attributes
 
-- Block Power
-- Block Chance
-- Damage
-- Health
-- Resistance
+- **Block Power**
+- **Block Chance**
+- **Damage**
+- **Health**
+- **Resistance**
 
 ### 3.4. Rangers
 
-Rangers stand as the vanguard of your team's offensive might, serving as the paramount source of unrelenting damage. These nimble marksmen specialize in the art of delivering precision strikes from afar, inflicting devastating harm upon their targets.
+Rangers stand as the vanguard of your team's offensive might, serving as the paramount source of unrelenting **damage**. These nimble marksmen specialize in the art of delivering precision strikes from afar, inflicting devastating harm upon their targets.
 
-Balancing their unparalleled damage output with the need for strategic positioning and protection is crucial. When placed correctly and safeguarded, Rangers become an unstoppable force, capable of decimating adversaries from a safe distance.
+Balancing their unparalleled **damage** output with the need for strategic positioning and protection is crucial. When placed correctly and safeguarded, Rangers become an unstoppable force, capable of decimating adversaries from a safe distance.
 
-Incorporate Rangers into your strategy shrewdly, recognizing their value as your team's foremost damage dealers, while always being mindful of their need for protection.
+Incorporate Rangers into your strategy shrewdly, recognizing their value as your team's foremost **damage** dealers, while always being mindful of their need for protection.
 
 #### 3.4.1. Play Style
 
 Unless stated otherwise by a specific ability, Rangers exclusively target the closest enemy character.
 
-Rangers deal more damage the farther they are from their target, but their Critical Hit Chance and Accuracy increase as they draw closer. This versatility makes them proficient at engaging both front-line enemies and posing a threat to their back-line.
+Rangers deal more **damage** the farther they are from their target, but their **Critical Hit Chance** and **Accuracy** increase as they draw closer. This versatility makes them proficient at engaging both front-line enemies and posing a threat to their back-line.
 
 #### 3.4.2. Signature Passive
 
@@ -210,59 +210,59 @@ Every round on their turn, Rangers utilize their basic ability for half of the e
 
 #### 3.4.3. Key Combat Attributes
 
-- Range
-- Damage
-- Critical Hit
-- Critical Hit Chance
-- Accuracy
-- Life Steal
+- **Range**
+- **Damage**
+- **Critical Hit**
+- **Critical Hit Chance**
+- **Accuracy**
+- **Life Steal**
 
 ### 3.5. Strategists
 
 Strategists are the maestros of battlefield control, wielding the power to shape the flow of combat to their advantage. These astute commanders possess a broad array of talents, allowing them to bolster and empower their allies while simultaneously crippling their enemies. Whether they position themselves in the front lines, or strategically hold the rear ranks, they excel at orchestrating the ebb and flow of battle.
 
-Armed with the unique ability to manipulate the battlefield with diverse effects, Strategists become linchpins in your tactical maneuvers. Their effectiveness hinges on their evasion and resistance stats, which ensure their survivability and strategic utility.
+Armed with the unique ability to manipulate the battlefield with diverse effects, Strategists become linchpins in your tactical maneuvers. Their effectiveness hinges on their **evasion** and **resistance** stats, which ensure their survivability and strategic utility.
 
 Integrate Strategists into your ranks, and you'll harness their ability to shift the battlefield's dynamics in your favor. Their multifaceted approach to warfare and unwavering commitment to control make them indispensable in your pursuit of victory.
 
 #### 3.5.1. Play Style
 
-Strategist's play style revolves around speed and area of effect as it's important to apply effects as soon as possible and to as many characters as possible. Position them accordingly to maximize their abilities.
+Strategist's play style revolves around **speed** and **area of effect** as it's important to apply effects as soon as possible and to as many characters as possible. Position them accordingly to maximize their abilities.
 
 #### 3.5.2. Signature Passive
 
-If none of the Strategist's abilities are activated during the planning phase, the strategist gains increased Evasion and a shield for the rest of the round as well as they generate extra energy for the next round.
+If none of the Strategist's abilities are activated during the planning phase, the strategist gains increased **evasion** and a shield for the rest of the round as well as they generate extra energy for the next round.
 
 #### 3.5.3. Key Combat Attributes
 
-- Speed
-- Area of Effect
-- Evasion
-- Resistance
-- Accuracy
+- **Speed**
+- **Area of Effect**
+- **Evasion**
+- **Resistance**
+- **Accuracy**
 
 ### 3.6. Titans
 
 Titans are colossal beings of immense stature, boasting unparalleled durability and the ability to cover large swaths of the battlefield. These towering juggernauts are most commonly found anchoring the front lines, where their imposing size allows them to occupy a large area barricading enemy advancements and dominating the forefront.
 
-The defining feature of Titans lies in their exceptional health pools and resistance which makes them formidable tanks, capable of absorbing substantial amounts of damage without faltering. Yet, Titans are not merely bastions of defense, their sheer might knows no bounds. They wield the power to unleash devastating large attacks, wreaking havoc on enemy forces and their front lines
+The defining feature of Titans lies in their exceptional health pools and resistance which makes them formidable tanks, capable of absorbing substantial amounts of **damage** without faltering. Yet, Titans are not merely bastions of defense, their sheer might knows no bounds. They wield the power to unleash devastating large attacks, wreaking havoc on enemy forces and their front lines
 
 Incorporate Titans into your strategy wisely, utilizing their size and resilience to bolster your team, trample the enemies and secure victory.
 
 #### 3.6.1. Play Style
 
-Titans deal more damage the closer they are to their target with the damage being spread based on the Titan's area of effect. The damage is reduced as it spreads.
+Titans deal more **damage** the closer they are to their target with the **damage** being spread based on the Titan's **area of effect**. The **damage** is reduced as it spreads.
 
 #### 3.6.2. Signature Passive
 
-If none of the Titan's abilities are activated during the planning phase, the titan gains Health Regeneration.
+If none of the Titan's abilities are activated during the planning phase, the titan gains **health regeneration** for the rest of the turn.
 
-If at least one of the Titan's abilities is activated during the planning phase, the titan gains increased damage and resistance for the rest of the round.
+If at least one of the Titan's abilities is activated during the planning phase, the titan gains increased **damage** and **resistance** for the rest of the round.
 
 #### 3.6.3. Key Combat Attributes
 
-- Health
-- Resistance
-- Damage
-- Area of Effect
-- Health Regeneration
+- **Health**
+- **Resistance**
+- **Damage**
+- **Area of Effect**
+- **Health Regeneration**
