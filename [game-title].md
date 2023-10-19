@@ -62,9 +62,9 @@ Defensive attributes are primarily focused on a character's ability to withstand
 - **Health Regeneration:** The speed at which a character naturally recovers health during battles.
 - **Healing Power:** The character's ability to restore health to themselves or others.
 - **Resistance:** The character's defensive strength, reducing the damage received from opponents.
-- \***\*Evasion**:\*\* The character's ability to dodge incoming attacks.
-- **Block **Power**:** The ability of a character to block incoming damage.
-- **Block Chance:\*\*\*\*** The likelihood of a character successfully blocking an incoming attack.
+- **Evasion:** The character's ability to dodge incoming attacks.
+- **Block Power:** The ability of a character to block incoming damage.
+- **Block Chance:** The likelihood of a character successfully blocking an incoming attack.
 
 #### 2.2.3. General Attributes
 
