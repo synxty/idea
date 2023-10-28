@@ -59,7 +59,6 @@ Offensive attributes are primarily focused on a character's ability to deal dama
 Defensive attributes are primarily focused on a character's ability to withstand, mitigate, or avoid damage from opponents. These attributes are crucial for characters with tank, support, or healing roles, as they enable these characters to endure attacks, protect allies, and keep the team or themselves alive in battle.
 
 - **Health:** The amount of damage a character can withstand before being defeated.
-- **Health Regeneration:** The speed at which a character naturally recovers health during battles.
 - **Healing Power:** The character's ability to restore health to themselves or others.
 - **Resistance:** The character's defensive strength, reducing the damage received from opponents.
 - **Evasion:** The character's ability to dodge incoming attacks.
@@ -162,7 +161,6 @@ If at least one of the Healer's abilities is activated during the planing phase,
 
 - **Healing Power**
 - **Evasion**
-- **Health Regeneration**
 - **Life Steal**
 - **Health**
 
@@ -265,4 +263,60 @@ If at least one of the Titan's abilities is activated during the planning phase,
 - **Resistance**
 - **Damage**
 - **Area of Effect**
-- **Health Regeneration**
+
+## 4. Battlefield
+
+The battlefield is composed of 72 triangle tiles arranged in a 12 columns by 6 rows grid. Each tile represents a specific location where characters can be placed. The tiles are initially isolated with a small gap between them. When characters are placed next to each other, the respective tiles connect, removing the gap between them and activating adjacency effects. Tiles can only connect through its sides, not its vertices.
+
+## 5. Effects
+
+### 5.1. Character Effects
+
+Character effects encompass changes to a character's state and combat attributes, which can be applied through abilities from enemies, allies, or even the characters themselves. These effects can be both positive and negative, and they remain active until the end of the next round unless they're cleared before that. Furthermore, some effects can stack, potentially compounding their impact on the character's performance.
+
+These effects introduce a layer of strategic depth to the gameplay, where timing and the choice of abilities are critical in achieving victory. Whether you're boosting a character's damage output, applying crowd control, or providing protection, character effects are a versatile and indispensable tool in your tactical arsenal.
+
+#### 5.1.1. Character General Effects
+
+- **Regeneration:** At the end of the round, regenerate a percentage of the character's **Health**. Can stack.
+- **Healing Blocked:** Prevents a character from receiving any form of healing. Can not stack.
+- **Taunting:** Forces enemies to target this character unless another ally taunting is closer to them. Can not stack.
+- **Stealth:** Enemies can't target this character unless there are no other allies on the battlefield or they also have stealth. Can not stack.
+- **Invincible:** Prevents a character from being defeated. If incoming damage would defeat the character, the character's **Health** is set to 1 instead. Can not stack.
+
+#### 5.1.2. Character Attribute Effects
+
+- **Damage Boost:** Increases the character's **Damage** by a percentage. Can stack.
+- **Damage Reduction:** Decreases the character's **Damage** by a percentage. Can stack.
+- **Speed Boost:** Increases the character's **Speed** by a percentage. Can stack.
+- **Speed Reduction:** Decreases the character's **Speed** by a percentage. Can stack.
+- **Resistance Boost:** Increases the character's **Resistance** by a percentage. Can stack.
+- **Resistance Reduction:** Decreases the character's **Resistance** by a percentage. Can stack.
+- **Accuracy Boost:** Increases the character's **Accuracy** by a percentage. Can stack.
+- **Accuracy Reduction:** Decreases the character's **Accuracy** by a percentage. Can stack.
+- **Evasion Boost:** Increases the character's **Evasion** by a percentage. Can stack.
+- **Evasion Reduction:** Decreases the character's **Evasion** by a percentage. Can stack.
+
+#### 5.1.3. Character Type Effects
+
+- **Paralyzed:** Paralyzed characters are unable to cast abilities. Can only be applied from characters with the **Electric** type. Can not stack.
+- **Dizzy:** Dizzy characters are unable to cast abilities. Can only be applied from characters with the **Air** type. Can not stack.
+- **Frozen:** Frozen characters can not move from their tile. Can only be applied from characters with the **Ice** type. Can not stack.
+- **Rooted:** Rooted characters can not move from their tile. Can only be applied from characters with the **Ground** type. Can not stack.
+- **Burning:** At the end of the round, burning characters take a percentage of **Damage** from the characters that applied that effect. Can only be applied from characters with the **Fire** type. Can stack.
+- **Drowning:** At the end of the round, drowning characters take a percentage of **Damage** from characters that applied that effect. Can only be applied from characters with the **Water** type. Can stack.
+
+#### 5.1.4. Character Soul Effects
+
+- **Blessed:** Blessed characters can not have their positive effects removed. Can only be applied from characters with the **Light** soul. Can not stack.
+- **Immune:** Negative effects can not be applied to immune characters. Can only be applied from characters with the **Light** soul. Can not stack.
+- **Cursed:** Cursed characters can not have their negative effects removed. Can only be applied from characters with the **Dark** soul. Can not stack.
+- **Suppressed:** Positive effects can not be applied to suppressed characters. Can only be applied from characters with the **Dark** soul. Can not stack.
+
+### 5.2. Battlefield Effects
+
+### 5.3. Adjacency Effects
+
+## Notes & Ideas
+
+"Moreover, players can conquer rows in the enemy's territory during the game. If a player's first row of defense, which is the row closest to their opponent's controlled area is empty, control of that row will shift to their opponent. This dynamic adds a strategic layer to the game, as controlling more rows allows players to better position their characters and influence the battlefield."
