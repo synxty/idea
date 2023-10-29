@@ -315,6 +315,31 @@ These effects introduce a layer of strategic depth to the gameplay, where timing
 
 ### 5.2. Battlefield Effects
 
+Battlefield effects are global alterations that influence the entire battlefield, providing both challenges and opportunities to all characters. Triggered by specific character abilities, these effects persist for a duration of 3 rounds, significantly impacting the course of battle. Unlike character effects, battlefield effects cannot be cleared prematurely, and only one battlefield effect can be active at a time.
+
+One distinctive feature of battlefield effects is their ability to trigger character effects, further intensifying the tactical depth of the game. Whether the battlefield is set ablaze, shrouded in mist, or undergoing other dynamic changes, these effects play a pivotal role in shaping the battlefield's strategic landscape. Timing and adapting to these global alterations become essential for any player striving for victory.
+
+#### 5.2.1. Battlefield Type Effects
+
+- **Inferno:** While this battlefield effect is active, **Frozen** effect is disabled, **Burning** effect is doubled and characters with the **Fire** type become immune to **Burning**.
+- **Aquarium:** While this battlefield effect is active, **Burning** effect is disabled, **Drowning** effect is doubled and characters with the **Water** type become immune to **Drowning**.
+- **Igloo:** While this battlefield effect is active, **Dizzy** effect is disabled. Every character with the **Ice** type can apply **Frozen** and become immune to it.
+- **Electric Field:** While this battlefield effect is active, **Drowning** effect is disabled. Every character with the **Electric** type can apply **Paralyzed** and become immune to it.
+- **Sandstorm:** While this battlefield effect is active, **Paralyzed** effect is disabled. Every character with the **Ground** type can apply **Rooted** and become immune to it.
+- **Hurricane:** While this battlefield effect is active, **Rooted** effect is disabled. Every character with the **Air** type can apply **Dizzy** and become immune to it.
+
+#### 5.2.2. Battlefield Soul Effects
+
+- **Nightmare:** While this battlefield effect is active, **Blessed** and **Immune** effects are disabled. Every character with the **Light** soul get **Cursed** while characters with the **Dark** soul become immune to **Cursed** and **Suppressed**.
+- **Sanctuary:** While this battlefield effect is active, **Cursed** and **Suppressed** effects are disabled. Every character with the **Light** soul get **Blessed** while characters with the **Dark** soul can not get **Blessed** nor **Immune**.
+
+#### 5.2.3. Battlefield Origin Effects
+
+- **Cyber Hub**: While this battlefield effect is active, **Tech** characters get **Immune**, **Damage Boost** and **Speed Boost**.
+- **Biome**: While this battlefield effect is active, **Bio** characters get **Immune**, **Damage Boost** and **Speed Boost**.
+- **Interstellar Nexus**: While this battlefield effect is active, **Cosmic** characters get **Immune**, **Damage Boost** and **Speed Boost**.
+- **Holy Temple**: While this battlefield effect is active, **Mystic** characters get **Immune**, **Damage Boost** and **Speed Boost**.
+
 ### 5.3. Adjacency Effects
 
 ## Notes & Ideas
