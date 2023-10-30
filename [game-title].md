@@ -24,7 +24,7 @@ Before the game, players must assemble a squad of 5 characters available on thei
 
 Besides roles, players also have to keep in mind a character's type, origin, and soul as these traits can be used to counter the opposition.
 
-## 2. Characters Attributes & Stats
+## 2. Characters Attributes
 
 ### 2.1. Profile Attributes
 
@@ -341,6 +341,32 @@ One distinctive feature of battlefield effects is their ability to trigger chara
 - **Holy Temple**: While this battlefield effect is active, **Mystic** characters get **Immune**, **Damage Boost** and **Speed Boost**.
 
 ### 5.3. Adjacency Effects
+
+Adjacency Effects are strategic and slight alterations triggered by the placement of characters on the battlefield. Unlike battlefield effects, which impact the entire battlefield, adjacency effects are specific to character positioning and will only activate when characters are placed next to each other. A tile is considered adjacent to another tile if they are connected through their sides, not their vertices.
+
+These effects vary based on the row where the character is positioned, adding depth to players' decision-making, as they strive to maximize their characters' potential by optimizing their positions on the battlefield. While these effects are initially set, character abilities can alter them, creating opportunities for players to fine-tune their strategies.
+
+#### 5.3.1. Adjacency Rear Line Effects
+
+Adjacent characters in the **Rear Line** have their **Critical Hit**, **Healing Power**, **Life Steal**, and **Evasion** attributes slightly increased or decreased, depending on whether they are positioned on the player's or opponent's side of the battlefield, respectively.
+
+#### 5.3.2. Adjacency Rear Frontier Effects
+
+Both characters in the **Rear Line** and **Mid Line** that are adjacent through the **Rear Frontier** have their **Health** slightly increased or decreased, depending on whether they are positioned on the player's or opponent's side of the battlefield, respectively.
+
+#### 5.3.3. Adjacency Mid Line Effects
+
+Adjacent characters in the **Mid Line** have their **Resistance**, **Block Power**, and **Healing Power** attributes slightly increased or decreased, depending on whether they are positioned on the player's or opponent's side of the battlefield, respectively.
+
+#### 5.3.4. Adjacency Vanguard Frontier Effects
+
+Both characters in the **Mid Line** and **Vanguard Line** that are adjacent through the **Vanguard Frontier** have their **Resistance** slightly increased or decreased, depending on whether they are positioned on the player's or opponent's side of the battlefield, respectively.
+
+#### 5.3.5. Adjacency Vanguard Line Effects
+
+Adjacent characters in the **Vanguard Line** have their **Accuracy**, **Damage**, **Health**, and **Block Power** attributes slightly increased or decreased, depending on whether they are positioned on the player's or opponent's side of the battlefield, respectively.
+
+## 6. Character Types
 
 ## Notes & Ideas
 
