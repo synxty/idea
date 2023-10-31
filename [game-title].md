@@ -4,15 +4,15 @@ Step into the strategic world of [game-title], a 2-player board and card game wh
 
 ## 1. Game Overview
 
-[game-title] is a 2-player board and card game played on a 3 by 6 grid-based battlefield, where each player strategically maneuvers a squad of 5 characters.
+[game-title] is a 2-player board and card game played on grid-based battlefield, where each player strategically maneuvers a squad of 5 characters.
 
-Each character has three unique abilities that require energy to cast: a basic, a special, and an ultimate. The amount of energy needed to cast an ability is not fixed and can vary. These abilities are represented by cards that are shuffled and drawn from 3 separate decks, one for each type of ability.
+Each character has three unique abilities that require energy to cast: a basic, a special, and an ultimate. The amount of energy needed to cast an ability is not fixed and can vary. These abilities are represented by cards that are shuffled and drawn from three separate decks, one for each type of ability.
 
-At the beginning of the game, both players draw 2 cards from each deck, and their energy bars are fully charged.
+At the beginning of the game, both players draw two cards from each deck, and their energy bars are fully charged.
 
 Rather than traditional turns, players engage in simultaneous gameplay, where each round consists of three phases:
 
-- **Selection Phase:** In this phase, players select 3 cards from their hand, one for each type of ability, and lock them in for the Planing Phase.
+- **Selection Phase:** In this phase, players select three cards from their hand, one for each type of ability, and lock them in for the Planing Phase.
 - **Planing Phase:** During this phase, players can strategically move their characters on the board and choose the ability cards as well as their cast order for the Battle Phase.
 - **Battle Phase:** In this final phase, combat unfolds, abilities are casted, and the round's outcome is determined.
 
@@ -20,7 +20,7 @@ At the end of each round, the cards played are returned to the bottom of the res
 
 The game concludes when one of the players has no characters remaining on the board.
 
-Before the game, players must assemble a squad of 5 characters available on their team's roster. Each team has a roster of 12 characters, 2 for each character role. Since there are 6 different roles and only 5 squad spots available, players must carefully consider their options and select the best combination of characters to achieve victory. Squads can be built with any combination of roles and it's not required that they differ.
+Before the game, players must assemble a squad of five characters available on their team's roster. Each team has a roster of twelve characters, two for each character role. Since there are six different roles and only five squad spots available, players must carefully consider their options and select the best combination of characters to achieve victory. Squads can be built with any combination of roles and it's not required that they differ.
 
 Besides roles, players also have to keep in mind a character's type, origin, and soul as these traits can be used to counter the opposition.
 
@@ -34,9 +34,9 @@ Profile attributes encompass essential information about each character. These a
 - **Name:** The character's unique and distinctive given name. It provides a personal touch to their identity.
 - **Height:** The character's physical stature.
 - **Weight:** The character's body mass.
-- **Type:** The character's elemental affiliation, affecting interactions and damage calculation.
-- **Origin:** The character's place of origin, affecting their appearance, interactions and damage calculation.
-- **Soul:** [TODO]
+- **Type:** The character's elemental affiliation, affecting their appearance, interactions, damage calculation, character effects, and battlefield effects.
+- **Origin:** The character's place of origin, affecting their appearance, interactions, damage calculation, and battlefield effects.
+- **Soul:** The character's soul nature, affecting their appearance, interactions, character effects and battlefield effects.
 - **Role:** The character's designated position or purpose on the team, dictating their abilities and role in battles.
 
 ### 2.2. Combat Attributes
@@ -119,19 +119,19 @@ Within this section, we explore the dynamic range of roles that characters can e
 
 ### 3.1. Assassins
 
-Assassins are shadowy specialists, masters of swift, deadly strikes. Their primary mission is to infiltrate enemy lines, eliminating high-priority targets with single, lethal blows. Excelling at pinpoint precision and delivering devastating **damage**, Assassins disrupt enemy formations, creating opportunities for their comrades.
+Assassins are shadowy specialists, masters of swift, deadly strikes. Their primary mission is to infiltrate enemy lines, eliminating high-priority targets with single, lethal blows. Excelling at pinpoint precision and delivering devastating **Damage**, Assassins disrupt enemy formations, creating opportunities for their comrades.
 
-However, this mastery of offense comes at a cost. Assassins tend to be relatively fragile, with lower **health** and **resistance** compared to other roles. Their survival depends on remaining hidden and avoiding direct confrontations whenever possible. Without adequate protection or support, they can easily succumb to enemy attacks.
+However, this mastery of offense comes at a cost. Assassins tend to be relatively fragile, with lower **Health** and **Resistance** compared to other roles. Their survival depends on remaining hidden and avoiding direct confrontations whenever possible. Without adequate protection or support, they can easily succumb to enemy attacks.
 
 To fully harness the power of Assassins, one must ensure their safety and provide opportunities for them to exploit enemy vulnerabilities. Properly utilized, Assassins can turn the tide of battle, becoming the bane of high-value targets and a crucial asset in achieving victory.
 
 #### 3.1.1. Play Style
 
-Assassin's **damage** is increased the further they jump so it's encourage to position them the furthest away from their target. They are also the only role that can jump over other characters, allowing them to reach their target even if there are enemy characters in the way.
+Assassin's **Damage** is increased the further they jump so it's encourage to position them the furthest away from their target. They are also the only role that can jump over other characters, allowing them to reach their target even if there are enemy characters in the way.
 
 #### 3.1.2. Signature Passive
 
-If at least one of the Assassin's abilities is activated during the planing phase, the Assassin jumps to the furthest available tile adjacent to the furthest enemy character. After casting their abilities, the Assassin returns to their original position and gains stealth for the rest of the round.
+If at least one of the Assassin's abilities is activated during the planing phase, the Assassin jumps to the furthest available tile adjacent to the furthest enemy character. After casting their abilities, the Assassin returns to their original position and gains **Stealth** for the rest of the round.
 
 #### 3.1.3. Key Combat Attributes
 
@@ -143,19 +143,19 @@ If at least one of the Assassin's abilities is activated during the planing phas
 
 ### 3.2. Healers
 
-Healers are the benevolent guardians of the back lines, standing firm in their pivotal role as the lifelines of your team. Their primary objective is the preservation of their comrades' vitality, and they excel in providing essential support to their allies.
+Healers are the benevolent guardians of the rear lines, standing firm in their pivotal role as the lifelines of your team. Their primary objective is the preservation of their comrades' vitality, and they excel in providing essential support to their allies.
 
-While Healers possess remarkable restorative abilities, they are often vulnerable themselves. Their relatively low **health** and **resistance** constitution make them prime targets for enemy assaults. Without adequate protection, they may fall swiftly, leaving your team in a precarious position.
+While Healers possess remarkable restorative abilities, they are often vulnerable themselves. Their relatively low **Health** and **Resistance** constitution make them prime targets for enemy assaults. Without adequate protection, they may fall swiftly, leaving your team in a precarious position.
 
 To maximize their effectiveness, one must take measures to shield their Healers from harm. Whether through the deployment of protective units or strategic positioning, safeguarding these essential support specialists is paramount. They are the backbone of resilience, the source of hope, and the guardians of survival in your quest for victory.
 
 #### 3.2.1. Play Style
 
-Healers **healing power** is increased the closer they are to their target. As they are extremely vulnerable, it's encouraged to position them in the back line and protect them with other characters.
+Healers **Healing Power** is increased the closer they are to their target. As they are extremely vulnerable, it's encouraged to position them in the rear line and protect them with other characters.
 
 #### 3.2.2. Signature Passive
 
-If at least one of the Healer's abilities is activated during the planing phase, the Healer heals adjacent allies for a small amount of **health** in the beginning of the battle phase.
+If at least one of the Healer's abilities is activated during the planing phase, the Healer heals adjacent allies for a small amount of **Health** in the beginning of the battle phase.
 
 #### 3.2.3. Key Combat Attributes
 
@@ -163,12 +163,13 @@ If at least one of the Healer's abilities is activated during the planing phase,
 - **Evasion**
 - **Life Steal**
 - **Health**
+- **Resistance**
 
 ### 3.3. Paladins
 
 Paladins are versatile warriors who can be found at the vanguard of battle or strategically positioned to protect allies.
 
-These adaptable champions can take on the role of bruisers, boasting impressive **health** pools and formidable **resistance** to enemy assaults. While they excel in absorbing incoming **damage** and protecting their team, Paladins are equally adept at delivering punishing attacks to enemies.
+These adaptable champions can take on the role of bruisers, boasting impressive **Health** pools and formidable **Resistance** to enemy assaults. While they excel in absorbing incoming **Damage** and protecting their team, Paladins are equally adept at delivering punishing attacks to enemies.
 
 Incorporate Paladins into your team, and you'll gain access to these dependable guardians, capable of both leading the charge and shielding your squad from harm. Their well-rounded abilities and adaptable nature make them a valuable asset in your quest for victory.
 
@@ -178,7 +179,7 @@ Paladin's play style hinges on the situation as they can be valuable in both the
 
 #### 3.3.2. Signature Passive
 
-If at least one of the Paladin's abilities is activated during the planning phase and the paladin is positioned in the front line, they gain increased **damage** and **resistance** for the rest of the round. If the paladin is positioned anywhere else, they gain increased **block power** and **resistance** for the rest of the round.
+If at least one of the Paladin's abilities is activated during the planning phase and the paladin is positioned in the front line, they gain **Damage Boost** and **Resistance Boost**. If the paladin is positioned anywhere else, they gain two **Resistance Boost**.
 
 #### 3.3.3. Key Combat Attributes
 
@@ -190,17 +191,17 @@ If at least one of the Paladin's abilities is activated during the planning phas
 
 ### 3.4. Rangers
 
-Rangers stand as the vanguard of your team's offensive might, serving as the paramount source of unrelenting **damage**. These nimble marksmen specialize in the art of delivering precision strikes from afar, inflicting devastating harm upon their targets.
+Rangers stand as the vanguard of your team's offensive might, serving as the paramount source of unrelenting **Damage**. These nimble marksmen specialize in the art of delivering precision strikes from afar, inflicting devastating harm upon their targets.
 
-Balancing their unparalleled **damage** output with the need for strategic positioning and protection is crucial. When placed correctly and safeguarded, Rangers become an unstoppable force, capable of decimating adversaries from a safe distance.
+Balancing their unparalleled **Damage** output with the need for strategic positioning and protection is crucial. When placed correctly and safeguarded, Rangers become an unstoppable force, capable of decimating adversaries from a safe distance.
 
-Incorporate Rangers into your strategy shrewdly, recognizing their value as your team's foremost **damage** dealers, while always being mindful of their need for protection.
+Incorporate Rangers into your strategy shrewdly, recognizing their value as your team's foremost **Damage** dealers, while always being mindful of their need for protection.
 
 #### 3.4.1. Play Style
 
 Unless stated otherwise by a specific ability, Rangers exclusively target the closest enemy character.
 
-Rangers deal more **damage** the farther they are from their target, but their **Critical Hit Chance** and **Accuracy** increase as they draw closer. This versatility makes them proficient at engaging both front-line enemies and posing a threat to their back-line.
+Rangers deal more **Damage** the farther they are from their target, but their **Critical Hit Chance** and **Accuracy** increase as they draw closer. This versatility makes them proficient at engaging both vanguard line enemies and posing a threat to their rear line.
 
 #### 3.4.2. Signature Passive
 
@@ -208,7 +209,6 @@ Every round on their turn, Rangers utilize their basic ability for half of the e
 
 #### 3.4.3. Key Combat Attributes
 
-- **Range**
 - **Damage**
 - **Critical Hit**
 - **Critical Hit Chance**
@@ -217,19 +217,19 @@ Every round on their turn, Rangers utilize their basic ability for half of the e
 
 ### 3.5. Strategists
 
-Strategists are the maestros of battlefield control, wielding the power to shape the flow of combat to their advantage. These astute commanders possess a broad array of talents, allowing them to bolster and empower their allies while simultaneously crippling their enemies. Whether they position themselves in the front lines, or strategically hold the rear ranks, they excel at orchestrating the ebb and flow of battle.
+Strategists are the maestros of battlefield control, wielding the power to shape the flow of combat to their advantage. These astute commanders possess a broad array of talents, allowing them to bolster and empower their allies while simultaneously crippling their enemies. Whether they position themselves in the vanguard lines, or strategically hold the rear and mid lines, they excel at orchestrating the ebb and flow of battle.
 
-Armed with the unique ability to manipulate the battlefield with diverse effects, Strategists become linchpins in your tactical maneuvers. Their effectiveness hinges on their **evasion** and **resistance** stats, which ensure their survivability and strategic utility.
+Armed with the unique ability to manipulate the battlefield with diverse effects, Strategists become linchpins in your tactical maneuvers. Their effectiveness hinges on their **Evasion** and **Resistance** attributes, which ensure their survivability and strategic utility.
 
 Integrate Strategists into your ranks, and you'll harness their ability to shift the battlefield's dynamics in your favor. Their multifaceted approach to warfare and unwavering commitment to control make them indispensable in your pursuit of victory.
 
 #### 3.5.1. Play Style
 
-Strategist's play style revolves around **speed** and **area of effect** as it's important to apply effects as soon as possible and to as many characters as possible. Position them accordingly to maximize their abilities.
+Strategist's play style revolves around **Speed** and **Area of Effect** as it's important to apply effects as soon as possible and to as many characters as possible. Position them accordingly to maximize their abilities.
 
 #### 3.5.2. Signature Passive
 
-If none of the Strategist's abilities are activated during the planning phase, the strategist gains increased **evasion** and a shield for the rest of the round as well as they generate extra energy for the next round.
+If none of the Strategist's abilities are activated during the planning phase, the strategist gains increased **Evasion** and a shield for the rest of the round as well as they generate extra energy for the next round.
 
 #### 3.5.3. Key Combat Attributes
 
@@ -243,19 +243,19 @@ If none of the Strategist's abilities are activated during the planning phase, t
 
 Titans are colossal beings of immense stature, boasting unparalleled durability and the ability to cover large swaths of the battlefield. These towering juggernauts are most commonly found anchoring the front lines, where their imposing size allows them to occupy a large area barricading enemy advancements and dominating the forefront.
 
-The defining feature of Titans lies in their exceptional health pools and resistance which makes them formidable tanks, capable of absorbing substantial amounts of **damage** without faltering. Yet, Titans are not merely bastions of defense, their sheer might knows no bounds. They wield the power to unleash devastating large attacks, wreaking havoc on enemy forces and their front lines
+The defining feature of Titans lies in their exceptional health pools and resistance which makes them formidable tanks, capable of absorbing substantial amounts of **Damage** without faltering. Yet, Titans are not merely bastions of defense, their sheer might knows no bounds. They wield the power to unleash devastating large attacks, wreaking havoc on enemy forces and their front lines
 
 Incorporate Titans into your strategy wisely, utilizing their size and resilience to bolster your team, trample the enemies and secure victory.
 
 #### 3.6.1. Play Style
 
-Titans deal more **damage** the closer they are to their target with the **damage** being spread based on the Titan's **area of effect**. The **damage** is reduced as it spreads.
+Titans deal more **Damage** the closer they are to their target with the **Damage** being spread based on the Titan's **Area of Effect**. The **Damage** is reduced as it spreads.
 
 #### 3.6.2. Signature Passive
 
-If none of the Titan's abilities are activated during the planning phase, the titan gains **health regeneration** for the rest of the turn.
+If none of the Titan's abilities are activated during the planning phase, the titan gains **Regeneration**.
 
-If at least one of the Titan's abilities is activated during the planning phase, the titan gains increased **damage** and **resistance** for the rest of the round.
+If at least one of the Titan's abilities is activated during the planning phase, the titan gains **Damage Boost** and **Resistance Boost**.
 
 #### 3.6.3. Key Combat Attributes
 
@@ -263,10 +263,13 @@ If at least one of the Titan's abilities is activated during the planning phase,
 - **Resistance**
 - **Damage**
 - **Area of Effect**
+- **Accuracy**
 
 ## 4. Battlefield
 
-The battlefield is composed of 72 triangle tiles arranged in a 12 columns by 6 rows grid. Each tile represents a specific location where characters can be placed. The tiles are initially isolated with a small gap between them. When characters are placed next to each other, the respective tiles connect, removing the gap between them and activating adjacency effects. Tiles can only connect through its sides, not its vertices.
+The battlefield is composed of 42 triangle tiles arranged in a 7 columns by 6 rows grid. Each tile represents a specific location where a character can be placed. The tiles are initially isolated with a small gap between them. When characters are placed next to each other, the respective tiles connect, removing the gap between them and activating adjacency effects.
+
+Each player starts the game with 3 rows of tiles under their control, the **Vanguard Line**, the **Mid Line**, and the **Rear Line**. The **Vanguard Line** is the row closest to the opponent's controlled area followed by the **Mid Line** and the **Rear Line**. It's important to name the rows as each row has its own set of adjacency effects.
 
 ## 5. Effects
 
