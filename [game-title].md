@@ -371,6 +371,68 @@ Adjacent characters in the **Vanguard Line** have their **Accuracy**, **Damage**
 
 ## 6. Character Types
 
-## Notes & Ideas
+Character types play a significant role in defining a character's identity in [game-title]. These types are elemental affiliations that impact how characters interact with the battlefield and other characters. Understanding the strengths and weaknesses of each type is crucial for crafting a well-balanced and effective squad.
 
-"Moreover, players can conquer rows in the enemy's territory during the game. If a player's first row of defense, which is the row closest to their opponent's controlled area is empty, control of that row will shift to their opponent. This dynamic adds a strategic layer to the game, as controlling more rows allows players to better position their characters and influence the battlefield."
+### 6.1. Elements and Combinations
+
+There's a total of 21 types in the game: **Fire**, **Water**, **Ice**, **Ground**, **Electric**, **Air** or a combination of two of these elements. Here's a list of all the possible combinations and their respective abbreviations:
+
+- Fire (**F**)
+- Water (**W**)
+- Ice (**I**)
+- Ground (**G**)
+- Electric (**E**)
+- Air (**A**)
+- Fire & Water (**FW**)
+- Fire & Ice (**FI**)
+- Fire & Electric (**FE**)
+- Fire & Ground (**FG**)
+- Fire & Air (**FA**)
+- Water & Ice (**WI**)
+- Water & Electric (**WE**)
+- Water & Ground (**WG**)
+- Air & Water (**AW**)
+- Ice & Electric (**IE**)
+- Ice & Ground (**IG**)
+- Ice & Air (**IA**)
+- Electric & Ground (**EG**)
+- Electric & Air (**EA**)
+- Ground & Air (**GA**)
+
+### 6.2. Strengths and Weaknesses
+
+Character types exhibit unique strengths and weaknesses, making team composition and strategic choices a critical aspect of gameplay. To help you better understand these dynamics, we categorize these strengths and weaknesses into different levels:
+
+- **Ultra Weak Against (UWA):** These character types are exceptionally vulnerable to the type in question, making them the most unfavorable matchups.
+- **Super Weak Against (SWA):** Character types in this category have a significant disadvantage when facing the specified type.
+- **Weak Against (WA):** While not the most disadvantaged, these types still face challenges when confronting the specified type.
+- **Neutral Against (NA):** This category represents neutral matchups, where neither type has a significant advantage.
+- **Strong Against (SA):** These character types have an edge when pitted against the specified type.
+- **Super Strong Against (SSA):** The specified type is at a significant disadvantage when facing character types in this category.
+- **Ultra Strong Against (USA):** Character types in this category enjoy the most favorable matchups against the specified type.
+
+The following table provides a comprehensive overview of the strengths and weaknesses of character types. Understanding these dynamics is crucial for devising effective strategies and forming balanced squads. Each character type is categorized based on its interactions with other types. This table will serve as your guide to making informed decisions when assembling your team and engaging in battles.
+
+|        | UWA |        SWA        |          WA          |                   NA                   |          SA          |        SSA        | USA |
+| :----- | :-: | :---------------: | :------------------: | :------------------------------------: | :------------------: | :---------------: | :-: |
+| **F**  |     |        WG         | W, G, FW, FG, WE, EG |        F, E, FE, WI, AW, IG, GA        | I, A, FI, FA, IE, EA |        IA         |     |
+| **W**  |     |        EA         | E, A, WE, AW, EG, GA |        W, G, FE, FA, WG, IE, IA        | F, I, FW, FG, WI, IG |        FI         |     |
+| **I**  |     |        EG         | F, W, FI, FA, WI, AW |        I, A, FE, FG, WE, WG, IA        | E, G, IE, IG, EA, GA |        EG         |     |
+| **E**  |     |        IG         | I, G, FI, FG, IE, EG |        F, E, FE, WI, WG, IA, GA        | W, A, FW, FA, WE, EA |        AW         |     |
+| **G**  |     |        IA         | I, A, WI, AW, IG, GA |        W, G, FI, FA, WG, IE, EA        | F, E, FW, FG, WE, EG |        FE         |     |
+| **A**  |     |        FE         | F, E, FI, FA, IE, EA |        I, A, FW, FG, WE, IA, EG        | W, G, WI, AW, IG, GA |        WG         |     |
+| **FW** |     |    WE, WG, EG     | W, E, G, AW, EA, GA  |             A, FW, FE, FG              |  F, FA, WI, IE, IG   |       I, IA       | FI  |
+| **FI** | FW  |       W, WG       |  F, FG, WI, WE, AW   |             G, FI, FE, FA              | I, E, A, IG, EG, GA  |    IE, IA, EA     |     |
+| **FE** |     | G, FG, WG, IG, EG |                      | F, W, I, E, FW, FI, FE, WI, WE, IE, GA |                      | A, FA ,AW, IA, EA |     |
+| **FG** |     |        WG         | W, G, FI, FA, IE, EA |        I, A, FW, FG, WE, IA, EG        | F, E, FI, FA, IE, EA |        FE         |     |
+| **FA** |     |        FE         | F, E, FW, FG, WE, EG |        W, G, FI, FA, WG, IE, EA        | I, A, WI, AW, IG, GA |        IA         |     |
+| **WI** |     |        AW         | W, A, FW, FA, WE, EA |        F, E, FE, WI, WG, IA, GA        | I, G, FI, FG, IE, EG |        IG         |     |
+| **WE** |     |        EG         | E, G, IE, IG, EA, GA |        I, A, FE, FG, WE, WG, IA        | F, W, FI, FA, WI, AW |        FW         |     |
+| **WG** |     | A, AW, IA, EA, GA |                      | W, I, E, G, FA, WI, WE, WG, IE, IG, EG |                      | F, FW, FI, FE, FG |     |
+| **AW** | EA  |       E, FE       |  A, FA, WE, IE, EG   |             F, AW, IA, GA              | W, I, G, FW, FI, FG  |    WI, WG, IG     |     |
+| **IE** |     |        FI         | F, I, FW, FG, WI, IG |        W, G, FE, FA, WG, IE, IA        | E, A, WE, AW, EG, GA |        EA         |     |
+| **IG** |     |    WI, AW, IA     | W, I, A, FW, FI, FA  |             F, WG, IG, GA              |  G, FG, WE, IE, EA   |       E, FE       | EG  |
+| **IA** |     | F, FW, FI, FE, FA |                      | W, I, E, A, FG, WI, WE, AW, IE, IA, EA |                      | G, WG, IG, EG, GA |     |
+| **EG** | IG  |       I, IA       |  G, FI, WI, IE, GA   |             A, FG, WG, EG              | F, W, E, FA, AW, EA  |    FW, FE, WE     |     |
+| **EA** |     |    FI, FE, IE     | F, I, E, FG, IG, EG  |             G, FA, IA, EA              |  A, FW, WI, WE, GA   |       W, WG       | AW  |
+| **GA** |     |        IA         | I, A, FI, FA, IE, EA |        F, E, FE, WI, AW, IG, GA        | W, G, FW, FG, WE, EG |        WG         |     |
