@@ -1,5 +1,10 @@
 theme: jekyll-theme-minimal
 title: '[game-title] homepage'
 description: Bookmark this to keep an eye on my project updates!
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
 include:
   - '[game-title].md'
