@@ -407,7 +407,7 @@ The following table provides a comprehensive overview of the strengths and weakn
 
 ## 7. Character Origins
 
-Alongside **Character Types**, character origins provide a deeper layer of identity, background, and how characters handle their powers. Understanding the strengths and weaknesses of each origin is essential for crafting a well-balanced and effective squad.
+Alongside **Character Types**, character origins provide a deeper layer of identity, background, and how characters handle their powers. Understanding the strengths and weaknesses of each origin is essential for crafting a well-balanced and effective squad. Character origins not only define the source of their powers but also bestow unique empowerments upon different **Character Types**.
 
 ### 7.1. Origins Overview
 
@@ -434,3 +434,14 @@ The following table provides a comprehensive overview of the strengths and weakn
 | **C** |      M       |      C, T       |       B        |
 | **M** |      T       |      M, B       |       C        |
 | **T** |      B       |      T, C       |       M        |
+
+### 7.3. Origin Empowerments
+
+Origin Empowerments are essential in shaping the way characters interact with the elemental forces. The following table illustrates the relationships between character origins and types, showing the empowerments each origin provides to character types. This visual aid serves as a valuable resource for crafting your ideal team and optimizing your strategic choices in battles.
+
+|       | Air | Electric | Fire | Ice | Ground | Water |
+| :---: | :-: | :------: | :--: | :-: | :----: | :---: |
+| **B** |     |          |      |  ↑  |   ↑    |   ↑   |
+| **C** |     |    ↑     |  ↑   |  ↑  |        |       |
+| **M** |  ↑  |          |      |     |   ↑    |   ↑   |
+| **T** |  ↑  |    ↑     |  ↑   |     |        |       |
