@@ -2,13 +2,4 @@ remote_theme: sighingnow/jekyll-gitbook
 title: '[game-title] idea'
 toc:
   enabled: true
-  h_min: 1
-  h_max: 3
 description: Bookmark this to keep an eye on my project updates!
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - 'README.md'
