@@ -1,5 +1,12 @@
 remote_theme: sighingnow/jekyll-gitbook
 title: '_game-title_ idea'
+version: 1.0
+gitbook_version: 3.2.3
+
+url: 'https://synxty.github.io'
+baseurl: '/idea'
+rss: RSS
+syntax_highlighter_style: colorful
 toc:
   enabled: true
   h_min: 1
