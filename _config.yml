@@ -1,5 +1,5 @@
 remote_theme: sighingnow/jekyll-gitbook
-title: '[game-title] idea'
+title: '_game-title_ idea'
 toc:
   enabled: true
 description: Bookmark this to keep an eye on my project updates!

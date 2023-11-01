@@ -1,10 +1,10 @@
-# [game-title]
+# _game-title_
 
-Step into the strategic world of [game-title], a 2-player board and card game where you command a squad of 5 characters, each with unique powers and abilities. Engage in simultaneous gameplay across three phases per round: selection, planning, and battle. Assemble your squad wisely from a roster of characters, considering roles, types, origins, and souls to surprise your opponent. Victory awaits the mastermind who outmaneuvers and outwits their rival by eliminating all of their opponent's characters!
+Step into the strategic world of _game-title_, a 2-player board and card game where you command a squad of 5 characters, each with unique powers and abilities. Engage in simultaneous gameplay across three phases per round: selection, planning, and battle. Assemble your squad wisely from a roster of characters, considering roles, types, origins, and souls to surprise your opponent. Victory awaits the mastermind who outmaneuvers and outwits their rival by eliminating all of their opponent's characters!
 
 ## 1. Game Overview
 
-[game-title] is a 2-player board and card game played on grid-based battlefield, where each player strategically maneuvers a squad of 5 characters.
+_game-title_ is a 2-player board and card game played on grid-based battlefield, where each player strategically maneuvers a squad of 5 characters.
 
 Each character has three unique abilities that require energy to cast: a basic, a special, and an ultimate. The amount of energy needed to cast an ability is not fixed and can vary. These abilities are represented by cards that are shuffled and drawn from three separate decks, one for each type of ability.
 
