@@ -27,4 +27,7 @@ regenerate: true
 markdown_ext: markdown,mkdown,mkdn,mkd,md
 
 plugins:
+  - jekyll-feed
   - jekyll-readme-index
+  - jemoji
+  - jekyll-toc
