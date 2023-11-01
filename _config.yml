@@ -2,6 +2,8 @@ remote_theme: sighingnow/jekyll-gitbook
 title: '_game-title_ idea'
 toc:
   enabled: true
+  h_min: 1
+  h_max: 3
 description: Bookmark this to keep an eye on my project updates!
 markdown: kramdown
 kramdown:
@@ -14,6 +16,8 @@ kramdown:
   syntax_highlighter_opts:
     guess_lang: true
 regenerate: true
+
+markdown_ext: markdown,mkdown,mkdn,mkd,md
 
 plugins:
   - jekyll-readme-index
