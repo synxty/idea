@@ -371,68 +371,66 @@ Adjacent characters in the **Vanguard Line** have their **Accuracy**, **Damage**
 
 ## 6. Character Types
 
-Character types play a significant role in defining a character's identity in [game-title]. These types are elemental affiliations that impact how characters interact with the battlefield and other characters. Understanding the strengths and weaknesses of each type is crucial for crafting a well-balanced and effective squad.
+Character types play a significant role in defining a character's identity. These types are elemental affiliations that impact how characters interact with the battlefield and other characters, and which elements their abilities derive from. Understanding the strengths and weaknesses of each type is crucial for crafting a well-balanced and effective squad.
 
-### 6.1. Elements and Combinations
+### 6.1. Types
 
-There's a total of 21 types in the game: **Fire**, **Water**, **Ice**, **Ground**, **Electric**, **Air** or a combination of two of these elements. Here's a list of all the possible combinations and their respective abbreviations:
+There's a total of six types:
 
-- Fire (**F**)
-- Water (**W**)
-- Ice (**I**)
-- Ground (**G**)
-- Electric (**E**)
-- Air (**A**)
-- Fire & Water (**FW**)
-- Fire & Ice (**FI**)
-- Fire & Electric (**FE**)
-- Fire & Ground (**FG**)
-- Fire & Air (**FA**)
-- Water & Ice (**WI**)
-- Water & Electric (**WE**)
-- Water & Ground (**WG**)
-- Air & Water (**AW**)
-- Ice & Electric (**IE**)
-- Ice & Ground (**IG**)
-- Ice & Air (**IA**)
-- Electric & Ground (**EG**)
-- Electric & Air (**EA**)
-- Ground & Air (**GA**)
+- **Air (A):** Air characters derive their abilities from the wind and atmosphere.
+- **Electric (E):** Electric characters channel the power of electricity and lightning.
+- **Fire (F):** Fire characters wield the energy of flames and heat.
+- **Ground (G):** Ground characters draw strength from the earth and terrain.
+- **Ice (I):** Ice characters command the force of ice and cold.
+- **Water (W):** Water characters tap into the flow of currents and rain.
 
 ### 6.2. Strengths and Weaknesses
 
 Character types exhibit unique strengths and weaknesses, making team composition and strategic choices a critical aspect of gameplay. To help you better understand these dynamics, we categorize these strengths and weaknesses into different levels:
 
-- **Ultra Weak Against (UWA):** These character types are exceptionally vulnerable to the type in question, making them the most unfavorable matchups.
-- **Super Weak Against (SWA):** Character types in this category have a significant disadvantage when facing the specified type.
-- **Weak Against (WA):** While not the most disadvantaged, these types still face challenges when confronting the specified type.
-- **Neutral Against (NA):** This category represents neutral matchups, where neither type has a significant advantage.
-- **Strong Against (SA):** These character types have an edge when pitted against the specified type.
-- **Super Strong Against (SSA):** The specified type is at a significant disadvantage when facing character types in this category.
-- **Ultra Strong Against (USA):** Character types in this category enjoy the most favorable matchups against the specified type.
+- **Super Weak Against:** Character types in this category have a significant disadvantage when facing the specified type.
+- **Weak Against:** While not the most disadvantaged, these types still face challenges when confronting the specified type.
+- **Neutral Against:** This category represents neutral matchups, where neither type has a significant advantage.
+- **Strong Against:** These character types have an edge when pitted against the specified type.
+- **Super Strong Against:** Character types in this category hold a significant advantage when facing the specified type.
 
 The following table provides a comprehensive overview of the strengths and weaknesses of character types. Understanding these dynamics is crucial for devising effective strategies and forming balanced squads. Each character type is categorized based on its interactions with other types. This table will serve as your guide to making informed decisions when assembling your team and engaging in battles.
 
-|        | UWA |        SWA        |          WA          |                   NA                   |          SA          |        SSA        | USA |
-| :----- | :-: | :---------------: | :------------------: | :------------------------------------: | :------------------: | :---------------: | :-: |
-| **F**  |     |        WG         | W, G, FW, FG, WE, EG |        F, E, FE, WI, AW, IG, GA        | I, A, FI, FA, IE, EA |        IA         |     |
-| **W**  |     |        EA         | E, A, WE, AW, EG, GA |        W, G, FE, FA, WG, IE, IA        | F, I, FW, FG, WI, IG |        FI         |     |
-| **I**  |     |        EG         | F, W, FI, FA, WI, AW |        I, A, FE, FG, WE, WG, IA        | E, G, IE, IG, EA, GA |        EG         |     |
-| **E**  |     |        IG         | I, G, FI, FG, IE, EG |        F, E, FE, WI, WG, IA, GA        | W, A, FW, FA, WE, EA |        AW         |     |
-| **G**  |     |        IA         | I, A, WI, AW, IG, GA |        W, G, FI, FA, WG, IE, EA        | F, E, FW, FG, WE, EG |        FE         |     |
-| **A**  |     |        FE         | F, E, FI, FA, IE, EA |        I, A, FW, FG, WE, IA, EG        | W, G, WI, AW, IG, GA |        WG         |     |
-| **FW** |     |    WE, WG, EG     | W, E, G, AW, EA, GA  |             A, FW, FE, FG              |  F, FA, WI, IE, IG   |       I, IA       | FI  |
-| **FI** | FW  |       W, WG       |  F, FG, WI, WE, AW   |             G, FI, FE, FA              | I, E, A, IG, EG, GA  |    IE, IA, EA     |     |
-| **FE** |     | G, FG, WG, IG, EG |                      | F, W, I, E, FW, FI, FE, WI, WE, IE, GA |                      | A, FA ,AW, IA, EA |     |
-| **FG** |     |        WG         | W, G, FI, FA, IE, EA |        I, A, FW, FG, WE, IA, EG        | F, E, FI, FA, IE, EA |        FE         |     |
-| **FA** |     |        FE         | F, E, FW, FG, WE, EG |        W, G, FI, FA, WG, IE, EA        | I, A, WI, AW, IG, GA |        IA         |     |
-| **WI** |     |        AW         | W, A, FW, FA, WE, EA |        F, E, FE, WI, WG, IA, GA        | I, G, FI, FG, IE, EG |        IG         |     |
-| **WE** |     |        EG         | E, G, IE, IG, EA, GA |        I, A, FE, FG, WE, WG, IA        | F, W, FI, FA, WI, AW |        FW         |     |
-| **WG** |     | A, AW, IA, EA, GA |                      | W, I, E, G, FA, WI, WE, WG, IE, IG, EG |                      | F, FW, FI, FE, FG |     |
-| **AW** | EA  |       E, FE       |  A, FA, WE, IE, EG   |             F, AW, IA, GA              | W, I, G, FW, FI, FG  |    WI, WG, IG     |     |
-| **IE** |     |        FI         | F, I, FW, FG, WI, IG |        W, G, FE, FA, WG, IE, IA        | E, A, WE, AW, EG, GA |        EA         |     |
-| **IG** |     |    WI, AW, IA     | W, I, A, FW, FI, FA  |             F, WG, IG, GA              |  G, FG, WE, IE, EA   |       E, FE       | EG  |
-| **IA** |     | F, FW, FI, FE, FA |                      | W, I, E, A, FG, WI, WE, AW, IE, IA, EA |                      | G, WG, IG, EG, GA |     |
-| **EG** | IG  |       I, IA       |  G, FI, WI, IE, GA   |             A, FG, WG, EG              | F, W, E, FA, AW, EA  |    FW, FE, WE     |     |
-| **EA** |     |    FI, FE, IE     | F, I, E, FG, IG, EG  |             G, FA, IA, EA              |  A, FW, WI, WE, GA   |       W, WG       | AW  |
-| **GA** |     |        IA         | I, A, FI, FA, IE, EA |        F, E, FE, WI, AW, IG, GA        | W, G, FW, FG, WE, EG |        WG         |     |
+|       | Super Weak Against | Weak Against | Neutral Against | Strong Against | Super Strong Against |
+| :---: | :----------------: | :----------: | :-------------: | :------------: | :------------------: |
+| **A** |         E          |      F       |      A, I       |       G        |          W           |
+| **E** |         G          |      I       |      E, F       |       W        |          A           |
+| **F** |         W          |      G       |      F, E       |       A        |          I           |
+| **G** |         I          |      A       |      G, W       |       F        |          E           |
+| **I** |         F          |      W       |      I, A       |       E        |          G           |
+| **W** |         A          |      E       |      W, G       |       I        |          F           |
+
+## 7. Character Origins
+
+Alongside **Character Types**, character origins provide a deeper layer of identity, background, and how characters handle their powers. Understanding the strengths and weaknesses of each origin is essential for crafting a well-balanced and effective squad.
+
+### 7.1. Origins Introduction
+
+There are four distinctive origins in the game, each shaping the character's story and the way they interact with the world:
+
+- **Biological (B):** Bio characters harness their powers from their physical traits, genetics, natural talents, or the living organisms around them.
+- **Cosmic (C):** Cosmic characters channel their powers through the cosmic forces, celestial events, or otherworldly influences, connecting them to the vast universe.
+- **Mystic (M):** Mystic characters delve into arcane knowledge, rituals, spiritual connections, and divine influences, embracing the mysticism that surrounds them.
+- **Technological (T):** Tech characters rely on cutting-edge equipment, gadgets, or cyber enhancements to master their powers.
+
+### 7.2. Strengths and Weaknesses
+
+Character origins exhibit unique strengths and weaknesses, making team composition and strategic choices a critical aspect of gameplay. To help you better understand these dynamics, we categorize these strengths and weaknesses into different levels:
+
+- **Weak Against (WA):** Character origins in this category have a disadvantage when facing the specified origin.
+- **Neutral Against (NA):** This category represents neutral matchups, where neither origin has a significant advantage.
+- **Strong Against (SA):** Character origins in this category hold a significant advantage when facing the specified origin.
+
+The following table provides a comprehensive overview of the strengths and weaknesses of character origins. Understanding these dynamics is crucial for devising effective strategies and forming balanced squads. Each character origin is categorized based on its interactions with other origins. This table will serve as your guide to making informed decisions when assembling your team and engaging in battles.
+
+|       | Weak Against | Neutral Against | Strong Against |
+| :---: | :----------: | :-------------: | :------------: |
+| **B** |      C       |      B, M       |       T        |
+| **C** |      M       |      C, T       |       B        |
+| **M** |      T       |      M, B       |       C        |
+| **T** |      B       |      T, C       |       M        |
