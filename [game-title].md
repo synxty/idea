@@ -437,7 +437,9 @@ The following table provides a comprehensive overview of the strengths and weakn
 
 ### 7.3. Origins Empowerments
 
-Origins Empowerments are essential in shaping the way characters interact with the elemental forces. The following table illustrates the relationships between character origins and types, showing the empowerments each origin provides to character types. This visual aid serves as a valuable resource for crafting your ideal team and optimizing your strategic choices in battles.
+Origins Empowerments play a vital role in shaping how characters harness elemental forces. These empowerments enhance the key attributes of a character's role, allowing for more strategic and powerful gameplay.
+
+The following table illustrates the relationships between character origins and types, showing the empowerments each origin provides to character types. This visual aid serves as a valuable resource for crafting your ideal team and optimizing your strategic choices in battles.
 
 |       | Air | Electric | Fire | Ice | Ground | Water |
 | :---: | :-: | :------: | :--: | :-: | :----: | :---: |
@@ -445,3 +447,15 @@ Origins Empowerments are essential in shaping the way characters interact with t
 | **C** |     |    ↑     |  ↑   |  ↑  |        |       |
 | **M** |  ↑  |          |      |     |   ↑    |   ↑   |
 | **T** |  ↑  |    ↑     |  ↑   |     |        |       |
+
+## 8. Character Souls
+
+Character Souls are ethereal essences that enhance characters with strengthened attributes and a unique passive ability. There's two possible distinct souls a character can have: **Light** and **Dark**. **Light Souls** are attuned to benevolent energies and bestow defensive attributes, while **Dark Souls** are fueled by malevolent forces and enhance offensive attributes. These souls play a pivotal role in shaping a character's abilities and interactions on the battlefield.
+
+### 8.1. Light Soul Signature Passive
+
+**Light Souls** slightly boost defensive attributes and have a small chance to apply **Blessed** or **Immune** to allies with their abilities.
+
+### 8.2. Dark Soul Signature Passive
+
+**Dark Souls** slightly boost offensive attributes and have a small chance to apply **Cursed** or **Suppressed** to enemies with their abilities.
