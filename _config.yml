@@ -1,4 +1,4 @@
-theme: sighingnow/jekyll-gitbook
+remote_theme: sighingnow/jekyll-gitbook
 title: '_game-title_ idea'
 description: Bookmark this to keep an eye on my project updates!
 toc: true
