@@ -373,9 +373,9 @@ Adjacent characters in the **Vanguard Line** have their **Accuracy**, **Damage**
 
 Character types play a significant role in defining a character's identity. These types are elemental affiliations that impact how characters interact with the battlefield and other characters, and which elements their abilities derive from. Understanding the strengths and weaknesses of each type is crucial for crafting a well-balanced and effective squad.
 
-### 6.1. Types
+### 6.1. Types Overview
 
-There's a total of six types:
+There are six distinctive types in the game, each drawing their unique powers from the world's elements:
 
 - **Air (A):** Air characters derive their abilities from the wind and atmosphere.
 - **Electric (E):** Electric characters channel the power of electricity and lightning.
@@ -409,7 +409,7 @@ The following table provides a comprehensive overview of the strengths and weakn
 
 Alongside **Character Types**, character origins provide a deeper layer of identity, background, and how characters handle their powers. Understanding the strengths and weaknesses of each origin is essential for crafting a well-balanced and effective squad.
 
-### 7.1. Origins Introduction
+### 7.1. Origins Overview
 
 There are four distinctive origins in the game, each shaping the character's story and the way they interact with the world:
 
