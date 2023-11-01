@@ -435,9 +435,9 @@ The following table provides a comprehensive overview of the strengths and weakn
 | **M** |      T       |      M, B       |       C        |
 | **T** |      B       |      T, C       |       M        |
 
-### 7.3. Origin Empowerments
+### 7.3. Origins Empowerments
 
-Origin Empowerments are essential in shaping the way characters interact with the elemental forces. The following table illustrates the relationships between character origins and types, showing the empowerments each origin provides to character types. This visual aid serves as a valuable resource for crafting your ideal team and optimizing your strategic choices in battles.
+Origins Empowerments are essential in shaping the way characters interact with the elemental forces. The following table illustrates the relationships between character origins and types, showing the empowerments each origin provides to character types. This visual aid serves as a valuable resource for crafting your ideal team and optimizing your strategic choices in battles.
 
 |       | Air | Electric | Fire | Ice | Ground | Water |
 | :---: | :-: | :------: | :--: | :-: | :----: | :---: |
