@@ -26,6 +26,8 @@ Besides roles, players also have to keep in mind a character's type, origin, and
 
 ## 2. Characters Attributes
 
+This section delves into the diverse attributes that shape a character's identity, influence their battlefield performance, and contribute to their overall development. Understanding these attributes is fundamental for players to strategize, build well-rounded teams, and make informed gameplay decisions.
+
 ### 2.1. Profile Attributes
 
 Profile attributes encompass essential information about each character. These attributes offer a comprehensive view of a character's background, identity, and intrinsic qualities, aiding players in crafting their squads and devising winning strategies on the battlefield.
@@ -272,6 +274,8 @@ The battlefield is composed of 42 triangle tiles arranged in a 7 columns by 6 ro
 Each player starts the game with 3 rows of tiles under their control, the **Vanguard Line**, the **Mid Line**, and the **Rear Line**. The **Vanguard Line** is the row closest to the opponent's controlled area followed by the **Mid Line** and the **Rear Line**. It's important to name the rows as each row has its own set of adjacency effects.
 
 ## 5. Effects
+
+This section delves into the intricate web of effects that shape the game's dynamic battles. From character-specific alterations to global battlefield transformations and the strategic nuances brought by character positioning, effects play a pivotal role in determining victory or defeat. Whether you're wielding the powers of light or darkness, manipulating elements, or vying for supremacy, understanding and leveraging these effects is essential for mastering the game's tactical depth.
 
 ### 5.1. Character Effects
 
