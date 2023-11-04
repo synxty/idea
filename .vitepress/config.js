@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: '_game-title_ Docs',
   description: 'Read everything about _game-title_ here!',
-  base: '/repo/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
