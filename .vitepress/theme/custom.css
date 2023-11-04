@@ -5,4 +5,6 @@
 .dark {
   --vp-c-bg: #111;
   --vp-c-bg-soft: #191919;
+  --vp-c-border: #222;
+  --vp-c-divider: #222;
 }
