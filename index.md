@@ -1,3 +1,9 @@
+---
+outline:
+  - 2
+  - 3
+---
+
 # _game-title_
 
 Step into the strategic world of _game-title_, a 2-player board and card game where you command a squad of 5 characters, each with unique powers and abilities. Engage in simultaneous gameplay across three phases per round: selection, planning, and battle. Assemble your squad wisely from a roster of characters, considering roles, types, origins, and souls to surprise your opponent. Victory awaits the mastermind who outmaneuvers and outwits their rival by eliminating all of their opponent's characters!
@@ -463,3 +469,7 @@ Character Souls are ethereal essences that enhance characters with strengthened 
 ### 8.2. Dark Soul Signature Passive
 
 **Dark Souls** slightly boost offensive attributes and have a small chance to apply **Cursed** or **Suppressed** to enemies with their abilities.
+
+## 9. Houses of Mastery
+
+_TODO_
