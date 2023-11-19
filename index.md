@@ -472,4 +472,10 @@ Character Souls are ethereal essences that enhance characters with strengthened 
 
 ## 9. Houses of Mastery
 
+**Houses of Mastery** stand as a fundamental aspect of character development. Before joining a team, every character prospect undergoes an intensive training regimen by enrolling in one of the six distinctive houses, each tailored to a specific role. These houses serve as bastions of knowledge and expertise, shaping characters into formidable warriors of the battlefield by enhancing their attributes according to their role and equipping them with powerful abilities.
+
+Moreover, **Houses of Mastery** also serve as research hubs, constantly exploring and discovering new abilities to push the boundaries of character capabilities.
+
+### 9.1. House of Assassins
+
 _TODO_
