@@ -22,9 +22,9 @@ At the beginning of the game, both players draw two cards from each deck, and th
 
 Rather than traditional turns, players engage in simultaneous gameplay, where each round consists of three phases:
 
-- **Selection Phase:** In this phase, players select three cards from their hand, one for each type of ability, and lock them in for the Planing Phase.
-- **Planing Phase:** During this phase, players can strategically move their champions on the board and choose the ability cards as well as their cast order for the Battle Phase.
-- **Battle Phase:** In this final phase, combat unfolds, abilities are casted, and the round's outcome is determined.
+- **Selection Phase:** In this phase, players select three cards from their hand, one for each type of ability, and lock them in for the Planning Phase.
+- **Planning Phase:** During this phase, players can strategically move their champions on the board and choose the ability cards as well as their cast order for the Battle Phase.
+- **Battle Phase:** In this final phase, the battlefield ignites with combat as champions unleash their abilities. Defeated champions are removed from the board and sent to the graveyard.
 
 At the end of each round, the cards played are returned to the bottom of the respective deck, and each player draws the same amount of cards they used in the previous round so a new one can start.
 
@@ -139,7 +139,7 @@ Assassin's **Damage** is increased the further they jump so it's encourage to po
 
 #### 3.1.2. Signature Passive
 
-If at least one of the Assassin's abilities is activated during the planing phase, the Assassin jumps to the furthest available tile adjacent to the furthest enemy character. After casting their abilities, the Assassin returns to their original position and gains **Stealth** for the rest of the round.
+If at least one of the Assassin's abilities is activated during the planning phase, the Assassin jumps to the furthest available tile adjacent to the furthest enemy character. After casting their abilities, the Assassin returns to their original position and gains **Stealth** for the rest of the round.
 
 #### 3.1.3. Key Combat Attributes
 
@@ -163,7 +163,7 @@ Healers **Healing Power** is increased the closer they are to their target. As t
 
 #### 3.2.2. Signature Passive
 
-If at least one of the Healer's abilities is activated during the planing phase, the Healer heals adjacent allies for a small amount of **Health** in the beginning of the battle phase.
+If at least one of the Healer's abilities is activated during the planning phase, the Healer heals adjacent allies for a small amount of **Health** in the beginning of the battle phase.
 
 #### 3.2.3. Key Combat Attributes
 
