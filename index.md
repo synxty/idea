@@ -6,7 +6,11 @@ outline:
 
 # Synxty
 
-Welcome to the strategic realm of **Synxty**, a captivating 2-player board and card game. In this tactical showdown, you'll take command of a squad comprising 5 unique champions, each wielding distinct powers and abilities. The game unfolds in three dynamic phases per round: Selection, Planning, and Battle. Your task is to skillfully assemble a squad from a diverse roster of champions, considering factors like roles, types, origins, and souls to outsmart your opponent. Victory awaits the mastermind who adeptly maneuvers through each phase, eliminating all of their opponent's champions. Are you ready for the ultimate test of strategy and wit?
+Welcome to the strategic world of **Synxty**, a captivating 2-player board and card game. Assemble and manage a squad of 8 unique champions, each wielding distinct powers and abilities to skillfully maneuver them through the battlefield and defeat your opponent in a tactical showdown.
+
+The game unfolds in three dynamic phases per round: **Selection**, **Planning**, and **Battle**, wherein players take actions simultaneously. Consider champions' combat attributes, abilities, roles, types, origins, and souls when making decisions and devising strategies to defeat all of your opponent's champions and claim victory.
+
+Are you ready for the ultimate test of strategy and wit? Sync and unite to conquer!
 
 ## 1. Game Overview
 
