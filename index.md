@@ -478,4 +478,18 @@ Moreover, **Houses of Mastery** also serve as research hubs, constantly explorin
 
 ### 9.1. House of Assassins
 
+Within the clandestine halls of the **House of Assassins**, characters undergo specialized training to become master infiltrators and deadly operatives. This secretive house focuses on honing the skills required for silent and precise eliminations, making its graduates unparalleled in the art of covert warfare.
+
+#### 9.1.1. Assassins Training
+
+As characters immerse themselves in the rigorous curriculum, the following attributes are meticulously cultivated to ensure that they excel in executing swift and lethal strikes:
+
+- **Damage**
+- **Critical Hit**
+- **Critical Hit Chance**
+- **Accuracy**
+- **Evasion**
+
+#### 9.1.2. Assassins Abilities
+
 _TODO_
