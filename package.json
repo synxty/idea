@@ -1,7 +1,7 @@
 {
   "name": "idea",
   "version": "0.0.1",
-  "description": "_game-title_ idea docs",
+  "description": "Synxty idea docs",
   "main": "index.js",
   "type": "module",
   "scripts": {

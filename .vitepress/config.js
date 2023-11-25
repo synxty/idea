@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: '_game-title_ Docs',
-  description: 'Read everything about _game-title_ here!',
+  title: 'Synxty Docs',
+  description: 'Read everything about Synxty here!',
   base: '/idea/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
