@@ -14,25 +14,21 @@ Are you ready for the ultimate test of strategy and wit? Sync and unite to conqu
 
 ## 1. Game Overview
 
-**Synxty** is a 2-player board and card game played on grid-based battlefield, where each player strategically maneuvers a squad of 5 characters.
+**Synxty** is a 2-player board and card game played on a grid-based battlefield, where each player strategically maneuvers a squad of 5 champions with an additional 3 on the bench ready for tactical swaps.
 
-Each character has three unique abilities that require energy to cast: a basic, a special, and an ultimate. The amount of energy needed to cast an ability is not fixed and can vary. These abilities are represented by cards that are shuffled and drawn from three separate decks, one for each type of ability.
+Each champion has three unique abilities that require energy to cast: a **Basic**, a **Special**, and an **Ultimate**. The amount of energy needed to cast an ability is not fixed and can vary. These abilities are represented by cards that are shuffled and drawn from three separate decks, one for each type of ability.
 
 At the beginning of the game, both players draw two cards from each deck, and their energy bars are fully charged.
 
 Rather than traditional turns, players engage in simultaneous gameplay, where each round consists of three phases:
 
 - **Selection Phase:** In this phase, players select three cards from their hand, one for each type of ability, and lock them in for the Planing Phase.
-- **Planing Phase:** During this phase, players can strategically move their characters on the board and choose the ability cards as well as their cast order for the Battle Phase.
+- **Planing Phase:** During this phase, players can strategically move their champions on the board and choose the ability cards as well as their cast order for the Battle Phase.
 - **Battle Phase:** In this final phase, combat unfolds, abilities are casted, and the round's outcome is determined.
 
 At the end of each round, the cards played are returned to the bottom of the respective deck, and each player draws the same amount of cards they used in the previous round so a new one can start.
 
-The game concludes when one of the players has no characters remaining on the board.
-
-Before the game, players must assemble a squad of five characters available on their team's roster. Each team has a roster of twelve characters, two for each character role. Since there are six different roles and only five squad spots available, players must carefully consider their options and select the best combination of characters to achieve victory. Squads can be built with any combination of roles and it's not required that they differ.
-
-Besides roles, players also have to keep in mind a character's type, origin, and soul as these traits can be used to counter the opposition.
+The game concludes when one of the players has no champions remaining on the board or on the bench.
 
 ## 2. Characters Attributes
 
