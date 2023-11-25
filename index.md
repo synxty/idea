@@ -6,7 +6,7 @@ outline:
 
 # _game-title_
 
-Step into the strategic world of _game-title_, a 2-player board and card game where you command a squad of 5 characters, each with unique powers and abilities. Engage in simultaneous gameplay across three phases per round: selection, planning, and battle. Assemble your squad wisely from a roster of characters, considering roles, types, origins, and souls to surprise your opponent. Victory awaits the mastermind who outmaneuvers and outwits their rival by eliminating all of their opponent's characters!
+Welcome to the strategic realm of _game-title_, a captivating 2-player board and card game. In this tactical showdown, you'll take command of a squad comprising 5 unique champions, each wielding distinct powers and abilities. The game unfolds in three dynamic phases per round: Selection, Planning, and Battle. Your task is to skillfully assemble a squad from a diverse roster of champions, considering factors like roles, types, origins, and souls to outsmart your opponent. Victory awaits the mastermind who adeptly maneuvers through each phase, eliminating all of their opponent's champions. Are you ready for the ultimate test of strategy and wit?
 
 ## 1. Game Overview
 
