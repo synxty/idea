@@ -4,13 +4,13 @@ outline:
   - 3
 ---
 
-# _game-title_
+# Synxty
 
-Welcome to the strategic realm of _game-title_, a captivating 2-player board and card game. In this tactical showdown, you'll take command of a squad comprising 5 unique champions, each wielding distinct powers and abilities. The game unfolds in three dynamic phases per round: Selection, Planning, and Battle. Your task is to skillfully assemble a squad from a diverse roster of champions, considering factors like roles, types, origins, and souls to outsmart your opponent. Victory awaits the mastermind who adeptly maneuvers through each phase, eliminating all of their opponent's champions. Are you ready for the ultimate test of strategy and wit?
+Welcome to the strategic realm of **Synxty**, a captivating 2-player board and card game. In this tactical showdown, you'll take command of a squad comprising 5 unique champions, each wielding distinct powers and abilities. The game unfolds in three dynamic phases per round: Selection, Planning, and Battle. Your task is to skillfully assemble a squad from a diverse roster of champions, considering factors like roles, types, origins, and souls to outsmart your opponent. Victory awaits the mastermind who adeptly maneuvers through each phase, eliminating all of their opponent's champions. Are you ready for the ultimate test of strategy and wit?
 
 ## 1. Game Overview
 
-_game-title_ is a 2-player board and card game played on grid-based battlefield, where each player strategically maneuvers a squad of 5 characters.
+**Synxty** is a 2-player board and card game played on grid-based battlefield, where each player strategically maneuvers a squad of 5 characters.
 
 Each character has three unique abilities that require energy to cast: a basic, a special, and an ultimate. The amount of energy needed to cast an ability is not fixed and can vary. These abilities are represented by cards that are shuffled and drawn from three separate decks, one for each type of ability.
 
