@@ -18,15 +18,11 @@ Are you ready for the ultimate test of strategy and wit? Sync and unite to conqu
 
 Each champion has three unique abilities that require energy to cast: a **Basic**, a **Special**, and an **Ultimate**. The amount of energy needed to cast an ability is not fixed and can vary. These abilities are represented by cards that are shuffled and drawn from three separate decks, one for each type of ability.
 
-At the beginning of the game, both players draw two cards from each deck, and their energy bars are fully charged.
-
 Rather than traditional turns, players engage in simultaneous gameplay, where each round consists of three phases:
 
 - **Selection Phase:** In this phase, players select three cards from their hand, one for each type of ability, and lock them in for the Planning Phase.
 - **Planning Phase:** During this phase, players can strategically move their champions on the board and choose the ability cards as well as their cast order for the Battle Phase.
 - **Battle Phase:** In this final phase, the battlefield ignites with combat as champions unleash their abilities. Defeated champions are removed from the board and sent to the graveyard.
-
-At the end of each round, the cards played are returned to the bottom of the respective deck, and each player draws the same amount of cards they used in the previous round so a new one can start.
 
 The game concludes when one of the players has no champions remaining on the board or on the bench.
 
@@ -48,6 +44,8 @@ Rounds are composed of three phases: **Selection**, **Planning**, and **Battle**
 
 At the beginning of every round, all players must have 2 cards from each ability in their hand. If a player finds themselves with less than 2 cards for any ability, they draw from the respective deck until the requirement is met. This means that in the first round after the game is set up, both players will draw one card from each deck before the **Selection Phase** starts.
 
+At the end of every round, all cards played are returned to the bottom of their respective decks, unless the represented ability was not cast. In such cases, the card is instead returned to the player's hand.
+
 #### 2.3.1. Selection Phase
 
 In the **Selection Phase**, players choose 3 cards from their hand, one for each type of ability, and lock them in for the **Planning Phase**. Simultaneously, players have the chance to swap champions from the bench with those on the board. This phase concludes when both players have locked their cards and selected their champions.
@@ -62,7 +60,21 @@ To maintain fairness, this phase is timed, and cards remain hidden from the oppo
 
 #### 2.3.3. Battle Phase
 
-_TODO_
+In the **Battle Phase**, the battlefield ignites with combat as champions unleash their abilities. The order in which the abilities are cast is determined by the **Speed** of the champions to cast them. The champion with the highest **Speed** casts their abilities first, followed by the champion with the second-highest **Speed**, and so on. There are some nuances to this:
+
+- When champions of the same team share identical **Speed**, the order is determined by the cards' cast order selected in the previous phase.
+- For champions set to cast more than one ability, the order is determined by the cards' cast order selected in the previous phase.
+- If a champion has the same **Speed** as an enemy champion the cast order is randomly determined.
+
+While abilities are being cast, player's energy bars are updated accordingly. As there can be energy manipulation from the abilities, it's not guaranteed that all abilities will be cast. If a player doesn't have enough energy to cast an ability, that ability is skipped.
+
+This phase concludes when all champions have cast their abilities.
+
+### 2.4. Endgame
+
+After the **Battle Phase** concludes, defeated champions are removed from the board and sent to the graveyard. A champion is declared defeated when their **Health** reaches 0.
+
+The game ends when one of the players has no champions remaining on the board or on the bench. The player with at least one champion remaining is declared the winner.
 
 ## 3. Characters Attributes
 
@@ -353,7 +365,7 @@ These effects introduce a layer of strategic depth to the gameplay, where timing
 - **Burning:** At the end of the round, burning characters take a percentage of **Damage** from the characters that applied that effect. Can only be applied from characters with the **Fire** type. Can stack.
 - **Drowning:** At the end of the round, drowning characters take a percentage of **Damage** from characters that applied that effect. Can only be applied from characters with the **Water** type. Can stack.
 
-#### 5.1.4. Character Soul Effects
+#### 6.1.4. Character Soul Effects
 
 - **Blessed:** Blessed characters can not have their positive effects removed. Can only be applied from characters with the **Light** soul. Can not stack.
 - **Immune:** Negative effects can not be applied to immune characters. Can only be applied from characters with the **Light** soul. Can not stack.
