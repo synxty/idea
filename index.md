@@ -6,25 +6,25 @@ outline:
 
 # Synxty
 
-Welcome to the strategic world of **Synxty**, a captivating 2-player board and card game. Assemble and manage a squad of 8 unique champions, each wielding distinct powers and abilities to skillfully maneuver them through the battlefield and defeat your opponent in a tactical showdown.
+Welcome to the strategic world of **Synxty**, a captivating 2-player board and card game. Assemble and manage a squad of 8 unique legends, each wielding distinct powers and abilities to skillfully maneuver them through the battlefield and defeat your opponent in a tactical showdown.
 
-The game unfolds in three dynamic phases per round: **Selection**, **Planning**, and **Battle**, wherein players take actions simultaneously. Consider champions' combat attributes, abilities, roles, types, origins, and souls when making decisions and devising strategies to defeat all of your opponent's champions and claim victory.
+The game unfolds in three dynamic phases per round: **Selection**, **Planning**, and **Battle**, wherein players take actions simultaneously. Consider legends' combat attributes, abilities, roles, types, origins, and souls when making decisions and devising strategies to defeat all of your opponent's legends and claim victory.
 
 Are you ready for the ultimate test of strategy and wit? Sync and unite to conquer!
 
 ## 1. Overview
 
-**Synxty** is a 2-player board and card game played on a grid-based battlefield, where each player strategically maneuvers a squad of 5 champions with an additional 3 on the bench ready for tactical swaps.
+**Synxty** is a 2-player board and card game played on a grid-based battlefield, where each player strategically maneuvers a squad of 5 legends with an additional 3 on the bench ready for tactical swaps.
 
-Each champion has three unique abilities that require energy to cast: a **Basic**, a **Special**, and an **Ultimate**. The amount of energy needed to cast an ability is not fixed and can vary. These abilities are represented by cards that are shuffled and drawn from three separate decks, one for each type of ability.
+Each legend has three unique abilities that require energy to cast: a **Basic**, a **Special**, and an **Ultimate**. The amount of energy needed to cast an ability is not fixed and can vary. These abilities are represented by cards that are shuffled and drawn from three separate decks, one for each type of ability.
 
 Rather than traditional turns, players engage in simultaneous gameplay, where each round consists of three phases:
 
 - **Selection Phase:** In this phase, players select three cards from their hand, one for each type of ability, and lock them in for the Planning Phase.
-- **Planning Phase:** During this phase, players can strategically move their champions on the board and choose the ability cards as well as their cast order for the Battle Phase.
-- **Battle Phase:** In this final phase, the battlefield ignites with combat as champions unleash their abilities. Defeated champions are removed from the board and sent to the graveyard.
+- **Planning Phase:** During this phase, players can strategically move their legends on the board and choose the ability cards as well as their cast order for the Battle Phase.
+- **Battle Phase:** In this final phase, the battlefield ignites with combat as legends unleash their abilities. Defeated legends are removed from the board and sent to the graveyard.
 
-The game concludes when one of the players has no champions remaining on the board or on the bench.
+The game concludes when one of the players has no legends remaining on the board or on the bench.
 
 ## 2. Deep Dive
 
@@ -32,11 +32,11 @@ In this section, we explore the game's core mechanics, delving into the intricac
 
 ### 2.1. Squad Assembly
 
-Before entering the battlefield, each player assembles a squad of 8 champions, 5 starters and 3 substitutes. The game starts with the 5 starting champions already placed on the board while the remaining 3 substitutes stand ready on the bench.
+Before entering the battlefield, each player assembles a squad of 8 legends, 5 starters and 3 substitutes. The game starts with the 5 starting legends already placed on the board while the remaining 3 substitutes stand ready on the bench.
 
 ### 2.2. Ability Decks
 
-Both players have 3 decks of cards, one for each type of ability: **Basic Deck**, **Special Deck**, and **Ultimate Deck**. Each card represents a champion's ability and is associated with a specific champion. To kick off the game, all decks are shuffled and players draw one card from each of them.
+Both players have 3 decks of cards, one for each type of ability: **Basic Deck**, **Special Deck**, and **Ultimate Deck**. Each card represents a legend's ability and is associated with a specific legend. To kick off the game, all decks are shuffled and players draw one card from each of them.
 
 ### 2.3. Rounds
 
@@ -48,33 +48,33 @@ At the end of every round, all cards played are returned to the bottom of their 
 
 #### 2.3.1. Selection Phase
 
-In the **Selection Phase**, players choose 3 cards from their hand, one for each type of ability, and lock them in for the **Planning Phase**. Simultaneously, players have the chance to swap champions from the bench with those on the board. This phase concludes when both players have locked their cards and selected their champions.
+In the **Selection Phase**, players choose 3 cards from their hand, one for each type of ability, and lock them in for the **Planning Phase**. Simultaneously, players have the chance to swap legends from the bench with those on the board. This phase concludes when both players have locked their cards and selected their legends.
 
-To maintain fairness, this phase is timed, and both champions and cards remain hidden from the opponent until it concludes.
+To maintain fairness, this phase is timed, and both legends and cards remain hidden from the opponent until it concludes.
 
 #### 2.3.2. Planning Phase
 
-During the **Planning Phase**, the champions selected in the previous phase are revealed, and players can strategically move them on their side of the board. Players can also select the cards to be played and their cast order, always considering their energy cost. This phase concludes when both players have locked in their champions positions and cards choices.
+During the **Planning Phase**, the legends selected in the previous phase are revealed, and players can strategically move them on their side of the board. Players can also select the cards to be played and their cast order, always considering their energy cost. This phase concludes when both players have locked in their legends positions and cards choices.
 
 To maintain fairness, this phase is timed, and cards remain hidden from the opponent until it concludes.
 
 #### 2.3.3. Battle Phase
 
-In the **Battle Phase**, the battlefield ignites with combat as champions unleash their abilities. The order in which the abilities are cast is determined by the **Speed** of the champions to cast them. The champion with the highest **Speed** casts their abilities first, followed by the champion with the second-highest **Speed**, and so on. There are some nuances to this:
+In the **Battle Phase**, the battlefield ignites with combat as legends unleash their abilities. The order in which the abilities are cast is determined by the **Speed** of the legends to cast them. The legend with the highest **Speed** casts their abilities first, followed by the legend with the second-highest **Speed**, and so on. There are some nuances to this:
 
-- When champions of the same team share identical **Speed**, the order is determined by the cards' cast order selected in the previous phase.
-- For champions set to cast more than one ability, the order is determined by the cards' cast order selected in the previous phase.
-- If a champion has the same **Speed** as an enemy champion the cast order is randomly determined.
+- When legends of the same team share identical **Speed**, the order is determined by the cards' cast order selected in the previous phase.
+- For legends set to cast more than one ability, the order is determined by the cards' cast order selected in the previous phase.
+- If a legend has the same **Speed** as an enemy legend the cast order is randomly determined.
 
 While abilities are being cast, player's energy bars are updated accordingly. As there can be energy manipulation from the abilities, it's not guaranteed that all abilities will be cast. If a player doesn't have enough energy to cast an ability, that ability is skipped.
 
-This phase concludes when all champions have cast their abilities.
+This phase concludes when all legends have cast their abilities.
 
 ### 2.4. Endgame
 
-After the **Battle Phase** concludes, defeated champions are removed from the board and sent to the graveyard. A champion is declared defeated when their **Health** reaches 0.
+After the **Battle Phase** concludes, defeated legends are removed from the board and sent to the graveyard. A legend is declared defeated when their **Health** reaches 0.
 
-The game ends when one of the players has no champions remaining on the board or on the bench. The player with at least one champion remaining is declared the winner.
+The game ends when one of the players has no legends remaining on the board or on the bench. The player with at least one legend remaining is declared the winner.
 
 ## 3. Characters Attributes
 
@@ -223,7 +223,7 @@ If at least one of the Healer's abilities is activated during the planning phase
 
 Paladins are versatile warriors who can be found at the vanguard of battle or strategically positioned to protect allies.
 
-These adaptable champions can take on the role of bruisers, boasting impressive **Health** pools and formidable **Resistance** to enemy assaults. While they excel in absorbing incoming **Damage** and protecting their team, Paladins are equally adept at delivering punishing attacks to enemies.
+These adaptable legends can take on the role of bruisers, boasting impressive **Health** pools and formidable **Resistance** to enemy assaults. While they excel in absorbing incoming **Damage** and protecting their team, Paladins are equally adept at delivering punishing attacks to enemies.
 
 Incorporate Paladins into your team, and you'll gain access to these dependable guardians, capable of both leading the charge and shielding your squad from harm. Their well-rounded abilities and adaptable nature make them a valuable asset in your quest for victory.
 
