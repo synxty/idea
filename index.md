@@ -70,7 +70,7 @@ The game ends when one of the players has no legends remaining on the board or o
 
 ## 2. Legends, Prospects, and Masters
 
-In the world of **Synxty**, **Legends** stand as the playable combatants in this captivating strategic game. Alongside Legends, we'll introduce two other character types: **Prospects** and **Masters**. Even though they are not playable, they play a pivotal role in the game's lore and the **Legends**' development.
+In the world of **Synxty**, **Legends** stand as the playable combatants in this captivating strategic game. Alongside Legends, we'll introduce two other character classes: **Prospects** and **Masters**. Even though they are not playable, they play a pivotal role in the game's lore and the **Legends**' development.
 
 ### 2.1. Legends
 
@@ -90,16 +90,17 @@ In the world of **Synxty**, only **Legends** have the privilege of entering the 
 
 ### 3.1. Profile Attributes
 
-Profile attributes encompass essential information about each character. These attributes offer a comprehensive view of a character's background, identity, and intrinsic qualities, aiding players in crafting their squads and devising winning strategies on the battlefield.
+Every character possesses a unique set of **Profile Attributes** that define their essence and role within the game's universe. These attributes are the building blocks of character identity, encapsulating everything from their elemental affiliation to their designated roles on the battlefield.
 
-- **ID:** The character's unique identifier for each character, allowing for easy tracking and organization.
-- **Name:** The character's unique and distinctive given name. It provides a personal touch to their identity.
-- **Height:** The character's physical stature.
-- **Weight:** The character's body mass.
-- **Type:** The character's elemental affiliation, affecting their appearance, interactions, damage calculation, character effects, and battlefield effects.
-- **Origin:** The character's place of origin, affecting their appearance, interactions, damage calculation, and battlefield effects.
+- **ID:** A unique identifier for each character, simplifying tracking and organization.
+- **Name:** A character's distinct given name, adding a personal touch to their identity.
+- **Class:** The character's classification as a Legend, Prospect, or Master, defining their current position in the Synxty universe.
+- **Height:** The character's physical stature, influencing their presence on the battlefield.
+- **Weight:** The character's body mass, influencing their presence on the battlefield.
+- **Type:** The character's elemental affiliation, shaping their appearance, interactions, damage calculation, character effects, and battlefield effects.
+- **Origin:** The character's place of origin, influencing their appearance, interactions, damage calculation, and battlefield effects.
 - **Soul:** The character's soul nature, affecting their appearance, interactions, character effects and battlefield effects.
-- **Role:** The character's designated position or purpose on the team, dictating their abilities and role in battles.
+- **Role:** The character's specialized combat purpose on the team, defining their unique gameplay style that contribute to the team's success on the battlefield.
 
 ### 3.2. Combat Attributes
 
