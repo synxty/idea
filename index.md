@@ -8,7 +8,7 @@ outline:
 
 Welcome to the strategic world of **Synxty**, a captivating 2-player board and card game. Assemble and manage a squad of 8 unique legends, each wielding distinct powers and abilities to skillfully maneuver them through the battlefield and defeat your opponent in a tactical showdown.
 
-The game unfolds in three dynamic phases per round: **Selection**, **Planning**, and **Battle**, wherein players take actions simultaneously. Consider legends' combat attributes, abilities, roles, types, origins, and souls when making decisions and devising strategies to defeat all of your opponent's legends and claim victory.
+The game unfolds in three dynamic phases per round: **Selection**, **Planning**, and **Battle**, wherein players take actions simultaneously. Consider **Legends'** combat attributes, abilities, roles, types, origins, and souls when making decisions and devising strategies to defeat all of your opponent's **Legends** and claim victory.
 
 Are you ready for the ultimate test of strategy and wit? Sync and unite to conquer!
 
@@ -68,7 +68,7 @@ After the **Battle Phase** concludes, defeated legends are removed from the boar
 
 The game ends when one of the players has no legends remaining on the board or on the bench. The player with at least one legend remaining is declared the winner.
 
-## 2. Legends, Prospects, and Masters
+## 2. Character Classes
 
 In the world of **Synxty**, **Legends** stand as the playable combatants in this captivating strategic game. Alongside Legends, we'll introduce two other character classes: **Prospects** and **Masters**. Even though they are not playable, they play a pivotal role in the game's lore and the **Legends**' development.
 
