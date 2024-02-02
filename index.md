@@ -104,34 +104,36 @@ Every character possesses a unique set of **Profile Attributes** that define the
 
 ### 3.2. Combat Attributes
 
-Combat attributes define a character's combat-related statistics. They encompass crucial aspects like offensive, defensive and additional combat statistics. The combat attributes are essential for shaping the outcome of battles.
+These attributes encompass the essential metrics that define a character's prowess in combat, influencing their ability to deal damage and withstand attacks on the battlefield. Understanding **Combat Attributes** is vital for crafting effective strategies, maximizing damage output, and ensuring the survival of your **Legends**.
 
 #### 3.2.1. Offensive Attributes
 
-Offensive attributes are primarily focused on a character's ability to deal damage or harm to opponents. These attributes are crucial for characters with roles that focus on dealing damage, such as Assassins, Rangers, and to a lesser extent, Paladins and Titans. These stats help characters maximize their damage output and contribute to the defeat of opponents.
+**Offensive Attributes** are essential for a character's ability to inflict damage on opponents, particularly those specializing in damage-dealing roles. Mastery of these attributes allows characters to maximize their damage potential and contribute significantly to overcoming adversaries.
 
-- **Damage:** The character's offensive strength, influencing the damage dealt to opponents.
-- **Critical Hit:** The bonus damage inflicted when a character strikes a critical hit. Ignores resistance.
-- **Critical Hit Chance:** The likelihood of a character landing a critical hit.
-- **Range:** The distance from which a character can engage in combat effectively.
-- **Accuracy:** The character's precision in landing attacks on opponents.
-- **Life Steal:** The character's ability to regain health by dealing damage to opponents.
+- **Damage:** This attribute measures a character's offensive potency, directly impacting their ability to reduce an opponent's **Health** during combat.
+- **Critical Hit:** Characters with a high **Critical Hit** attribute can deal bonus damage when they land a critical strike, bypassing opponent **Resistance**.
+- **Critical Hit Chance:** The likelihood of a character successfully landing a **Critical Hit** during combat.
+- **Range:** The effective distance from which a character can engage in combat, determining their reach on the battlefield.
+- **Accuracy:**  This attribute represents the character's likelihood of successfully landing their abilities.
+- **Life Steal:** The character's ability to steal **Health** from their opponents by dealing damage or through specific abilities.
 
 #### 3.2.2. Defensive Attributes
 
-Defensive attributes are primarily focused on a character's ability to withstand, mitigate, or avoid damage from opponents. These attributes are crucial for characters with tank, support, or healing roles, as they enable these characters to endure attacks, protect allies, and keep the team or themselves alive in battle.
+**Defensive Attributes** are pivotal to a character's resilience and ability to withstand attacks on the battlefield. These attributes are crucial for characters with roles focused on tanking, support, or healing, as they enable characters to endure attacks, protect allies, and maintain the team's vitality in the heat of battle. Understanding these attributes is essential for crafting robust strategies and ensuring the longevity of your **Legends** during combat.
 
-- **Health:** The amount of damage a character can withstand before being defeated.
-- **Healing Power:** The character's ability to restore health to themselves or others.
-- **Resistance:** The character's defensive strength, reducing the damage received from opponents.
-- **Evasion:** The character's ability to dodge incoming attacks.
+- **Health:** This attribute determines the maximum amount of **Damage** a character can endure before succumbing to defeat.
+- **Healing Power:** The character's ability to restore **Health** to themselves or others.
+- **Resistance:** The character's ability to reduce the **Damage** received from opponents.
+- **Evasion:** The character's ability to dodge incoming attacks, reducing the likelihood of taking **Damage**.
 - **Block Power:** The ability of a character to block incoming damage.
 - **Block Chance:** The likelihood of a character successfully blocking an incoming attack.
 
 #### 3.2.3. General Attributes
 
-- **Speed:** The character's swiftness in action, affecting turn order.
-- **Area of Effect:** The area covered by a character's abilities, influencing how many opponents or allies are affected.
+In addition to offensive and defensive attributes, **General Attributes** hold a significant role in shaping a character's battlefield performance. These attributes encompass a character's speed and the area covered by their abilities. Understanding these attributes is crucial for strategic decision-making and optimizing the impact of your **Legends** during combat.
+
+- **Speed:** The character's swiftness in action, influencing the order in which they cast their abilities during the **Battle Phase**.
+- **Area of Effect:** The area covered by a character's abilities, influencing how many opponents or allies on adjacent tiles are affected.
 
 ### 3.3. Team Cohesion Attributes
 
@@ -168,6 +170,7 @@ Development attributes are character traits vital for growth and advancement. Th
 - **Determination:** Reflect's a character's drive to improve their stats and enhance their attributes
 - **Professionalism:** Reflect's how effectively a character manages their stats and attributes improvements.
 - **Ambition:** Represents a character's desire to achieve greatness, climb the ranks, and continuously strive to be the best.
+- **Experience:** Represents a character's current experience level,
 
 ## 4. Character Roles
 
