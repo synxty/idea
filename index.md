@@ -113,7 +113,6 @@ These attributes encompass the essential metrics that define a character's prowe
 - **Damage:** This attribute measures a character's offensive potency, directly impacting their ability to reduce an opponent's **Health** during combat.
 - **Critical Hit:** Characters with a high **Critical Hit** attribute can deal bonus damage when they land a critical strike, bypassing opponent **Resistance**.
 - **Critical Hit Chance:** The likelihood of a character successfully landing a **Critical Hit** during combat.
-- **Range:** The effective distance from which a character can engage in combat, determining their reach on the battlefield.
 - **Accuracy:**  This attribute represents the character's likelihood of successfully landing their abilities.
 - **Life Steal:** The character's ability to steal **Health** from their opponents by dealing damage or through specific abilities.
 
@@ -121,7 +120,6 @@ These attributes encompass the essential metrics that define a character's prowe
 
 **Defensive Attributes** are pivotal to a character's resilience and ability to withstand attacks on the battlefield. These attributes are crucial for characters with roles focused on tanking, support, or healing, as they enable characters to endure attacks, protect allies, and maintain the team's vitality in the heat of battle. Understanding these attributes is essential for crafting robust strategies and ensuring the longevity of your **Legends** during combat.
 
-- **Health:** This attribute determines the maximum amount of **Damage** a character can endure before succumbing to defeat.
 - **Healing Power:** The character's ability to restore **Health** to themselves or others.
 - **Resistance:** The character's ability to reduce the **Damage** received from opponents.
 - **Evasion:** The character's ability to dodge incoming attacks, reducing the likelihood of taking **Damage**.
@@ -132,7 +130,9 @@ These attributes encompass the essential metrics that define a character's prowe
 
 In addition to offensive and defensive attributes, **General Attributes** hold a significant role in shaping a character's battlefield performance. These attributes encompass a character's speed and the area covered by their abilities. Understanding these attributes is crucial for strategic decision-making and optimizing the impact of your **Legends** during combat.
 
+- **Health:** This attribute determines the maximum amount of **Damage** a character can endure before succumbing to defeat.
 - **Speed:** The character's swiftness in action, influencing the order in which they cast their abilities during the **Battle Phase**.
+- **Range:** The effective distance from which a character can engage in combat, determining their reach on the battlefield.
 - **Area of Effect:** The area covered by a character's abilities, influencing how many opponents or allies on adjacent tiles are affected.
 
 ### 3.3. Team Cohesion Attributes
