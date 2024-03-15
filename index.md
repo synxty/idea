@@ -143,8 +143,21 @@ These attributes encompass the essential metrics that define a character's prowe
 - **Consistency:** Determines the likelihood of consistently achieving peak performance, thereby influencing the range of values for all **Offensive Attributes** and **Defensive Attributes**. Higher consistency leads to a narrower range, resulting in more predictable outcomes, while lower consistency widens the range, introducing greater variability in combat effectiveness.
 - **Versatility:** Gauges a character's adaptability on the battlefield, influencing their effectiveness when transitioning between positions on the board. This attribute considers the number of turns a character remains in a specific position and adjusts their **Offensive Attributes** and **Defensive Attributes** accordingly. Characters with higher **Versatility** adapt more swiftly to new positions, while those with lower **Versatility** will experience a temporary decrease in combat prowess when forced to relocate.
 - **Resilience:** Represents a character's ability to perform under high-stake situations on the battlefield. This attribute serves as a multiplier that adjusts **Offensive Attributes** and **Defensive Attributes** based on factors such as being outnumbered, targeted, having low health, or being affected by negative effects. A higher **Resilience**  enhances combat performance in stressful situations, while lower **Resilience** results in decreased effectiveness.
-  
-### 3.4. Team Cohesion Attributes
+
+### 3.4. Fitness Attributes
+
+**Fitness Attributes** gauge a character's physical well-being and stamina, influencing their endurance and ability to withstand fatigue and injuries over time.
+
+- **Condition:** Reflects a character's physical state and readiness for combat. The percentage value determines the impact on **Offensive Attributes** and **Defensive Attributes**, ranging from optimal performance at 100% to incapacitation at 0%.
+  - **Healthy:** Character is in peak physical condition, rested and prepared for combat. (75%-100%)
+  - **Tired:** Character begins to feel the strain of consecutive battles without adequate rest, resulting in a noticeable reduction in combat effectiveness. (50%-74%)
+  - **Exhausted:** Character becomes fatigued due to consecutive battles without any rest, struggling to maintain performance. (30%-49%)
+  - **Bruised:** Character has sustained minor injuries, significantly impacting combat ability. (15%-29%)
+  - **Injured:** Character is incapacitated and unable to participate in battles. (0%-14%)
+- **Injury Proneness:** reflects a character's susceptibility to physical setbacks and injuries, influencing their likelihood of becoming **Bruised** or **Injured** during battles. Higher values indicating a greater susceptibility. It is important that characters cannot become bruised or injured solely through regular gameplay.
+- **Endurance:** Reflects a character's ability to sustain combat fatigue. Characters with higher **Endurance** are better equipped to withstand the strain of consecutive battles without experiencing significant reductions in combat effectiveness.
+
+### 3.5. Team Cohesion Attributes
 
 Team cohesion attributes encompass character traits essential for promoting effective teamwork and unity within a group. These attributes measure a character's ability to function as a cohesive unit, inspire their teammates, and work in harmony with others to achieve success on the battlefield and are crucial for maintaining a balanced and synergistic team environment.
 
@@ -152,15 +165,6 @@ Team cohesion attributes encompass character traits essential for promoting effe
 - **Leadership:** Represents a character's capacity to guide and inspire their teammates and making them better.
 - **Teamwork:** Represents a character's ability to work in harmony with others, promoting unity and cohesion.
 - **Dedication:** Represents a character's unwavering commitment to their team's objectives, promoting loyalty and a strong sense of duty.
-
-### 3.5. Fitness Attributes
-
-Fitness attributes encompass character traits related to their physical capabilities and overall health. These attributes gauge a character's physical condition, their ability to withstand wear and tear, and their longevity in their respective careers.
-
-- **Fragility:** Represents how easily a character can succumb to exhaustion, injuries and physical setbacks.
-- **Endurance:** Represents a character's capacity to maintain high-level performance and energy throughout battles, making them less susceptible to exhaustion, injuries and physical setbacks.
-- **Resilience:** Represents a character's ability to bounce back from exhaustion, injuries and physical setbacks.
-- **Longevity:** Represents how long a character can maintain their career at a high level.
 
 ### 3.6. Development Attributes
 
@@ -171,6 +175,7 @@ Development attributes are character traits vital for growth and advancement. Th
 - **Professionalism:** Reflect's how effectively a character manages their stats and attributes improvements.
 - **Ambition:** Represents a character's desire to achieve greatness, climb the ranks, and continuously strive to be the best.
 - **Experience:** Represents a character's current experience level,
+- **Longevity:** Represents how long a character can maintain their career at a high level.
 
 ## 4. Character Roles
 
