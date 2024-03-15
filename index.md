@@ -135,7 +135,16 @@ These attributes encompass the essential metrics that define a character's prowe
 - **Block Power:** The ability of a character to block incoming damage.
 - **Block Chance:** The likelihood of a character successfully blocking an incoming attack.
 
-### 3.3. Team Cohesion Attributes
+### 3.3. Performance Attributes
+
+**Performance Attributes** delve into the intricacies of character effectiveness on the battlefield, assessing their determination, capacity for consistent performance, versatility in combat, and resilience under pressure situations. These attributes directly influence **Offensive Attributes** and **Defensive Attributes** ensuring that these combat statistics are not fixed but rather subject to the character's dynamic performance capabilities.
+
+- **Determination:** Reflects a character's unwavering resolve and drive to push their combat performance to their fullest potential. It acts as a multiplier, amplifying or diminishing the baseline values of **Offensive Attributes** and **Defensive Attributes**.
+- **Consistency:** Determines the likelihood of consistently achieving peak performance, thereby influencing the range of values for all **Offensive Attributes** and **Defensive Attributes**. Higher consistency leads to a narrower range, resulting in more predictable outcomes, while lower consistency widens the range, introducing greater variability in combat effectiveness.
+- **Versatility:** Gauges a character's adaptability on the battlefield, influencing their effectiveness when transitioning between positions on the board. This attribute considers the number of turns a character remains in a specific position and adjusts their **Offensive Attributes** and **Defensive Attributes** accordingly. Characters with higher **Versatility** adapt more swiftly to new positions, while those with lower **Versatility** will experience a temporary decrease in combat prowess when forced to relocate.
+- **Resilience:** Represents a character's ability to perform under high-stake situations on the battlefield. This attribute serves as a multiplier that adjusts **Offensive Attributes** and **Defensive Attributes** based on factors such as being outnumbered, targeted, having low health, or being affected by negative effects. A higher **Resilience**  enhances combat performance in stressful situations, while lower **Resilience** results in decreased effectiveness.
+  
+### 3.4. Team Cohesion Attributes
 
 Team cohesion attributes encompass character traits essential for promoting effective teamwork and unity within a group. These attributes measure a character's ability to function as a cohesive unit, inspire their teammates, and work in harmony with others to achieve success on the battlefield and are crucial for maintaining a balanced and synergistic team environment.
 
@@ -144,7 +153,7 @@ Team cohesion attributes encompass character traits essential for promoting effe
 - **Teamwork:** Represents a character's ability to work in harmony with others, promoting unity and cohesion.
 - **Dedication:** Represents a character's unwavering commitment to their team's objectives, promoting loyalty and a strong sense of duty.
 
-### 3.4. Fitness Attributes
+### 3.5. Fitness Attributes
 
 Fitness attributes encompass character traits related to their physical capabilities and overall health. These attributes gauge a character's physical condition, their ability to withstand wear and tear, and their longevity in their respective careers.
 
@@ -152,15 +161,6 @@ Fitness attributes encompass character traits related to their physical capabili
 - **Endurance:** Represents a character's capacity to maintain high-level performance and energy throughout battles, making them less susceptible to exhaustion, injuries and physical setbacks.
 - **Resilience:** Represents a character's ability to bounce back from exhaustion, injuries and physical setbacks.
 - **Longevity:** Represents how long a character can maintain their career at a high level.
-
-### 3.5. Performance Attributes
-
-Performance attributes focus on character traits essential for excelling during gameplay. These attributes gauge a character's ability to perform consistently under various conditions and deliver their best when under pressure.
-
-- **Work Rate:** Represents a character's effort and dedication to perform at the highest of their capabilities during a game.
-- **Consistency:** Represents a character's ability to perform at a stable and predictable level.
-- **Pressure:** Represents how well a character can handle intense and high-stakes situations.
-- **Versatility:** Represents a character's capability to adapt and excel in different positions or strategies.
 
 ### 3.6. Development Attributes
 
