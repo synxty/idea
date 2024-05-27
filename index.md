@@ -157,25 +157,22 @@ These attributes encompass the essential metrics that define a character's prowe
 - **Injury Proneness:** reflects a character's susceptibility to physical setbacks and injuries, influencing their likelihood of becoming **Bruised** or **Injured** during battles. Higher values indicating a greater susceptibility. It is important that characters cannot become bruised or injured solely through regular gameplay.
 - **Endurance:** Reflects a character's ability to sustain combat fatigue. Characters with higher **Endurance** are better equipped to withstand the strain of consecutive battles without experiencing significant reductions in combat effectiveness.
 
-### 3.5. Team Cohesion Attributes
+### 3.5. Development Attributes
 
-Team cohesion attributes encompass character traits essential for promoting effective teamwork and unity within a group. These attributes measure a character's ability to function as a cohesive unit, inspire their teammates, and work in harmony with others to achieve success on the battlefield and are crucial for maintaining a balanced and synergistic team environment.
+**Development Attributes** are pivotal character traits that drive growth and progression. These attributes encapsulate a character's dedication to honing their skills, pursuing their objectives, and achieving success throughout their career.
+
+- **Experience:** Represents a character's accumulated experience points gained through participation in battles, trainings, and other relevant activities.
+- **Longevity:** Represents the maximum amount of experience points a character can accumulate before retirement. This threshold can be extended through exceptional performance, ongoing training, or special achievements. Conversely, it may diminish due to sustained injuries, declining performance, or other adverse circumstances.
+- **Work Ethic:** Reflects a character's dedication, diligence, and commitment to their training and development. A high work ethic contributes to consistent improvement accelerating the progression of the character's attributes.
+
+### 3.6. Team Cohesion Attributes
+
+**Team Cohesion Attributes** encompass the collective qualities and dynamics that contribute to the unity, synergy, and effectiveness of a group of characters working together towards a common goal. These attributes not only determine the cohesion within a team but also influence their overall performance and success in various endeavors.
 
 - **Adaptability:** Represents a character's ability to adjust to different situations, strategies, and teammates.
 - **Leadership:** Represents a character's capacity to guide and inspire their teammates and making them better.
 - **Teamwork:** Represents a character's ability to work in harmony with others, promoting unity and cohesion.
 - **Dedication:** Represents a character's unwavering commitment to their team's objectives, promoting loyalty and a strong sense of duty.
-
-### 3.6. Development Attributes
-
-Development attributes are character traits vital for growth and advancement. These attributes reflect a character's commitment to improving their skills, achieving their goals, and attaining success in their career.
-
-- **Progression Rate:** Represents the speed at which a character can learn new abilities, improve their stats and enhance their attributes.
-- **Determination:** Reflect's a character's drive to improve their stats and enhance their attributes
-- **Professionalism:** Reflect's how effectively a character manages their stats and attributes improvements.
-- **Ambition:** Represents a character's desire to achieve greatness, climb the ranks, and continuously strive to be the best.
-- **Experience:** Represents a character's current experience level,
-- **Longevity:** Represents how long a character can maintain their career at a high level.
 
 ## 4. Character Roles
 
