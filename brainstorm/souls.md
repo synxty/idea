@@ -4,13 +4,13 @@
 
 ### 1.1 Characteristics
 
-- **Appearance:** Creatures with a Light soul often have a radiant glow, emitting a soft, comforting light. Their colors typically include white, gold, and soft pastels. Features may include halos, luminous eyes, or light-emitting markings, giving them an ethereal and benevolent appearance.
+- **Appearance:** Characters with a Light soul often have a radiant glow, emitting a soft, comforting light. Their colors typically include white, gold, and soft pastels. Features may include halos, luminous eyes, or light-emitting markings, giving them an ethereal and benevolent appearance.
 - **Abilities:**
   - **Healing Light:** Emit restorative light that heals themselves or allies.
   - **Protection Aura:** Create barriers or shields of light to protect against damage.
   - **Blinding Flash:** Emit bursts of intense light that blind or disorient enemies.
   - **Purification:** Cleanse negative effects, curses, or ailments from themselves or allies.
-- **Habitats:** Light soul creatures are often found in places associated with purity and tranquility, such as sacred groves, sunlit meadows, crystal caves, and high altitudes where the sun’s rays are strongest.
+- **Habitats:** Light soul characters are often found in places associated with purity and tranquility, such as sacred groves, sunlit meadows, crystal caves, and high altitudes where the sun’s rays are strongest.
 
 ### 1.2 Examples
 
@@ -22,13 +22,13 @@
 
 ### 2.1 Characteristics
 
-- **Appearance:** Creatures with a Dark soul often have a dark, ominous aura, with colors like black, purple, and deep reds. They might have shadowy forms, glowing red or purple eyes, or dark, swirling patterns on their bodies, giving them a menacing and enigmatic presence.
+- **Appearance:** Characters with a Dark soul often have a dark, ominous aura, with colors like black, purple, and deep reds. They might have shadowy forms, glowing red or purple eyes, or dark, swirling patterns on their bodies, giving them a menacing and enigmatic presence.
 - **Abilities:**
   - **Life Drain:** Absorb health or energy from enemies to heal themselves.
   - **Shadow Cloak:** Become invisible or less detectable in shadows.
   - **Fear Induction:** Instill fear in enemies, causing them to flee or hesitate.
   - **Curse Infliction:** Apply debilitating curses or negative effects to enemies.
-- **Habitats:** Dark soul creatures are often found in places associated with mystery and danger, such as dark forests, shadowy caves, abandoned ruins, and regions shrouded in perpetual twilight or darkness.
+- **Habitats:** Dark soul characters are often found in places associated with mystery and danger, such as dark forests, shadowy caves, abandoned ruins, and regions shrouded in perpetual twilight or darkness.
 
 ### 2.2 Examples
 
