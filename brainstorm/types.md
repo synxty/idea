@@ -4,7 +4,7 @@
 
 ### 1.1. Characteristics
 
-- **Appearance:** Air type creatures are often light and agile, with features that aid in flight or wind manipulation. They might have wings, feathers, or other aerodynamic parts, and their movements are fluid and fast. Their colors often include shades of white, light blue, and silver, reflecting their association with the sky and wind.
+- **Appearance:** Air type characters are often light and agile, with features that aid in flight or wind manipulation. They might have wings, feathers, or other aerodynamic parts, and their movements are fluid and fast. Their colors often include shades of white, light blue, and silver, reflecting their association with the sky and wind.
 - **Abilities:**
   - **Wind Gusts:** Generate powerful blasts of wind to push back or disorient foes.
   - **Tornadoes:** Create swirling vortexes to trap or damage opponents.
@@ -21,7 +21,7 @@
 
 ### 2.1. Characteristics
 
-- **Appearance:** Electric type creatures are often adorned with glowing or sparking parts, and their bodies might feature elements like circuits or electric patterns.
+- **Appearance:** Electric type characters are often adorned with glowing or sparking parts, and their bodies might feature elements like circuits or electric patterns.
 - **Abilities:**
   - **Lightning Bolts:** Strike enemies with powerful bolts of electricity.
   - **Electric Fields:** Generate fields of static electricity that can harm or repel foes.
@@ -38,7 +38,7 @@
 
 ### 3.1. Characteristics
 
-- **Appearance:** Fire type creatures often have fiery manes, scales, or other features that resemble flames. Their colors are typically warm tones like red, orange, and yellow.
+- **Appearance:** Fire type characters often have fiery manes, scales, or other features that resemble flames. Their colors are typically warm tones like red, orange, and yellow.
 - **Abilities:**
   - **Fireballs:** Throw balls of fire that explode on impact.
   - **Flame Breath:** Exhale streams of fire to incinerate targets.
@@ -55,7 +55,7 @@
 
 ### 4.1. Characteristics
 
-- **Appearance:** Ground type creatures often have rocky or earthy textures, and their forms are robust and solid, often featuring shades of brown and green.
+- **Appearance:** Ground type characters often have rocky or earthy textures, and their forms are robust and solid, often featuring shades of brown and green.
 - **Abilities:**
   - **Earthquakes:** Shake the ground to disrupt and damage enemies.
   - **Rock Shields:** Create barriers of rock or earth to protect themselves.
@@ -72,7 +72,7 @@
 
 ### 5.1. Characteristics
 
-- **Appearance:** Ice type creatures often have icy exteriors, crystalline features, or emit a frosty aura. Their colors are typically cool tones like blue, white, and silver.
+- **Appearance:** Ice type characters often have icy exteriors, crystalline features, or emit a frosty aura. Their colors are typically cool tones like blue, white, and silver.
 - **Abilities:**
   - **Frost Breath:** Emit a blast of cold air to freeze targets.
   - **Ice Shards:** Launch sharp fragments of ice as projectiles.
@@ -89,7 +89,7 @@
 
 ### 6.1. Characteristics
 
-- **Appearance:** Water type creatures often have smooth, flowing forms, and may feature elements reminiscent of aquatic life such as fins, scales, or webbed limbs. Their colors are usually shades of blue, aqua, and green.
+- **Appearance:** Water type characters often have smooth, flowing forms, and may feature elements reminiscent of aquatic life such as fins, scales, or webbed limbs. Their colors are usually shades of blue, aqua, and green.
 - **Abilities:**
   - **Water Jets:** Shoot powerful streams of water to knock back or damage enemies.
   - **Tidal Waves:** Create large waves to sweep away obstacles and opponents.
