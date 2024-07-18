@@ -46,4 +46,4 @@ The **Week of Genesis** is a time of excitement, discovery, and celebration, mar
 
 ## Revelation Day
 
-Throughout the first six days of the **Week of Genesis**, the new creatures’ appearances are showcased, but their names and stats remain unknown until **Revelation Day**. On this seventh day, the creatures are officially presented to the world, and players can discover their names and native stats. After this day, the newly spawned creatures begin their journey to potentially become legends, integrating into their environments where players can start following their development.
+Throughout the first six days of the **Week of Genesis**, the new characters’ appearances are showcased, but their names and stats remain unknown until **Revelation Day**. On this seventh day, the characters are officially presented to the world, and players can discover their names and native stats. After this day, the newly spawned creatures begin their journey to potentially become legends, integrating into their environments where players can start following their development.
