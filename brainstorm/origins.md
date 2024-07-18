@@ -2,7 +2,7 @@
 
 ## 1. Bio
 
-Creatures with biological origins are grounded in the natural world and may exhibit characteristics akin to earthly animals and plants. They thrive in environments that mimic natural ecosystems.
+Characters with biological origins are grounded in the natural world and may exhibit characteristics akin to earthly animals and plants. They thrive in environments that mimic natural ecosystems.
 
 ### 1.1. Characteristics
 
@@ -17,7 +17,7 @@ Creatures with biological origins are grounded in the natural world and may exhi
 
 ## 2. Cosmic
 
-Creatures with cosmic origins are tied to the universe beyond the planet, embodying the essence of stars, planets, and cosmic phenomena.
+Characters with cosmic origins are tied to the universe beyond the planet, embodying the essence of stars, planets, and cosmic phenomena.
 
 ### 2.1. Characteristics
 
@@ -32,7 +32,7 @@ Creatures with cosmic origins are tied to the universe beyond the planet, embody
 
 ## 3. Mystic
 
-Creatures with mystic origins are steeped in magic and spiritual energy. They often inhabit realms or dimensions where magic is a fundamental force.
+Characters with mystic origins are steeped in magic and spiritual energy. They often inhabit realms or dimensions where magic is a fundamental force.
 
 ### 3.1. Characteristics
 
@@ -47,7 +47,7 @@ Creatures with mystic origins are steeped in magic and spiritual energy. They of
 
 ## 4. Tech
 
-Creatures with technological origins are either artificial constructs or beings that have heavily integrated technology into their biology.
+Characters with technological origins are either artificial constructs or beings that have heavily integrated technology into their biology.
 
 ### 4.1. Characteristics
 
