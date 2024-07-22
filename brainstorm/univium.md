@@ -75,3 +75,21 @@ Characters who have achieved the highest level of wisdom and expertise and have 
 #### Rogues
 
 These characters roam freely across their respective regions and can be found and followed at any time. They may not have been picked to enroll in one of the **Houses of Mastery** or were dropped by one, or they could be retired **Legends** or **Masters**.
+
+### Origins
+
+#### Bio
+
+Characters with the **Bio** origin hail from **Bionyx** and are deeply connected to the natural world. They exhibit features reminiscent of earthly animals and plants, such as fur, scales, feathers, or plant-like appendages. Some may even resemble mythical creatures like dragons or griffins, embodying the rich biodiversity of their home region. These characters thrive in diverse ecosystems, including dense forests, vast plains, deep oceans, and mountainous terrains.
+
+#### Cosmic
+
+Emerging from **Cosmyn**, characters with a **Cosmic** origin are attuned to the celestial and otherworldly aspects of the universe. They often have features that reflect the vastness of space, such as starry patterns on their skin, glowing eyes, or comet-like trails. Their appearance may be ethereal, and some may even embody the essence of celestial beings or phenomena. These characters thrive in environments filled with cosmic energy, including floating islands, asteroid fields, and starry skies.
+
+#### Mystic
+
+Originating from **Mysteon**, characters with a **Mystic** origin are deeply connected to the arcane and magical forces of the universe. They often exhibit features that reflect their mystical nature, such as glowing runes on their skin, ethereal auras, or elements that seem enchanted or otherworldly. Their appearance can be both mysterious and enchanting, embodying the essence of mythical beings and ancient magic. These characters thrive in environments rich with arcane energy, including enchanted forests, mystical peaks, hidden valleys, and ancient ruins.
+
+#### Tech
+
+Hailing from **Techyon**, characters with a **Tech** origin are deeply integrated with advanced technology and industrial prowess. They often have features that reflect their technological nature, such as mechanical enhancements, digital interfaces, or cybernetic augmentations. These characters can embody a range of appearances, from sleek and futuristic to rugged and industrial. They thrive in high-tech environments, including sprawling cities, advanced laboratories, and industrial complexes filled with cutting-edge technology and innovation.
