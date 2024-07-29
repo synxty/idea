@@ -1,4 +1,20 @@
-# Univium
+# Synxty
+
+## Lore
+
+Eons ago, on the distant planet of Univium, a relentless and fierce conflict raged across its singular, sprawling continent, Anarkya. This central battleground was the heart of a ceaseless war where the forces of nature, mysticism, technology, and cosmic energy clashed in an eternal struggle for dominance. The devastation grew so immense that it threatened to consume all of Univium.
+
+In a desperate bid to restore balance and harmony, The Creator, a powerful and enigmatic entity, intervened. Drawing upon the core elements of the universe, The Creator fused six precious and potent stones, known as the Elemental Crystals, and unleashed a monumental blast at the heart of Anarkya.
+
+The blast was so powerful that it shattered the continent and shredded the Elemental Crystals into fragments that scattered across the world. The resulting cataclysm isolated the warring forces, and as they combined with the fragments of the Elemental Crystals, they began to shape the new regions of Univium.
+
+At the epicenter of this cataclysm, a vast and uncharted land emerged, surrounded by the four newly formed regions. To prevent this central land from becoming a new source of conflict, The Creator devised a plan to ensure peace and unity. Embracing the idea of competition over war, The Creator established a grand tournament known as the Anarkya Championship. This event would gather creatures from the four surrounding regions to compete, showcasing their strength, strategy, and skill. The championship aimed to determine the strongest region, fostering a sense of healthy rivalry and cooperation.
+
+The Anarkya Championship was a beacon of hope, a way to channel the competitive spirit of the inhabitants into something constructive. This grand event transformed this land into a thriving hub of activity and camaraderie, where the best from each region came to prove their worth. The region was later baptized as Synxty, symbolizing unity and synergy. Synxty became a testament to the potential for peace through competition, a place where rivalry turned into respect, and where the legacy of Anarkya was reshaped into a future of harmony and excellence.
+
+The Creator’s vision was realized as the championship became a celebration of unity, strength, and the enduring spirit of Univium’s diverse inhabitants.
+
+## Univium
 
 **Univium** is an expansive and diverse universe, composed of various regions that collectively contribute to its overall harmony and vibrancy. It embodies the balance and unity of nature, technology, magic, and cosmic forces. This universe is not just a backdrop but a living, breathing entity that evolves with the characters and events within it.
 
@@ -26,15 +42,39 @@ At the center of **Univium** lies **Synxty**, a region of unparalleled grandeur 
 
 These summaries provide a quick look into each region of **Univium**. Later on, we’ll dive deeper into their unique characteristics and the roles they play in the grand tapestry of **Univium**.
 
-## Elements
+## Elemental Crystals
+
+### Aeroxyn
+
+Represents swiftness and agility, embodying the essence of wind and flight. Predominant in: Bionyx and Cosmyn. Found in: high altitudes, mountain peaks, and windy plains.
+
+### Electrium
+
+Represents speed and energy, harnessing the force of lightning and the rapid flow of electrical circuits. Predominant in: Mysteon and Techyon. Found in: stormy areas and technological hubs.
+
+### Pyronyte
+
+Represents intensity and ferocity, wielding the power of flames and heat. Predominant in: Cosmyn and Techyon. Found in: volcanic areas and industrial zones.
+
+### Terrox
+
+Represents resilience and endurance, reflecting the stability of soil and the fortitude of mountains. Predominant in: Bionyx and Techyon. Found in: mountainous terrains and underground tunnels.
+
+### Cryonite
+
+Represents perseverance and harshness, capturing the nature of glaciers, icy peaks, and blizzards. Predominant in: Cosmyn and Mysteon. Found in: icy landscapes and high-altitude regions.
+
+### Tidalyn
+
+Represents strength and fluidity, reflecting the flow of rivers and the might of oceans. Predominant in: Bionyx and Mysteon. Found in: rivers, lakes, and coastal areas.
 
 In **Univium**, elements are the core forces that shape each region and influence the lives of its inhabitants. These elements go beyond physical substances; they embody the energies and principles driving the biological, cosmic, technological, and mystical phenomena in the universe. While these elements are found in every region, their predominance varies based on each region’s unique characteristics.
 
 - **Air:** Represents swiftness and agility, embodying the essence of wind and flight. Predominant in: **Bionyx** and **Cosmyn**.
 - **Electric:** Represents speed and energy, harnessing the force of lightning and the rapid flow of electrical circuits. Predominant in: **Mysteon** and **Techyon**.
-- **Fire:** Represents intensity and ferocity, wielding the power of flames and heat. Predominant in: **Cosmyn** and **Techyon**.
+- **Fire:** Represents intensity and ferocity, wielding the power of flames and heat. Predominant in: **Cosmyn** and **Mysteon**.
 - **Ground:** Represents resilience and endurance, reflecting the stability of soil and the fortitude of mountains. Predominant in: **Bionyx** and **Techyon**.
-- **Ice:** Represents perseverance and harshness, capturing the nature of glaciers, icy peaks, and blizzards. Predominant in: **Cosmyn** and **Mysteon**.
+- **Ice:** Represents perseverance and harshness, capturing the nature of glaciers, icy peaks, and blizzards. Predominant in: **Cosmyn** and **Techyon**.
 - **Water:** Represents strength and fluidity, reflecting the flow of rivers and the might of oceans. Predominant in: **Bionyx** and **Mysteon**.
 
 In **Synxty**, even though all elements are present, the predominance of any single one is not really relevant as the technological and societal advancements in this region mitigate the influence of elements on the environment.
@@ -93,3 +133,9 @@ Originating from **Mysteon**, characters with a **Mystic** origin are deeply con
 #### Tech
 
 Hailing from **Techyon**, characters with a **Tech** origin are deeply integrated with advanced technology and industrial prowess. They often have features that reflect their technological nature, such as mechanical enhancements, digital interfaces, or cybernetic augmentations. These characters can embody a range of appearances, from sleek and futuristic to rugged and industrial. They thrive in high-tech environments, including sprawling cities, advanced laboratories, and industrial complexes filled with cutting-edge technology and innovation.
+
+### Types
+
+#### Air
+
+Characters with the Air type are known for their swiftness and agility, embodying the essence of wind and flight. They often appear light and agile, with features that aid in flight or wind manipulation, such as wings, feathers, or other aerodynamic parts. Their movements are fluid and fast, and their colors often include shades of white, light blue, and silver, reflecting their association with the sky and wind. These characters thrive in open skies, high altitudes, mountain peaks, and windy plains.
