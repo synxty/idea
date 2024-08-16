@@ -40,9 +40,15 @@ Forged by the technological forces unleashed in the aftermath of **The Great Sun
 
 ## Elemental Crystals
 
+Forged by **The Creator** to balance **Univium**, the **Elemental Crystals** were powerful sources of energy that influenced the planet’s climate, weather, natural phenomena, and life forms. Recognizing their immense power, **The Creator** fused the crystals to unleash a concentrated blast, resulting in **The Great Sundering** that fractured **Anarkya** and reshaped the world. This cataclysm shattered the crystals into fragments, scattering them across the newly formed regions. Even in their fragmented state, these crystals retained their essence and power, merging with regional forces to shape unique landscapes. Today, these potent shards continue to influence the environments and inhabitants of the regions they occupy, making their presence a defining aspect of life in **Univium**. However, these crystal fragments are not evenly distributed. In each region, certain crystals are more predominant, their impact on the environment more pronounced, defining key aspects of the landscape, climate, and life forms. Other crystals, though present, exert a more subtle influence, contributing to the overall diversity without dominating the region’s character. This uneven distribution creates a rich tapestry of elemental energies across **Univium**, with each region reflecting a unique blend of crystal influences. An exception is **Synxty**, the core of the blast, where no crystal fragments settled after **The Great Sundering**. This absence of elemental influence makes **Synxty** a neutral ground, where the convergence of regional characteristics fosters innovation and unity.
+
 ### Aeroxyn
 
-Represents swiftness and agility, embodying the essence of wind and flight. Predominant in: Bionyx and Cosmyn. Found in: high altitudes, mountain peaks, and windy plains.
+**Aeroxyn** is the **Elemental Crystal** of **Air**, embodying the essence of wind, sky, and the breath of life that flows through **Univium**. This crystal’s power influences the currents of air that sweep across the planet, shaping weather patterns, controlling the winds, and even affecting the atmospheric conditions of the regions where its fragments have settled. The energy of **Aeroxyn** is associated with swiftness, freedom, and the unseen forces that guide the world from above.
+
+**Aeroxyn’s** influence is most evident in landscapes dominated by vast open skies, sweeping plains, and towering cliffs, where the wind is a constant presence. Floating islands drift lazily through the air, suspended by unseen currents, and the weather is highly dynamic, with frequent gusts, sudden changes in atmospheric pressure, and swirling clouds. These areas are characterized by a sense of constant motion and freedom, where the air itself seems alive. The influence of **Aeroxyn** also extends to the beings that dwell here, imbuing them with traits of agility, lightness, and heightened awareness.
+
+**Aeroxyn** is most predominant in the regions of **Bionyx** and **Cosmyn**, where its presence strongly shapes the environment and the lives of those who inhabit these lands. While **Aeroxyn** is a force of nature that cannot be controlled, its pervasive influence serves as a constant reminder of the world’s ever-changing, unpredictable nature.
 
 ### Electrium
 
