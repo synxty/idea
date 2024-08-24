@@ -1,6 +1,6 @@
-# Synxty League
+# Synxty
 
-Welcome to the **Synxty League**! Immerse yourself in a world where unity and competition converge in thrilling contests of strategy, teamwork, and skill. Explore the vibrant regions, diverse cultures, and innovative communities that define the planet **Univium**, home to the **Synxty** region where the league takes place. Whether you’re here to delve into the rich history of this world, discover its unique landscapes, or join in the excitement of the games, there’s something for everyone. Let the adventure begin!
+Welcome to the **Synxty**! Immerse yourself in a world where unity and competition converge in thrilling contests of strategy, teamwork, and skill. Explore the vibrant regions, diverse cultures, and innovative communities that define the planet **Univium**, home to the **Synxty** region where the league takes place. Whether you’re here to delve into the rich history of this world, discover its unique landscapes, or join in the excitement of the games, there’s something for everyone. Let the adventure begin!
 
 ## Lore
 
@@ -90,48 +90,47 @@ Forged by **The Creator** to balance **Univium**, the **Elemental Crystals** wer
 
 **Tidalyn** is most predominant in the regions of **Bionyx** and **Mysteon**, where its presence shapes both the lush natural environments and the mystical practices that rely on the cleansing and transformative power of water. As a force that both nurtures and reshapes, **Tidalyn** serves as a reminder of the essential, yet unpredictable, nature of water—a force that sustains life but also commands respect for its ability to change the world.
 
-## Cycles
+## The Synxty League: A Brief Overview
 
-The natural cycles of day and night play a crucial role in shaping the environment and influencing the activities within it. These cycles are fundamental to the balance of the regions, representing the eternal struggle between light and dark, good and evil.
+**Univium** is a world of extraordinary diversity, where life thrives in myriad forms across its distinct regions. Each area, from the dense forests and vast oceans of **Bionyx** to the surreal landscapes of **Cosmyn**, hosts a unique array of creatures, plants, and beings, all deeply connected to the elemental forces that shape the planet. The diverse environments and life forms across **Univium** set the stage for a grand competition that is about to unite them all—the inaugural season of the **Synxty League**.
 
-- **Day:** The arrival of day bathes the land in light and warmth, fostering growth, activity, and a sense of well-being. Daylight is synonymous with positive forces, embodying benevolence, protection, and the triumph of good.
-- **Night:** As the light fades, night casts its shadow, bringing coolness, mystery, and silence. The darkness veils the unknown, where malevolent forces often lurk, underscoring the ever-present threat of evil.
+Central to the rhythm of life in **Univium**, the **Synxty League** is poised to become the heartbeat of the planet’s societies, uniting characters from all regions in a showcase of skill, strategy, and teamwork. More than just a series of games, the **Synxty League** is expected to become a cultural cornerstone, influencing every aspect of life in **Univium**. From the training of teams to the design of cities, and even the daily activities of its inhabitants, everything is anticipated to be connected to the league in some way.
 
-The balance between day and night is more than just a natural cycle, it reflects the universe’s fundamental duality. Together, they weave a tapestry of contrast and conflict, shaping the destinies of **Univium’s** inhabitants and the very essence of the world itself.
+Cities in **Synxty** can be home to their own **Franchise**, a prestigious organization that will represent the city’s spirit, ambition, and uniqueness within the **Synxty League**. Each **Franchise** is set to serve as a focal point for innovation, strategy, and community engagement. To compete in the league, a **Franchise** must assemble a team of **Characters**. These **Characters**, known throughout **Univium** as **Legends**, are contracted to form a team and compete for the title of **Champion**.
 
-## Life in Univium
-
-Life in **Univium** revolves around the prestigious **Synxty League**, a grand competition that takes place in **Synxty** and unites characters from all regions in a showcase of skill, strategy, and teamwork. **Characters** that compete in the **Synxty League** are known as **Legends** and are contracted by **Franchises** to form a team and compete for the title of **Champion**. The **Synxty League** is not just a series of matches, it is a celebration of excellence, determination, and the endless possibilities that life in **Univium** offers. Through their participation, **Legends** contribute to the ever-evolving narrative making this universe a place of perpetual growth and adventure.
-
-Beyond the competition, from the mystical landscapes of **Mysteon**, the celestial wonders of **Cosmyn**, the vibrant ecosystems of **Bionyx**, and the advanced innovations of **Techyon**, each region is home to unique beings with their own stories and ambitions.
+This section offers just a glimpse into the significance of the **Synxty League** as it prepares to launch its first season. We will delve deeper into the intricate details of the league, its structure, rules, events, prizes, and more in later sections.
 
 ## Characters
 
-Characters are the heart and soul of **Univium**, driving its narrative and embodying its essence. Each character is unique, shaped by their environment, elemental affiliation, and the cyclical nature of day and night.
+**Characters** are the driving force of **Univium**, propelling its narrative forward and encapsulating the very essence of the world. Each character is a distinct entity, molded by their **Origin**—the region from which they hail, by their **Type**—from the elemental crystal they draw their power, and by their **Soul**—their inner nature. These characters are more than mere participants in the unfolding story of **Univium**; they are its heartbeat, its voice, and its soul, each one contributing to the rich and diverse tapestry that makes up this extraordinary world.
 
 ### Classes
 
+In **Univium**, **Characters** fall into distinct **Classes**, each playing a crucial role in the world and the **Synxty League**. These classes reflect their development, responsibilities, and place within the broader narrative. Whether they are elite competitors, promising talents, wise mentors, or independent wanderers, each **Class** contributes uniquely to the rich tapestry of **Univium**’s story.
+
 #### Legends
 
-Characters that have reached an elite level of development and have been drafted by a **Franchise** to participate in the **Synxty Championship**. They are the pride of their respective region and have the opportunity to fight for the title of **Champion** and be eternally remembered in the history of **Synxty**.
+**Characters** that have reached an elite level of development and have been drafted by a **Franchise** to participate in the **Synxty League**. They are the pride of their respective region and have the opportunity to fight for the title of **Champion** and be eternally remembered in the history of **Synxty**.
 
 #### Prospects
 
-Characters in training within specialized institutions known as **House of Mastery**. These characters show exceptional potential and are undergoing rigorous development in preparation for the possibility of becoming **Legends** and competing in the **Synxty League**.
+**Characters** in training within specialized institutions known as **Houses of Mastery**. These characters show exceptional potential and are undergoing rigorous development in preparation for the possibility of becoming **Legends** and competing in the **Synxty League**.
 
 #### Masters
 
-Characters who have achieved the highest level of wisdom and expertise and have chosen to become **Masters**. They are responsible for mentoring and training **Prospects** in the **Houses of Mastery** but also conducting research across regions to find and develop new **Abilities**. **Masters** can be former **Legends**, former **Prospects** who never became **Legends**, or even **Rogues** whose wisdom and interest have led them to this path.
+**Characters** who have achieved the highest level of wisdom and expertise and have chosen to become **Masters**. They are responsible for mentoring and training **Prospects** in the **Houses of Mastery** but also conducting research across regions to find and develop new **Abilities**. **Masters** can be former **Legends**, former **Prospects** who never became **Legends**, or even **Rogues** whose wisdom and interest have led them to this path.
 
 #### Rogues
 
-These characters roam freely across their respective regions and can be found and followed at any time. They may not have been picked to enroll in one of the **Houses of Mastery** or were dropped by one, or they could be retired **Legends** or **Masters**.
+**Characters** that roam freely across their respective regions and can be found and followed at any time. They may not have been picked to enroll in one of the **Houses of Mastery** or were dropped by one, or they could be retired **Legends** or **Masters**.
 
 ### Origins
 
+A **Character**’s **Origin** in **Univium** is defined by their homeland, influencing both their appearance and essence. Whether from the vibrant wilds of **Bionyx**, the mysterious enchantment of **Mysteon**, the futuristic landscapes of **Techyon**, or the celestial expanses of **Cosmyn**, each region leaves a unique mark on the characters who emerge from it.
+
 #### Bio
 
-Characters with the **Bio** origin hail from **Bionyx** and are deeply connected to the natural world. They exhibit features reminiscent of earthly animals and plants, such as fur, scales, feathers, or plant-like appendages. Some may even resemble mythical creatures like dragons or griffins, embodying the rich biodiversity of their home region. These characters thrive in diverse ecosystems, including dense forests, vast plains, deep oceans, and mountainous terrains.
+Characters with the **Bio** **Origin** hail from **Bionyx** and are intrinsically connected to the natural world. They exhibit features reminiscent of earthly animals and plants, such as fur, scales, feathers, or plant-like appendages. Some may even take on the forms of powerful creatures like dragons or griffins, embodying the rich biodiversity of their home region. These characters thrive in various ecosystems, from dense forests and vast plains to deep oceans and towering mountains, reflecting the adaptability and vitality of **Bionyx**’s unique environments.
 
 #### Cosmic
 
