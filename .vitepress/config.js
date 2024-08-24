@@ -5,6 +5,7 @@ export default defineConfig({
   title: 'Synxty Docs',
   description: 'Read everything about Synxty here!',
   base: '/idea/',
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
