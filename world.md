@@ -165,3 +165,7 @@ Hailing from **Techyon**, **Characters** with a **Tech** **Origin** are deeply i
 #### Fire
 
 **Fire**-type **Characters** draw their power from the **Pyronyte** crystal, embodying the fierce and consuming energy of flames and heat. Known for their strength and relentlessness, they often have features that evoke the essence of fire, such as glowing skin, flickering flames, or molten elements integrated into their form. Their appearance usually includes warm hues like red, orange, and gold, capturing the dynamic colors of fire and molten lava. These **Characters** thrive in volcanic landscapes, scorching deserts, and other areas with extreme heat, where they can fully unleash the power of **Pyronyte**.
+
+#### Ground
+
+**Ground**-type **Characters** draw their power from the **Terrox** crystal, embodying the solid and enduring strength of the earth. Known for their endurance and resilience, they often have features reminiscent of rock, soil, or metal, such as rugged skin, crystalline formations, or mineral-like armor. Their appearance typically includes earthy tones like brown, green, and gray, reflecting their deep connection to the land and its raw materials. These **Characters** excel in mountainous terrains, dense forests, and other grounded environments, where they can fully harness the power of **Terrox**.
