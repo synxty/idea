@@ -157,3 +157,7 @@ Hailing from **Techyon**, **Characters** with a **Tech** **Origin** are deeply i
 #### Air
 
 **Air**-type **Characters** draw their power from the **Aeroxyn** crystal, embodying the spirit of wind and flight. Known for their swiftness and agility, they have a light build, often with wings or other aerodynamic features that enhance their movement and control over air currents. Their movements are graceful and swift, and their appearance typically includes hues of white, light blue, and silver, reflecting their connection to the sky and shifting winds. These **Characters** thrive in open skies, atop mountain peaks, and across windy plains, where they can fully harness the power of **Aeroxyn**.
+
+#### Electric
+
+**Electric**-type **Characters** draw their power from the **Electrium** crystal, embodying the dynamic energy of electricity and lightning. Known for their speed and intensity, they often exhibit features that crackle with energy, such as glowing patterns, electric arcs, or conductive elements integrated into their bodies. Their appearance tends to include vivid hues of yellow, blue, and white, reflecting the colors of lightning bolts and electrical surges. These **Characters** excel in stormy environments, areas with high electromagnetic activity, and places charged with electricity, where they can fully tap into the power of **Electrium**.
