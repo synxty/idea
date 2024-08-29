@@ -10,7 +10,7 @@ Welcome to the **Synxty**! Immerse yourself in a world where unity and competiti
 
 ## Lore
 
-Eons ago, on the distant planet **Univium**, a relentless war raged across the sprawling continent of **Anarkya**. Forces of biological, mystical, technological, and cosmic energy clashed in an unending struggle for dominance, threatening to consume the entire planet. In a desperate bid to restore balance, **The Creator**, a powerful and enigmatic entity, intervened.
+Eons ago, on the distant planet **Univium**, a relentless war raged across the sprawling continent of **Anarkya**. Forces of **Biological**, **Cosmic**, **Mystical**, and **Technological**, clashed in an unending struggle for dominance, threatening to consume the entire planet. In a desperate bid to restore balance, **The Creator**, a powerful and enigmatic entity, intervened.
 
 Drawing upon the universe’s core elements, **The Creator** fused six **Elemental Crystals** and unleashed a monumental blast at the heart of **Anarkya**. This cataclysmic event, known as **The Great Sundering**, shattered the crystals and fractured the continent into four new distinct regions. The warring forces were confined to these regions, and alongside the scattered fragments of the **Elemental Crystals**, unique environments and landscapes began to take shape.
 
@@ -30,7 +30,7 @@ At the center of **Univium** lies **Synxty**, a region of unparalleled grandeur 
 
 ### Bionyx: Univium’s Biome
 
-Born from the isolation of biological energies unleashed by the cataclysmic explosion that fractured **Anarkya**, **Bionyx** is a lush and vibrant area teeming with life and natural beauty. It encompasses dense forests, expansive plains, vast oceans, and even volcanic and glacial areas, creating a dynamic environment rich in contrasts. The region features small settlements that blend seamlessly with the natural surroundings, promoting sustainability and harmony with nature. These communities serve as hubs for interaction and resource gathering, while the wilderness remains largely untouched, fostering a deep connection with the environment. This balance makes **Bionyx** a vital and cherished part of **Univium**, embodying the essence of life and nature.
+Born from the isolation of biological forces unleashed by the cataclysmic explosion that fractured **Anarkya**, **Bionyx** is a lush and vibrant area teeming with life and natural beauty. It encompasses dense forests, expansive plains, vast oceans, and even volcanic and glacial areas, creating a dynamic environment rich in contrasts. The region features small settlements that blend seamlessly with the natural surroundings, promoting sustainability and harmony with nature. These communities serve as hubs for interaction and resource gathering, while the wilderness remains largely untouched, fostering a deep connection with the environment. This balance makes **Bionyx** a vital and cherished part of **Univium**, embodying the essence of life and nature.
 
 ### Cosmyn: Univium’s Cosmic Expanse
 
@@ -38,7 +38,7 @@ Cosmyn is an otherworldly region shaped by the cosmic forces that converged here
 
 ### Mysteon: Univium’s Mystic Realm
 
-Rooted in ancient mysticism and magic, **Mysteon** emerged as a realm where mystical energies converged following **The Great Sundering** and converged in this region. This enchanting realm is characterized by ancient forests, shimmering lakes, and mystical ruins, creating an atmosphere steeped in wonder and mystery. The landscape is dotted with ethereal phenomena such as floating orbs of light, enchanted flora, and ancient stone circles that pulse with magical energy. Interspersed with these serene settings are powerful thunderstorms, raging blizzards, and tempestuous ocean storms, reminiscent of mythical battles and godly conflicts, that sweep through the region, adding to its mystique. Small villages and hidden sanctuaries blend harmoniously with the natural surroundings, serving as centers for mystical study and practice. The inhabitants of **Mysteon** are deeply attuned to the magical energies of the land, using their powers to explore the arcane. This profound connection to mysticism, combined with its dramatic and powerful natural phenomena, makes **Mysteon** a place of significant spiritual importance and a vital part of **Univium**’s rich tapestry.
+Rooted in ancient mysticism and magic, **Mysteon** emerged as a realm where mystical forces converged following **The Great Sundering** and converged in this region. This enchanting realm is characterized by ancient forests, shimmering lakes, and mystical ruins, creating an atmosphere steeped in wonder and mystery. The landscape is dotted with ethereal phenomena such as floating orbs of light, enchanted flora, and ancient stone circles that pulse with magical energy. Interspersed with these serene settings are powerful thunderstorms, raging blizzards, and tempestuous ocean storms, reminiscent of mythical battles and godly conflicts, that sweep through the region, adding to its mystique. Small villages and hidden sanctuaries blend harmoniously with the natural surroundings, serving as centers for mystical study and practice. The inhabitants of **Mysteon** are deeply attuned to the magical energies of the land, using their powers to explore the arcane. This profound connection to mysticism, combined with its dramatic and powerful natural phenomena, makes **Mysteon** a place of significant spiritual importance and a vital part of **Univium**’s rich tapestry.
 
 ### Techyon: Univium’s Technological Hub
 
@@ -161,3 +161,7 @@ Hailing from **Techyon**, **Characters** with a **Tech** **Origin** are deeply i
 #### Electric
 
 **Electric**-type **Characters** draw their power from the **Electrium** crystal, embodying the dynamic energy of electricity and lightning. Known for their speed and intensity, they often exhibit features that crackle with energy, such as glowing patterns, electric arcs, or conductive elements integrated into their bodies. Their appearance tends to include vivid hues of yellow, blue, and white, reflecting the colors of lightning bolts and electrical surges. These **Characters** excel in stormy environments, areas with high electromagnetic activity, and places charged with electricity, where they can fully tap into the power of **Electrium**.
+
+#### Fire
+
+**Fire**-type **Characters** draw their power from the **Pyronyte** crystal, embodying the fierce and consuming energy of flames and heat. Known for their strength and relentlessness, they often have features that evoke the essence of fire, such as glowing skin, flickering flames, or molten elements integrated into their form. Their appearance usually includes warm hues like red, orange, and gold, capturing the dynamic colors of fire and molten lava. These **Characters** thrive in volcanic landscapes, scorching deserts, and other areas with extreme heat, where they can fully unleash the power of **Pyronyte**.
