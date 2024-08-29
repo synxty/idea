@@ -173,3 +173,7 @@ Hailing from **Techyon**, **Characters** with a **Tech** **Origin** are deeply i
 #### Ice
 
 **Ice**-type **Characters** draw their power from the **Cryonite** crystal, embodying the cold, still energy of ice, frost and snow. Known for their clarity and purity, they often have features that reflect the frozen expanses, such as icy skin, crystalline patterns, or frost-covered elements. Their appearance is typically adorned with cool shades like light blue, white, and light gray, mirroring the colors of glaciers, snow, and frozen lakes. These **Characters** thrive in arctic landscapes, frozen tundras, glacial fields, and other cold environments, where they can fully tap into the power of **Cryonite**.
+
+#### Water
+
+**Water**-type **Characters** draw their power from the **Tidalyn** crystal, embodying the fluid, ever-changing energy of oceans, rivers, and rain. Known for their adaptability and flow, they often feature elements that evoke water’s dynamic nature, such as scales, fins, or aquatic motifs. Their appearance typically includes cool, flowing shades like deep blue, turquoise, and sea green, reflecting the vast and vibrant waters of **Univium**. These **Characters** thrive in aquatic environments, such as deep oceans, rushing rivers, and tranquil lakes, where they can fully channel the power of **Tidalyn**.
