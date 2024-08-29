@@ -148,7 +148,7 @@ Originating from **Mysteon**, **Characters** with a **Mystic** **Origin** are de
 
 #### Tech
 
-Hailing from **Techyon**, characters with a **Tech** origin are deeply integrated with advanced technology and industrial prowess. They often have features that reflect their technological nature, such as mechanical enhancements, digital interfaces, or cybernetic augmentations. These characters can embody a range of appearances, from sleek and futuristic to rugged and industrial. They thrive in high-tech environments, including sprawling cities, advanced laboratories, and industrial complexes filled with cutting-edge technology and innovation.
+Hailing from Techyon, characters with a Tech origin are deeply intertwined with advanced technology and industrial prowess. Their features often reflect their technological essence, with mechanical enhancements, digital interfaces, or cybernetic augmentations. These characters embody a wide range of appearances, from sleek and futuristic to rugged and industrial. They excel in high-tech environments, including sprawling cities, advanced laboratories, and industrial complexes brimming with cutting-edge innovation.
 
 ### Types
 
