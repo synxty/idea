@@ -148,10 +148,12 @@ Originating from **Mysteon**, **Characters** with a **Mystic** **Origin** are de
 
 #### Tech
 
-Hailing from Techyon, characters with a Tech origin are deeply intertwined with advanced technology and industrial prowess. Their features often reflect their technological essence, with mechanical enhancements, digital interfaces, or cybernetic augmentations. These characters embody a wide range of appearances, from sleek and futuristic to rugged and industrial. They excel in high-tech environments, including sprawling cities, advanced laboratories, and industrial complexes brimming with cutting-edge innovation.
+Hailing from **Techyon**, **Characters** with a **Tech** **Origin** are deeply intertwined with advanced technology and industrial prowess. Their features often reflect their technological essence, with mechanical enhancements, digital interfaces, or cybernetic augmentations. These characters embody a wide range of appearances, from sleek and futuristic to rugged and industrial. They excel in high-tech environments, including sprawling cities, advanced laboratories, and industrial complexes brimming with cutting-edge innovation.
 
 ### Types
 
+**Types** in **Univium** define the elemental energy from which a **Character** draws their power. Each **Type** is linked to one of the **Elemental Crystals**, representing a core element that shapes a **Character**’s appearance, abilities, strengths, weaknesses, and interactions with the world around them. Thus, the influence of the **Elemental Crystals** is fundamental to a **Character**’s identity in the ever-changing world of **Univium**.
+
 #### Air
 
-Characters with the Air type are known for their swiftness and agility, embodying the essence of wind and flight. They often appear light and agile, with features that aid in flight or wind manipulation, such as wings, feathers, or other aerodynamic parts. Their movements are fluid and fast, and their colors often include shades of white, light blue, and silver, reflecting their association with the sky and wind. These characters thrive in open skies, high altitudes, mountain peaks, and windy plains.
+**Air**-type **Characters** draw their power from the **Aeroxyn** crystal, embodying the spirit of wind and flight. Known for their swiftness and agility, they have a light build, often with wings or other aerodynamic features that enhance their movement and control over air currents. Their movements are graceful and swift, and their appearance typically includes hues of white, light blue, and silver, reflecting their connection to the sky and shifting winds. These **Characters** thrive in open skies, atop mountain peaks, and across windy plains, where they can fully harness the power of **Aeroxyn**.
