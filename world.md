@@ -177,3 +177,19 @@ Hailing from **Techyon**, **Characters** with a **Tech** **Origin** are deeply i
 #### Water
 
 **Water**-type **Characters** draw their power from the **Tidalyn** crystal, embodying the fluid, ever-changing energy of oceans, rivers, and rain. Known for their adaptability and flow, they often feature elements that evoke water’s dynamic nature, such as scales, fins, or aquatic motifs. Their appearance typically includes cool, flowing shades like deep blue, turquoise, and sea green, reflecting the vast and vibrant waters of **Univium**. These **Characters** thrive in aquatic environments, such as deep oceans, rushing rivers, and tranquil lakes, where they can fully channel the power of **Tidalyn**.
+
+### Souls
+
+In **Univium**, a **Character**’s **Soul** is the core of their identity, reflecting their deepest motivations, desires, and how they connect with the world around them. **Souls** in **Univium** manifest as either **Light** or **Dark**, each bringing unique qualities that shape a **Character**’s personality, guiding their actions and responses to the challenges they face. Beyond influencing their inner world, a **Character**’s **Soul** also affects their outward appearance, adding another layer to their presence within the diverse landscapes of **Univium**.
+
+#### Dark
+
+A **Character** with a **Dark** **Soul** in **Univium** carries a quiet intensity, exuding an aura of mystery with a gaze that delves deep into the world’s hidden truths. Driven by an indomitable strength and an innate understanding of life’s complexities, their presence is often marked by dark hues, shadowy undertones, or elements that evoke the unseen forces of the universe—frequently incorporating shades of black that enhance their enigmatic nature.
+
+Adaptable and resourceful, these **Characters** thrive amid uncertainty, facing the unknown with fierce determination and fearlessness. While they may not seek out the light, they compel others to confront their fears and embrace change. Balancing creation and destruction, they turn life’s darker aspects into fuel for transformation, growth, and renewal.
+
+#### Light
+
+A **Character** with a **Light** **Soul** in **Univium** radiates an uplifting energy, their presence warm and open, with a gaze that conveys compassion and understanding. They are motivated by a deep sense of purpose and an intuitive awareness of the world’s beauty and potential. Their appearance is often characterized by luminous qualities—soft hues, glowing features, or traits that reflect the brilliance of daylight or the gentle light of dawn, often in shades of white, gold, or soft pastels that enhance their inspiring aura.
+
+These **Characters** shine brightest in moments of hope, bringing positivity and a gentle touch to even the toughest challenges. Without turning away from the shadows, they offer clarity and guidance, helping others navigate uncertainty and encouraging growth and courage. They embody a balance between nurturing and protecting, using the light aspects of existence to heal, guide, and renew those around them.
