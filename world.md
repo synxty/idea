@@ -22,11 +22,9 @@ Over time, **Synxty** evolved from a war-torn land into a beacon of unity and pr
 
 ## Regions of Univium
 
-**Univium** is an expansive and diverse world, composed of five regions that collectively contribute to its overall harmony and vibrancy. It embodies the balance and unity of nature, technology, mysticism, and cosmic forces. This world is not just a backdrop but a living, breathing entity that evolves with the characters and events within it. The planet’s rich history and dynamic landscapes offer a tapestry of experiences and challenges, making **Univium** a place of endless possibilities and adventures. In this section, we will explore each of these five regions, highlighting their unique characteristics.
+**Univium** is an expansive and diverse world, composed of five regions that collectively contribute to its overall harmony and vibrancy. It embodies the balance and unity of **Biological**, **Cosmic**, **Mystical**, and **Technological** forces. This world is not just a backdrop but a living, breathing entity that evolves with the **Characters** and events within it. The planet’s rich history and dynamic landscapes offer a tapestry of experiences and challenges, making **Univium** a place of endless possibilities and adventures.
 
-### Synxty: The heart of Univium
-
-At the center of **Univium** lies **Synxty**, a region of unparalleled grandeur and significance. Born from the epicenter of **The Great Sundering**, **Synxty** symbolizes unity and synergy, transforming a war-torn land into a thriving center of innovation and cultural exchange. This vast and diverse area encompasses numerous cities, towns, and natural landscapes, each designed to inspire awe and foster a sense of community. Known for its vibrant culture of rivalry and ambition, **Synxty** thrives on the spirit of competition and progress. The prestigious **Synxty League** exemplifies this spirit, bringing together the region’s best teams to compete and achieve their highest potential. This dynamic environment makes **Synxty** a beacon of excellence and a testament to the potential of **Univium**.
+In this section, we will explore four of these five regions, highlighting their unique characteristics. The fifth region, **Synxty**, with its special significance and central role in **Univium**, will be detailed in the next section.
 
 ### Bionyx: Univium’s Biome
 
@@ -43,6 +41,16 @@ Rooted in ancient mysticism and magic, **Mysteon** emerged as a realm where **My
 ### Techyon: Univium’s Technological Hub
 
 Forged by the **Technological** forces unleashed in the aftermath of **The Great Sundering**, **Techyon** is a sprawling metropolis of gleaming skyscrapers, intricate machinery, and expansive research facilities. The landscape is dominated by towering structures, automated factories, and networks of high-speed transit systems that connect the various districts of this futuristic cityscape. Beneath the surface, an equally complex underground network thrives, with tunnels, subterranean laboratories, and expansive research centers driving the region’s relentless pursuit of innovation. The inhabitants of **Techyon** are deeply immersed in technological pursuits, constantly pushing the boundaries of science and engineering. This relentless drive for progress makes **Techyon** the engine of innovation within **Univium**.
+
+## Synxty: The heart of Univium
+
+At the center of **Univium** lies **Synxty**, a region of unparalleled grandeur and importance. Emerging from the aftermath of **The Great Sundering**, **Synxty** has transformed from a war-torn land into a flourishing center of innovation, cultural exchange, and boundless ambition. It is a region defined by its diversity, where a tapestry of cities, towns, and natural landscapes thrives under a spirit of unity, healthy rivalry, and progress.
+
+### Cities
+
+Cities in **Synxty** are vibrant and dynamic, shaped by a rich blend of traditions, ideas, and influences from all regions across **Univium**. Each city reflects the unique creativity and determination of its inhabitants, drawing inspiration from the lush biomes of **Bionyx**, the cosmic wonders of **Cosmyn**, the mystical forces of **Mysteon**, and the technological marvels of **Techyon**. Built across diverse landscapes—from rugged cliffs to fertile plains—these cities embody the values of progress, unity, and, above all, healthy rivalry.
+
+While collaboration is encouraged and celebrated, it is the rivalry between the cities that truly fuels the energy of **Synxty**. Each city strives to outdo the others in various fields, from technological advancements and cultural achievements to, most prominently, their performance in the **Synxty League**. This rivalry is more than mere competition; it is the foundation upon which **Synxty**’s spirit of excellence is built. It inspires cities to innovate, grow, and continuously push beyond their limits.
 
 ## Elemental Crystals
 
