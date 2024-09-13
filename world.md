@@ -24,7 +24,7 @@ Over time, **Synxty** evolved from a war-torn land into a beacon of unity and pr
 
 **Univium** is an expansive and diverse world, composed of five regions that collectively contribute to its overall harmony and vibrancy. It embodies the balance and unity of **Biological**, **Cosmic**, **Mystical**, and **Technological** forces. This world is not just a backdrop but a living, breathing entity that evolves with the **Characters** and events within it. The planet’s rich history and dynamic landscapes offer a tapestry of experiences and challenges, making **Univium** a place of endless possibilities and adventures.
 
-In this section, we will explore four of these five regions, highlighting their unique characteristics. The fifth region, **Synxty**, with its special significance and central role in **Univium**, will be detailed in the next section.
+In this section, we will explore four of these five regions, highlighting their unique characteristics. The fifth region, **Synxty**, with its special significance and central role in **Univium**, will be detailed in a later section.
 
 ### Bionyx: Univium’s Biome
 
@@ -41,16 +41,6 @@ Rooted in ancient mysticism and magic, **Mysteon** emerged as a realm where **My
 ### Techyon: Univium’s Technological Hub
 
 Forged by the **Technological** forces unleashed in the aftermath of **The Great Sundering**, **Techyon** is a sprawling metropolis of gleaming skyscrapers, intricate machinery, and expansive research facilities. The landscape is dominated by towering structures, automated factories, and networks of high-speed transit systems that connect the various districts of this futuristic cityscape. Beneath the surface, an equally complex underground network thrives, with tunnels, subterranean laboratories, and expansive research centers driving the region’s relentless pursuit of innovation. The inhabitants of **Techyon** are deeply immersed in technological pursuits, constantly pushing the boundaries of science and engineering. This relentless drive for progress makes **Techyon** the engine of innovation within **Univium**.
-
-## Synxty: The heart of Univium
-
-At the center of **Univium** lies **Synxty**, a region of unparalleled grandeur and importance. Emerging from the aftermath of **The Great Sundering**, **Synxty** has transformed from a war-torn land into a flourishing center of innovation, cultural exchange, and boundless ambition. It is a region defined by its diversity, where a tapestry of cities, towns, and natural landscapes thrives under a spirit of unity, healthy rivalry, and progress.
-
-### Cities
-
-Cities in **Synxty** are vibrant and dynamic, shaped by a rich blend of traditions, ideas, and influences from all regions across **Univium**. Each city reflects the unique creativity and determination of its inhabitants, drawing inspiration from the lush biomes of **Bionyx**, the cosmic wonders of **Cosmyn**, the mystical forces of **Mysteon**, and the technological marvels of **Techyon**. Built across diverse landscapes—from rugged cliffs to fertile plains—these cities embody the values of progress, unity, and, above all, healthy rivalry.
-
-While collaboration is encouraged and celebrated, it is the rivalry between the cities that truly fuels the energy of **Synxty**. Each city strives to outdo the others in various fields, from technological advancements and cultural achievements to, most prominently, their performance in the **Synxty League**. This rivalry is more than mere competition; it is the foundation upon which **Synxty**’s spirit of excellence is built. It inspires cities to innovate, grow, and continuously push beyond their limits.
 
 ## Elemental Crystals
 
@@ -103,16 +93,6 @@ Forged by **The Creator** to balance **Univium**, the **Elemental Crystals** wer
 **Tidalyn**’s influence is most apparent in landscapes dominated by water. Vast oceans stretch to the horizon, their tides rising and falling in rhythm with the crystal’s energy. Rivers carve their paths through the land, bringing life to the regions they touch, while tranquil lakes and bubbling springs serve as vital sources of water for all living things. The weather in these regions is often marked by frequent rainfall, mists that hang in the air, and the ever-present sound of water in motion. Storms can arise suddenly, with torrential rains and powerful waves that reshape coastlines and floodplains.
 
 **Tidalyn** is most predominant in the regions of **Bionyx** and **Mysteon**, where its presence shapes both the lush natural environments and the mystical practices that rely on the cleansing and transformative power of water. As a force that both nurtures and reshapes, **Tidalyn** serves as a reminder of the essential, yet unpredictable, nature of water—a force that sustains life but also commands respect for its ability to change the world.
-
-## The Synxty League: A Brief Overview
-
-**Univium** is a world of extraordinary diversity, where life thrives in myriad forms across its distinct regions. Each area, from the dense forests and vast oceans of **Bionyx** to the surreal landscapes of **Cosmyn**, hosts a unique array of creatures, plants, and beings, all deeply connected to the elemental forces that shape the planet. The diverse environments and life forms across **Univium** set the stage for a grand competition that is about to unite them all—the inaugural season of the **Synxty League**.
-
-Central to the rhythm of life in **Univium**, the **Synxty League** is poised to become the heartbeat of the planet’s societies, uniting characters from all regions in a showcase of skill, strategy, and teamwork. More than just a series of games, the **Synxty League** is expected to become a cultural cornerstone, influencing every aspect of life in **Univium**. From the training of teams to the design of cities, and even the daily activities of its inhabitants, everything is anticipated to be connected to the league in some way.
-
-Cities in **Synxty** can be home to their own **Franchise**, a prestigious organization that will represent the city’s spirit, ambition, and uniqueness within the **Synxty League**. Each **Franchise** is set to serve as a focal point for innovation, strategy, and community engagement. To compete in the league, a **Franchise** must assemble a team of **Characters**. These **Characters**, known throughout **Univium** as **Legends**, are contracted to form a team and compete for the title of **Champion**.
-
-This section offers just a glimpse into the significance of the **Synxty League** as it prepares to launch its first season. We will delve deeper into the intricate details of the league, its structure, rules, events, prizes, and more in later sections.
 
 ## Characters
 
@@ -201,3 +181,29 @@ Adaptable and resourceful, these **Characters** thrive amid uncertainty, facing 
 A **Character** with a **Light** **Soul** in **Univium** radiates an uplifting energy, their presence warm and open, with a gaze that conveys compassion and understanding. They are motivated by a deep sense of purpose and an intuitive awareness of the world’s beauty and potential. Their appearance is often characterized by luminous qualities—soft hues, glowing features, or traits that reflect the brilliance of daylight or the gentle light of dawn, often in shades of white, gold, or soft pastels that enhance their inspiring aura.
 
 These **Characters** shine brightest in moments of hope, bringing positivity and a gentle touch to even the toughest challenges. Without turning away from the shadows, they offer clarity and guidance, helping others navigate uncertainty and encouraging growth and courage. They embody a balance between nurturing and protecting, using the light aspects of existence to heal, guide, and renew those around them.
+
+## Synxty: The heart of Univium
+
+At the center of **Univium** lies **Synxty**, a region of unparalleled grandeur and importance. Emerging from the aftermath of **The Great Sundering**, **Synxty** has transformed from a war-torn land into a flourishing center of innovation, cultural exchange, and boundless ambition. It is a region defined by its diversity, where a tapestry of cities, towns, and natural landscapes thrives under a spirit of unity, healthy rivalry, and progress.
+
+### Cities
+
+Cities in **Synxty** are vibrant and dynamic, shaped by a rich blend of traditions, ideas, and influences from all regions across **Univium**. Each city reflects the unique creativity and determination of its inhabitants, drawing inspiration from the lush biomes of **Bionyx**, the cosmic wonders of **Cosmyn**, the mystical forces of **Mysteon**, and the technological marvels of **Techyon**. Built across diverse landscapes—from rugged cliffs to fertile plains—these cities embody the values of progress, unity, and, above all, healthy rivalry.
+
+The social fabric of **Synxty**’s cities is woven from the diverse backgrounds of its inhabitants. Here, individuals from all regions of **Univium** come together, bringing their unique skills, perspectives, and traditions. While collaboration is encouraged and celebrated, it is the rivalry between the cities that truly fuels the energy of **Synxty**. Each city strives to outdo the others in various fields, from technological advancements and cultural achievements to, most prominently, their performance in the **Synxty League**. This rivalry is more than mere competition; it is the foundation upon which **Synxty**’s spirit of excellence is built, inspiring cities to innovate, grow, and continuously push beyond their limits.
+
+### Towns
+
+Towns in **Synxty** are often found along the **Region**’s borders, where the proximity to neighboring areas deeply shapes their character. With smaller populations and vast surrounding landscapes, these towns offer a quieter, more rustic lifestyle. From the dense forests and rolling plains inspired by **Bionyx** to the mystical mists of **Mysteon**, the celestial skies of **Cosmyn**, and the technological advancements spilling over from **Techyon**, each town reflects a unique blend of landscape, climate, and culture. This merging of regional influences gives every town its own distinct identity, uniquely connected to both **Synxty** and its neighboring regions.
+
+Within these border towns, **Specialized Training Hubs** have been established to harness the unique **Origin** forces of the neighboring regions, offering **Legends** tailored opportunities to refine their skills. These hubs utilize the distinct features and conditions of the surrounding areas, making them ideal locations for **Legends** to train and enhance their core strengths, attributes, and overall performance in alignment with their **Origin**. These **Specialized Training Hubs** also host **Cross-Regional Training Programs**, where Legends can enroll to build resistance against origins they struggle with or to enhance their effectiveness. These programs are designed to help Legends refine their skills, build resilience, and adapt to a wider range of challenges, giving them a competitive edge in the **Synxty League**.
+
+## The Synxty League: A Brief Overview
+
+**Univium** is a world of extraordinary diversity, where life thrives in myriad forms across its distinct regions. Each area, from the dense forests and vast oceans of **Bionyx** to the surreal landscapes of **Cosmyn**, hosts a unique array of creatures, plants, and beings, all deeply connected to the elemental forces that shape the planet. The diverse environments and life forms across **Univium** set the stage for a grand competition that is about to unite them all—the inaugural season of the **Synxty League**.
+
+Central to the rhythm of life in **Univium**, the **Synxty League** is poised to become the heartbeat of the planet’s societies, uniting characters from all regions in a showcase of skill, strategy, and teamwork. More than just a series of games, the **Synxty League** is expected to become a cultural cornerstone, influencing every aspect of life in **Univium**. From the training of teams to the design of cities, and even the daily activities of its inhabitants, everything is anticipated to be connected to the league in some way.
+
+Cities in **Synxty** can be home to their own **Franchise**, a prestigious organization that will represent the city’s spirit, ambition, and uniqueness within the **Synxty League**. Each **Franchise** is set to serve as a focal point for innovation, strategy, and community engagement. To compete in the league, a **Franchise** must assemble a team of **Characters**. These **Characters**, known throughout **Univium** as **Legends**, are contracted to form a team and compete for the title of **Champion**.
+
+This section offers just a glimpse into the significance of the **Synxty League** as it prepares to launch its first season. We will delve deeper into the intricate details of the league, its structure, rules, events, prizes, and more in later sections.

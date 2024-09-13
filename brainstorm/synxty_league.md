@@ -1,0 +1,9 @@
+# The Synxty League: A Brief Overview
+
+**Univium** is a world of extraordinary diversity, where life thrives in myriad forms across its distinct regions. Each area, from the dense forests and vast oceans of **Bionyx** to the surreal landscapes of **Cosmyn**, hosts a unique array of creatures, plants, and beings, all deeply connected to the elemental forces that shape the planet. The diverse environments and life forms across **Univium** set the stage for a grand competition that is about to unite them all—the inaugural season of the **Synxty League**.
+
+Central to the rhythm of life in **Univium**, the **Synxty League** is poised to become the heartbeat of the planet’s societies, uniting characters from all regions in a showcase of skill, strategy, and teamwork. More than just a series of games, the **Synxty League** is expected to become a cultural cornerstone, influencing every aspect of life in **Univium**. From the training of teams to the design of cities, and even the daily activities of its inhabitants, everything is anticipated to be connected to the league in some way.
+
+Cities in **Synxty** can be home to their own **Franchise**, a prestigious organization that will represent the city’s spirit, ambition, and uniqueness within the **Synxty League**. Each **Franchise** is set to serve as a focal point for innovation, strategy, and community engagement. To compete in the league, a **Franchise** must assemble a team of **Characters**. These **Characters**, known throughout **Univium** as **Legends**, are contracted to form a team and compete for the title of **Champion**.
+
+This section offers just a glimpse into the significance of the **Synxty League** as it prepares to launch its first season. We will delve deeper into the intricate details of the league, its structure, rules, events, prizes, and more in later sections.
