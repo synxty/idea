@@ -194,6 +194,26 @@ The social fabric of **Synxty**’s cities is woven from the diverse backgrounds
 
 ### Towns
 
-Towns in **Synxty** are often found along the **Region**’s borders, where the proximity to neighboring areas deeply shapes their character. With smaller populations and vast surrounding landscapes, these towns offer a quieter, more rustic lifestyle. From the dense forests and rolling plains inspired by **Bionyx** to the mystical mists of **Mysteon**, the celestial skies of **Cosmyn**, and the technological advancements spilling over from **Techyon**, each town reflects a unique blend of landscape, climate, and culture. This merging of regional influences gives every town its own distinct identity, uniquely connected to both **Synxty** and its neighboring regions.
+**Synxty** features two main types of towns, each playing a unique role in the region’s landscape: **Border Towns** and **Inner Towns**. Both types contribute to the character and functionality of Synxty in different ways, providing diverse environments for growth, training, and recovery.
 
-Within these border towns, **Specialized Training Hubs** have been established to harness the unique **Origin** forces of the neighboring regions, offering **Legends** tailored opportunities to refine their skills. These hubs utilize the distinct features and conditions of the surrounding areas, making them ideal locations for **Legends** to train and enhance their core strengths, attributes, and overall performance in alignment with their **Origin**. These **Specialized Training Hubs** also host **Cross-Regional Training Programs**, where **Legends** from other **Origins** can enroll to build resistance or to enhance their effectiveness against that specific **Origin**.
+#### Border Towns
+
+Border towns in **Synxty** are located along the region’s periphery, where proximity to neighboring areas profoundly influences their character. With smaller populations and expansive, open landscapes, these towns offer a quieter, more rustic lifestyle. Reflecting the diverse elements of their surroundings, from the dense forests and rolling plains of **Bionyx** to the mystical mists of **Mysteon**, the celestial skies of **Cosmyn**, and the technological advancements of **Techyon**, each town presents a unique blend of landscape, climate, and culture. This fusion creates distinct identities that bridge **Synxty** and its neighboring regions.
+
+Within these border towns, **Specialized Training Hubs** have been established to harness the unique **Origin** forces of the neighboring regions, providing **Legends** with tailored environments to refine their skills. These hubs utilize the distinct features and conditions of the surrounding areas, making them ideal locations for **Legends** to train and enhance their core strengths, attributes, and overall performance in alignment with their **Origin**. Additionally, these hubs host **Cross-Regional Training Programs**, where **Legends** from other **Origins** can enroll to build resistance or to enhance their effectiveness against that specific **Origin**.
+
+#### Inner Towns
+
+Deeper within **Synxty**, away from the direct influences of the bordering regions, inner towns serve as tranquil havens with a calm and focused environment. Known for their peaceful atmosphere and slower pace of life, these towns provide ideal settings for introspection, recovery, and personal growth. With cobblestone streets, quaint inns, and lush gardens, they offer a serene contrast to the bustling cities of **Synxty**. Popular among travelers and wanderers, these towns offer a much-needed respite from their journeys across **Univium**.
+
+For **Legends**, these towns serve as places for comprehensive recovery—healing injuries, regaining strength, and receiving holistic treatments that enhance physical conditioning and overall well-being. Beyond the physical, the inner towns offer a sanctuary for **Legends** to reconnect with their purpose, rebuild confidence, find inspiration, and regain motivation. The blend of natural beauty, quiet reflection, and supportive communities helps them return stronger and more focused, ready to face their next challenge.
+
+### Houses of Mastery
+
+The **Houses of Mastery** are prestigious institutions located within the inner towns of **Synxty**, far from the competitive atmosphere of the cities and the external influences of the border regions. These expansive campuses serve as the primary training grounds for **Prospects**, providing a focused environment where they undergo rigorous development to enhance their attributes, learn new abilities, and refine their skills. Most importantly, each **House of Mastery** specializes in teaching a specific role, guiding **Prospects** to fully realize their potential within it, and preparing them for the **Synxty League**.
+
+### Franchises
+
+### Arenas
+
+### Training Grounds
