@@ -194,11 +194,11 @@ The social fabric of **Synxty**’s cities is woven from the diverse backgrounds
 
 ### Towns
 
-**Synxty** features two main types of towns, each playing a unique role in the region’s landscape: **Border Towns** and **Inner Towns**. Both types contribute to the character and functionality of Synxty in different ways, providing diverse environments for growth, training, and recovery.
+Towns in **Synxty** enrich the region’s dynamic landscape, offering distinct environments for growth, training, and recovery. With sparse populations, expansive terrains, and untouched natural beauty, these towns provide serene, rustic settings that stand in contrast to the vibrant activity of the cities.
 
 #### Border Towns
 
-Border towns in **Synxty** are located along the region’s periphery, where proximity to neighboring areas profoundly influences their character. With smaller populations and expansive, open landscapes, these towns offer a quieter, more rustic lifestyle. Reflecting the diverse elements of their surroundings, from the dense forests and rolling plains of **Bionyx** to the mystical mists of **Mysteon**, the celestial skies of **Cosmyn**, and the technological advancements of **Techyon**, each town presents a unique blend of landscape, climate, and culture. This fusion creates distinct identities that bridge **Synxty** and its neighboring regions.
+Border towns in **Synxty** are located along the region’s periphery, where proximity to neighboring areas profoundly influences their character. From the dense forests and rolling plains of **Bionyx** to the mystical mists of **Mysteon**, the celestial skies of **Cosmyn**, and the technological advancements of **Techyon**, each town presents a unique blend of landscape, climate, and culture. This fusion creates distinct identities that bridge **Synxty** and its neighboring regions.
 
 Within these border towns, **Specialized Training Hubs** have been established to harness the unique **Origin** forces of the neighboring regions, providing **Legends** with tailored environments to refine their skills. These hubs utilize the distinct features and conditions of the surrounding areas, making them ideal locations for **Legends** to train and enhance their core strengths, attributes, and overall performance in alignment with their **Origin**. Additionally, these hubs host **Cross-Regional Training Programs**, where **Legends** from other **Origins** can enroll to build resistance or to enhance their effectiveness against that specific **Origin**.
 
