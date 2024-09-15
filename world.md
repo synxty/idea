@@ -210,7 +210,13 @@ For **Legends**, these towns serve as places for comprehensive recovery—healin
 
 ### Houses of Mastery
 
-The **Houses of Mastery** are prestigious institutions located within the inner towns of **Synxty**, far from the competitive atmosphere of the cities and the external influences of the border regions. These expansive campuses serve as the primary training grounds for **Prospects**, providing a focused environment where they undergo rigorous development to enhance their attributes, learn new abilities, and refine their skills. Most importantly, each **House of Mastery** specializes in teaching a specific role, guiding **Prospects** to fully realize their potential within it, and preparing them for the **Synxty League**.
+The **Houses of Mastery** are prestigious institutions located within the inner towns of **Synxty**, far from the competitive atmosphere of the cities and the external influences of the border regions. These expansive campuses serve as the primary training grounds for **Prospects**, providing a focused environment where they undergo rigorous development to enhance their attributes, learn new abilities, and refine their skills.
+
+Each **House of Mastery** specializes in teaching one of the six distinct **Roles** that are vital to a **Legend**’s function in battle. These **Roles** define how a **Legend** contributes to their team’s strategy, whether through offense, defense, support, or other specialized functions. **Roles** are essential for creating balanced and effective teams, and the **Houses of Mastery** guide **Prospects** to fully realize their potential within their assigned **Role**, preparing them for the unique challenges of the **Synxty League**. More details about **Roles** will be explored in a later section.
+
+Beyond training, the **Houses of Mastery** also serve as centers of innovation, where **Masters** undertake expeditions to other **Regions** to discover and develop new abilities that can be learned by **Legends**. While some of these abilities are created through direct field research and exploration, others are developed in-house, drawing upon ancient texts, the teachings of older **Masters**, and the accumulated wisdom passed down through generations. This blend of traditional knowledge and new discoveries ensures that **Legends** are equipped with a diverse range of abilities to engage in battle with strength and versatility.
+
+The **Houses of Mastery** are foundational pillars of the **Synxty League**, shaping the next generation of **Legends** and advancing the strategic evolution of battles. Through a blend of rigorous training, **Role** specialization, and ongoing innovation, they ensure every **Legend** is prepared to face fierce competitions and relentless challenges in their quest to become a **Champion**.
 
 ### Franchises
 
