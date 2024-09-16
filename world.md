@@ -24,7 +24,7 @@ Over time, **Synxty** evolved from a war-torn land into a beacon of unity and pr
 
 **Univium** is an expansive and diverse world, composed of five regions that collectively contribute to its overall harmony and vibrancy. It embodies the balance and unity of **Biological**, **Cosmic**, **Mystical**, and **Technological** forces. This world is not just a backdrop but a living, breathing entity that evolves with the **Characters** and events within it. The planet’s rich history and dynamic landscapes offer a tapestry of experiences and challenges, making **Univium** a place of endless possibilities and adventures.
 
-In this section, we will explore four of these five regions, highlighting their unique characteristics. The fifth region, **Synxty**, with its special significance and central role in **Univium**, will be detailed in a later section.
+In this section, we will explore four of these five regions, highlighting their unique characteristics. The fifth region, **Synxty**, will be discussed in detail later in the section titled [**Synxty: The Heart of Univium**](#synxty-the-heart-of-univium) due to its special significance and central role in **Univium**.
 
 ### Bionyx: Univium’s Biome
 
@@ -181,6 +181,14 @@ Adaptable and resourceful, these **Characters** thrive amid uncertainty, facing 
 A **Character** with a **Light** **Soul** in **Univium** radiates an uplifting energy, their presence warm and open, with a gaze that conveys compassion and understanding. They are motivated by a deep sense of purpose and an intuitive awareness of the world’s beauty and potential. Their appearance is often characterized by luminous qualities—soft hues, glowing features, or traits that reflect the brilliance of daylight or the gentle light of dawn, often in shades of white, gold, or soft pastels that enhance their inspiring aura.
 
 These **Characters** shine brightest in moments of hope, bringing positivity and a gentle touch to even the toughest challenges. Without turning away from the shadows, they offer clarity and guidance, helping others navigate uncertainty and encouraging growth and courage. They embody a balance between nurturing and protecting, using the light aspects of existence to heal, guide, and renew those around them.
+
+### Roles
+
+A **Character**’s **Role** is a natural extension of their innate traits, attributes, and overall essence, including their physical appearance. While each **Character** begins their journey as a **Rogue**, their specific combination of natural talents often inclines them toward a certain path, hinting at the **Role** they are likely to embody as they progress.
+
+When a **Character** enrolls in a **House of Mastery** as a **Prospect**, they begin to refine and specialize these inherent qualities. This process further enhances their physical traits, adapting their appearance to better fit their evolving **Role**. Through rigorous training and focused development, they fully embrace their **Role**, mastering the skills that resonate with their nature. This progression ensures that each **Character** becomes a unique and essential part of the world, contributing their distinctive strengths and visual presence to the ever-evolving narrative of **Univium**.
+
+A more detailed explanation of the **Houses of Mastery**, where this crucial transformation takes place, will be provided in a later section, highlighting their unique purpose in guiding each **Character** toward their ultimate potential.
 
 ## Synxty: The heart of Univium
 
