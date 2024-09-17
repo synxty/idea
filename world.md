@@ -98,34 +98,6 @@ Forged by **The Creator** to balance **Univium**, the **Elemental Crystals** wer
 
 **Characters** are the driving force of **Univium**, propelling its narrative forward and encapsulating the very essence of the world. Each character is a distinct entity, molded by their **Origin**—the region from which they hail, by their **Type**—from the elemental crystal they draw their power, and by their **Soul**—their inner nature. These characters are more than mere participants in the unfolding story of **Univium**; they are its heartbeat, its voice, and its soul, each one contributing to the rich and diverse tapestry that makes up this extraordinary world.
 
-### Classes
-
-In **Univium**, **Characters** fall into distinct **Classes**, each playing a crucial role in the world and the **Synxty League**. These classes reflect their development, responsibilities, and place within the broader narrative. Whether they are elite competitors, promising talents, wise mentors, or independent wanderers, each **Class** contributes uniquely to the rich tapestry of **Univium**’s story.
-
-#### Legends
-
-**Legends** are characters who have achieved an elite level of development and have been drafted by a **Franchise** to compete in the **Synxty League**. Renowned for their exceptional skills, and strategic prowess, they are the pride of their regions, carrying the hopes and ambitions of their homeland as they strive for the title of **Champion** and the chance to be eternally remembered in the history of **Synxty**. With diverse backgrounds, appearances, and fighting styles, **Legends** are powerful forces on the battlefield, contributing to their team’s strategy with remarkable expertise. They captivate audiences, inspire future generations, and serve as enduring symbols of excellence and resilience across **Univium**.
-
-#### Novices
-
-**Novices** are newly spawned characters just beginning their journey in **Univium**. At this stage, they are full of untapped potential and natural talent but lack the training and refinement that comes with experience. **Novices** roam their home regions freely, learning about their innate attributes, and discovering their **Role** affinity. Closely observed by **Masters**, they strive to prove themselves worthy of being selected for a **House of Mastery** and advancing to become **Prospects**.
-
-#### Prospects
-
-**Prospects** are characters who have been selected to train in the specialized **Houses of Mastery**, recognized for their exceptional potential and innate talents. Under the guidance of experienced **Masters**, they undergo rigorous development to refine their attributes, learn new abilities, and fully embrace their destined **Role**. During this critical phase, **Prospects** face numerous challenges, from mastering the fundamentals of combat to developing advanced strategies and teamwork skills, all while honing the unique qualities that will define them as future **Legends**. Every step they take brings them closer to the ultimate goal of being drafted into a **Franchise** and competing in the **Synxty League**, where they can prove their worth and strive to become a **Champion**.
-
-#### Rogues
-
-**Rogues** can be found across their home **Region**, training, seeking new challenges, or simply enjoying their freedom after failing to reach the status of **Legend** or **Master**. Whether they were never selected to enroll in a **House of Mastery** or were dropped during their time as **Prospects**, many remain determined, continuing to develop their attributes in hopes of joining the **League** directly through a draft, securing a first or new opportunity in a **House of Mastery**, or becoming a **Master**.
-
-#### Masters
-
-**Masters** have achieved the highest level of wisdom and expertise and have chosen to dedicate themselves to shaping the future of **Univium**. They are responsible for training **Prospects** in the **Houses of Mastery**, scouting **Novices** throughout the regions, and consulting for **Franchises** on strategy, team composition, and talent development. Beyond mentorship, **Masters** conduct research to discover and develop new abilities, drawing from their vast knowledge and experience. They can be former **Legends**, **Prospects** who never became **Legends**, or even **Rogues** whose wisdom and passion have led them to this path.
-
-#### Wanderers
-
-**Wanderers** are former **Legends** or **Masters** who have retired and are now exploring the world. Distinguished by their past accomplishments and experience, **Wanderers** carry a reputation that grants them a certain level of respect and freedom, allowing them to move more easily across **Regions**. They are often on personal quests, adventures, or in search of new challenges, driven by motivations such as seeking knowledge, mentoring younger **Prospects**, or finding peace after a demanding career. Their journeys and choices continue to inspire others, and they occasionally play key roles in events that shape the future of **Univium**.
-
 ### Origins
 
 A **Character**’s **Origin** in **Univium** is defined by their homeland, influencing both their appearance and essence. Whether from the vibrant wilds of **Bionyx**, the celestial expanses of **Cosmyn**, the mysterious enchantment of **Mysteon**, or the futuristic landscapes of **Techyon**, each region leaves a unique mark on the characters who emerge from it.
@@ -192,11 +164,9 @@ These **Characters** shine brightest in moments of hope, bringing positivity and
 
 ### Roles
 
-A **Character**’s **Role** is a natural extension of their innate attributes, and overall essence, including their physical appearance. While each **Character** begins their journey as a **Novice**, their specific combination of natural talents often inclines them toward a certain path, hinting at the **Role** they are likely to embody as they progress. These roles not only define a **Character**’s function in battle but also shape their reputation and interactions within the world of **Univium**.
+A **Character**’s **Role** is a natural extension of their innate attributes, and overall essence, including their physical appearance. As each Character progresses on their journey, their specific combination of natural talents often inclines them toward a certain path, hinting at the **Role** they are likely to embody. This process further enhances their physical traits, adapting their appearance to better fit their evolving **Role**.
 
-Upon enrolling in a **House of Mastery** as a **Prospect**, a **Character** begins to cultivate and sharpen their inherent qualities, channeling them toward a specific path. This process further enhances their physical traits, adapting their appearance to better fit their evolving **Role**. Through rigorous training and focused development, they fully embrace their **Role**, mastering the skills that resonate with their nature. This progression ensures that each **Character** becomes a unique and essential part of the world, contributing their distinctive strengths and visual presence to the ever-evolving narrative of **Univium**.
-
-A more detailed explanation of the **Houses of Mastery**, where this crucial transformation takes place, will be provided in a later section, highlighting their unique purpose in guiding each **Character** toward their ultimate potential.
+Through rigorous training and focused development, they fully embrace their **Role**, mastering the skills that resonate with their nature and ensuring that each **Character** becomes a unique and essential part of the world. These **Roles** not only define a **Character**’s function in battle but also shape their reputation and interactions within the world of **Univium**.
 
 #### Assassins
 
@@ -221,6 +191,34 @@ A more detailed explanation of the **Houses of Mastery**, where this crucial tra
 #### Titans
 
 **Titans** are the colossuses of the battlefield, known for their immense strength, imposing statures, and unyielding resilience. Their appearance is often characterized by large, muscular builds and formidable armor. **Titans** excel in close-quarters combat, using their raw power to break through enemy lines, create openings for their teammates, and endure substantial damage. They are the unstoppable force, advancing with relentless determination and brute strength.
+
+### Classes
+
+In **Univium**, **Characters** fall into distinct **Classes**, each playing a crucial role in the world and the **Synxty League**. These classes reflect their development, responsibilities, and place within the broader narrative. Whether they are elite competitors, promising talents, wise mentors, or independent wanderers, each **Class** contributes uniquely to the rich tapestry of **Univium**’s story.
+
+#### Legends
+
+**Legends** are characters who have achieved an elite level of development and have been drafted by a **Franchise** to compete in the **Synxty League**. Renowned for their exceptional skills, and strategic prowess, they are the pride of their regions, carrying the hopes and ambitions of their homeland as they strive for the title of **Champion** and the chance to be eternally remembered in the history of **Synxty**. With diverse backgrounds, appearances, and fighting styles, **Legends** are powerful forces on the battlefield, contributing to their team’s strategy with remarkable expertise. They captivate audiences, inspire future generations, and serve as enduring symbols of excellence and resilience across **Univium**.
+
+#### Novices
+
+**Novices** are newly spawned characters just beginning their journey in **Univium**. At this stage, they are full of untapped potential and natural talent but lack the training and refinement that comes with experience. **Novices** roam their home regions freely, learning about their innate attributes, and discovering their **Role** affinity. Closely observed by **Masters**, they strive to prove themselves worthy of being selected for a **House of Mastery** and advancing to become **Prospects**. As they embark on this initial phase, they begin to understand their deeper motivations and start shaping the direction of their growth.
+
+#### Prospects
+
+**Prospects** are characters who have been selected to train in the specialized **Houses of Mastery**, recognized for their exceptional potential and innate talents. Under the guidance of experienced **Masters**, they undergo rigorous development to refine their attributes, learn new abilities, and fully embrace their destined **Role**. During this critical phase, **Prospects** face numerous challenges, from mastering the fundamentals of combat to developing advanced strategies and teamwork skills, all while honing the unique qualities that will define them as future **Legends**. Every step they take brings them closer to the ultimate goal of being drafted into a **Franchise** and competing in the **Synxty League**, where they can prove their worth and strive to become a **Champion**.
+
+#### Rogues
+
+**Rogues** can be found across their home **Region**, training, seeking new challenges, or simply enjoying their freedom after failing to reach the status of **Legend** or **Master**. Whether they were never selected to enroll in a **House of Mastery** or were dropped during their time as **Prospects**, many remain determined, continuing to develop their attributes in hopes of joining the **League** directly through a draft, securing a first or new opportunity in a **House of Mastery**, or becoming a **Master**.
+
+#### Masters
+
+**Masters** have achieved the highest level of wisdom and expertise and have chosen to dedicate themselves to shaping the future of **Univium**. They are responsible for training **Prospects** in the **Houses of Mastery**, scouting **Novices** throughout the regions, and consulting for **Franchises** on strategy, team composition, and talent development. Beyond mentorship, **Masters** conduct research to discover and develop new abilities, drawing from their vast knowledge and experience. They can be former **Legends**, **Prospects** who never became **Legends**, or even **Rogues** whose wisdom and passion have led them to this path.
+
+#### Wanderers
+
+**Wanderers** are former **Legends** or **Masters** who have retired and are now exploring the world. Distinguished by their past accomplishments and experience, **Wanderers** carry a reputation that grants them a certain level of respect and freedom, allowing them to move more easily across **Regions**. They are often on personal quests, adventures, or in search of new challenges, driven by motivations such as seeking knowledge, mentoring younger **Prospects**, or finding peace after a demanding career. Their journeys and choices continue to inspire others, and they occasionally play key roles in events that shape the future of **Univium**.
 
 ## Synxty: The heart of Univium
 
