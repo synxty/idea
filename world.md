@@ -184,11 +184,35 @@ These **Characters** shine brightest in moments of hope, bringing positivity and
 
 ### Roles
 
-A **Character**’s **Role** is a natural extension of their innate traits, attributes, and overall essence, including their physical appearance. While each **Character** begins their journey as a **Rogue**, their specific combination of natural talents often inclines them toward a certain path, hinting at the **Role** they are likely to embody as they progress.
+A **Character**’s **Role** is a natural extension of their innate traits, attributes, and overall essence, including their physical appearance. While each **Character** begins their journey as a **Rogue**, their specific combination of natural talents often inclines them toward a certain path, hinting at the **Role** they are likely to embody as they progress. These roles not only define a **Character**’s function in battle but also shape their reputation and interactions within the world of **Univium**.
 
-When a **Character** enrolls in a **House of Mastery** as a **Prospect**, they begin to refine and specialize these inherent qualities. This process further enhances their physical traits, adapting their appearance to better fit their evolving **Role**. Through rigorous training and focused development, they fully embrace their **Role**, mastering the skills that resonate with their nature. This progression ensures that each **Character** becomes a unique and essential part of the world, contributing their distinctive strengths and visual presence to the ever-evolving narrative of **Univium**.
+Upon enrolling in a **House of Mastery** as a **Prospect**, a **Character** begins to cultivate and sharpen their inherent qualities, channeling them toward a specific path. This process further enhances their physical traits, adapting their appearance to better fit their evolving **Role**. Through rigorous training and focused development, they fully embrace their **Role**, mastering the skills that resonate with their nature. This progression ensures that each **Character** becomes a unique and essential part of the world, contributing their distinctive strengths and visual presence to the ever-evolving narrative of **Univium**.
 
 A more detailed explanation of the **Houses of Mastery**, where this crucial transformation takes place, will be provided in a later section, highlighting their unique purpose in guiding each **Character** toward their ultimate potential.
+
+#### Assassins
+
+**Assassins** are agile and elusive, specializing in stealth, speed, and precision strikes. Their appearance is often sleek and streamlined, with features that allow them to move swiftly and silently, such as lightweight armor, muted colors, and sharp, focused eyes. **Assassins** excel at exploiting weaknesses and delivering lethal blows, often from the shadows or in rapid, close-quarters combat. They are the masters of ambushes and quick eliminations, using agility and cunning to outmaneuver their opponents.
+
+#### Healers
+
+**Healers** embody the essence of restoration and transformation, employing a wide range of methods to maintain their team’s vitality and resilience. Their appearance reflects this diversity, with some exuding a calm, nurturing presence, while others project a more intense and enigmatic aura. Whether through energies that gently mend wounds and bolster strength or through hidden, forbidden practices that draw upon deeper, arcane forces, **Healers** are crucial for sustaining their allies in the heat of battle, adapting their methods to meet any challenge.
+
+#### Paladins
+
+**Paladins** are the stalwart defenders of their teams, combining resilience and offensive prowess. Their appearance reflects their role as protectors, often characterized by robust armor, strong builds, and a commanding presence. **Paladins** are known for their unwavering courage and ability to absorb damage, shield their allies, and deliver powerful strikes against their foes. They stand as a barrier between their team and danger, using both defense and offense to control the battlefield.
+
+#### Rangers
+
+**Rangers** are masters of ranged combat, utilizing their keen senses, agility, and precision to strike from a distance. Their appearance often includes features that enhance their connection to the environment, such as sharp eyesight, camouflage patterns, or lightweight gear that allows for quick movement. **Rangers** excel in archery, marksmanship, and tactical positioning, making them ideal for harassing enemies, scouting, and maintaining control over the battlefield from afar.
+
+#### Strategists
+
+**Strategists** are the tactical masterminds, guiding their teams with insight and foresight. Their appearance is often marked by a thoughtful demeanor, sharp eyes, and symbols of wisdom, such as books, maps, or other tools of knowledge. **Strategists** are adept at analyzing the flow of battle, predicting enemy movements, and coordinating their team’s actions to maximize effectiveness. They provide essential guidance, utilizing their intelligence and strategic acumen to turn the tide of combat.
+
+#### Titans
+
+**Titans** are the colossuses of the battlefield, known for their immense strength, imposing statures, and unyielding resilience. Their appearance is often characterized by large, muscular builds and formidable armor. **Titans** excel in close-quarters combat, using their raw power to break through enemy lines, create openings for their teammates, and endure substantial damage. They are the unstoppable force, advancing with relentless determination and brute strength.
 
 ## Synxty: The heart of Univium
 
