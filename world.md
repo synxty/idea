@@ -104,11 +104,11 @@ In **Univium**, **Characters** fall into distinct **Classes**, each playing a cr
 
 #### Legends
 
-**Legends** are characters who have achieved an elite level of development and have been drafted by a **Franchise** to compete in the **Synxty League**. Renowned for their exceptional skills, abilities, and strategic prowess, they are the pride of their regions, carrying the hopes and ambitions of their homeland as they strive for the title of **Champion** and the chance to be eternally remembered in the history of **Synxty**. With diverse backgrounds, appearances, and fighting styles, **Legends** are powerful forces on the battlefield, contributing to their team’s strategy with remarkable expertise. They captivate audiences, inspire future generations, and serve as enduring symbols of excellence and resilience across **Univium**.
+**Legends** are characters who have achieved an elite level of development and have been drafted by a **Franchise** to compete in the **Synxty League**. Renowned for their exceptional skills, and strategic prowess, they are the pride of their regions, carrying the hopes and ambitions of their homeland as they strive for the title of **Champion** and the chance to be eternally remembered in the history of **Synxty**. With diverse backgrounds, appearances, and fighting styles, **Legends** are powerful forces on the battlefield, contributing to their team’s strategy with remarkable expertise. They captivate audiences, inspire future generations, and serve as enduring symbols of excellence and resilience across **Univium**.
 
 #### Novices
 
-**Novices** are newly spawned characters just beginning their journey in **Univium**. At this stage, they are full of untapped potential and natural talent but lack the training and refinement that comes with experience. **Novices** roam their home regions freely, learning about their innate attributes, discovering their **Role** affinity, and honing their basic skills. Closely observed by **Masters**, they strive to prove themselves worthy of being selected for a **House of Mastery** and advancing to become **Prospects**.
+**Novices** are newly spawned characters just beginning their journey in **Univium**. At this stage, they are full of untapped potential and natural talent but lack the training and refinement that comes with experience. **Novices** roam their home regions freely, learning about their innate attributes, and discovering their **Role** affinity. Closely observed by **Masters**, they strive to prove themselves worthy of being selected for a **House of Mastery** and advancing to become **Prospects**.
 
 #### Prospects
 
@@ -192,7 +192,7 @@ These **Characters** shine brightest in moments of hope, bringing positivity and
 
 ### Roles
 
-A **Character**’s **Role** is a natural extension of their innate traits, attributes, and overall essence, including their physical appearance. While each **Character** begins their journey as a **Rogue**, their specific combination of natural talents often inclines them toward a certain path, hinting at the **Role** they are likely to embody as they progress. These roles not only define a **Character**’s function in battle but also shape their reputation and interactions within the world of **Univium**.
+A **Character**’s **Role** is a natural extension of their innate attributes, and overall essence, including their physical appearance. While each **Character** begins their journey as a **Novice**, their specific combination of natural talents often inclines them toward a certain path, hinting at the **Role** they are likely to embody as they progress. These roles not only define a **Character**’s function in battle but also shape their reputation and interactions within the world of **Univium**.
 
 Upon enrolling in a **House of Mastery** as a **Prospect**, a **Character** begins to cultivate and sharpen their inherent qualities, channeling them toward a specific path. This process further enhances their physical traits, adapting their appearance to better fit their evolving **Role**. Through rigorous training and focused development, they fully embrace their **Role**, mastering the skills that resonate with their nature. This progression ensures that each **Character** becomes a unique and essential part of the world, contributing their distinctive strengths and visual presence to the ever-evolving narrative of **Univium**.
 
