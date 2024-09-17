@@ -18,7 +18,7 @@ At the epicenter of the devastation, a vast uncharted territory emerged, surroun
 
 As beings from the outer regions settled in **Synxty**, they built cities, towns, and communities, putting aside their differences to create a new era of collaboration and progress. **Synxty** flourished as a vibrant center of innovation and cultural exchange, where diverse beings coexisted and thrived.
 
-Over time, **Synxty** evolved from a war-torn land into a beacon of unity and progress through **The Creator**’s intervention and the transformative power of competition and cooperation. As new allegiances and identities formed within its cities and communities, the original premise of the **Anarkya Championship** began to wane. The focus shifted from regional rivalries to vibrant competitions between cities and communities. This evolution led to the creation of the **Synxty League**, promising thrilling contests between cities that showcase the best strategies, teamwork, and individual skills.
+Over time, **Synxty** evolved from a war-torn land into a beacon of unity and progress, thanks to **The Creator**’s intervention and the transformative power of competition and cooperation. As new allegiances and identities formed within its cities and communities, the original premise of the **Anarkya Championship** began to wane. The focus shifted from regional rivalries to vibrant contests between cities and communities, now represented by **Franchises**. This evolution led to the creation of the **Synxty League**, a prestigious competition promising thrilling contests that showcase the best strategies, teamwork, and individual skills.
 
 ## Regions of Univium
 
