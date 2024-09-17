@@ -108,6 +108,8 @@ In **Univium**, **Characters** fall into distinct **Classes**, each playing a cr
 
 #### Novices
 
+**Novices** are newly emerged characters just beginning their journey in **Univium**. At this stage, they are full of untapped potential and natural talent but lack the training and refinement that comes with experience. **Novices** roam their home regions freely, learning about their innate attributes, discovering their **Role** affinity, and honing their basic skills. Closely observed by **Masters**, they strive to prove themselves worthy of being selected for a **House of Mastery** and advancing to become **Prospects**.
+
 #### Prospects
 
 **Prospects** are characters who have been selected to train in the specialized **Houses of Mastery**, recognized for their exceptional potential and innate talents. Under the guidance of experienced **Masters**, they undergo rigorous development to refine their attributes, learn new abilities, and fully embrace their destined **Role**. During this critical phase, **Prospects** face numerous challenges, from mastering the fundamentals of combat to developing advanced strategies and teamwork skills, all while honing the unique qualities that will define them as future **Legends**. Every step they take brings them closer to the ultimate goal of being drafted into a **Franchise** and competing in the **Synxty League**, where they can prove their worth and strive to become a **Champion**.
