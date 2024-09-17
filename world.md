@@ -108,7 +108,7 @@ In **Univium**, **Characters** fall into distinct **Classes**, each playing a cr
 
 #### Novices
 
-**Novices** are newly emerged characters just beginning their journey in **Univium**. At this stage, they are full of untapped potential and natural talent but lack the training and refinement that comes with experience. **Novices** roam their home regions freely, learning about their innate attributes, discovering their **Role** affinity, and honing their basic skills. Closely observed by **Masters**, they strive to prove themselves worthy of being selected for a **House of Mastery** and advancing to become **Prospects**.
+**Novices** are newly spawned characters just beginning their journey in **Univium**. At this stage, they are full of untapped potential and natural talent but lack the training and refinement that comes with experience. **Novices** roam their home regions freely, learning about their innate attributes, discovering their **Role** affinity, and honing their basic skills. Closely observed by **Masters**, they strive to prove themselves worthy of being selected for a **House of Mastery** and advancing to become **Prospects**.
 
 #### Prospects
 
@@ -120,7 +120,7 @@ In **Univium**, **Characters** fall into distinct **Classes**, each playing a cr
 
 #### Masters
 
-**Masters** have achieved the highest level of wisdom and expertise and have chosen to dedicate themselves to shaping the future of **Univium**. They are responsible for training **Prospects** in the **Houses of Mastery**, scouting **Novices** across regions, and consulting for **Franchises** on strategy, team composition, and talent development. Beyond mentorship, **Masters** conduct research to discover and develop new abilities, drawing from their vast knowledge and experience. They can be former **Legends**, **Prospects** who never became **Legends**, or even **Rogues** whose wisdom and passion have led them to this path.
+**Masters** have achieved the highest level of wisdom and expertise and have chosen to dedicate themselves to shaping the future of **Univium**. They are responsible for training **Prospects** in the **Houses of Mastery**, scouting **Novices** throughout the regions, and consulting for **Franchises** on strategy, team composition, and talent development. Beyond mentorship, **Masters** conduct research to discover and develop new abilities, drawing from their vast knowledge and experience. They can be former **Legends**, **Prospects** who never became **Legends**, or even **Rogues** whose wisdom and passion have led them to this path.
 
 #### Wanderers
 
