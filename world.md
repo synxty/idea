@@ -100,7 +100,7 @@ Forged by **The Creator** to balance **Univium**, the **Elemental Crystals** wer
 
 ### Origins
 
-A **Character**’s **Origin** in **Univium** is defined by their homeland, influencing both their appearance and essence. Whether from the vibrant wilds of **Bionyx**, the celestial expanses of **Cosmyn**, the mysterious enchantment of **Mysteon**, or the futuristic landscapes of **Techyon**, each region leaves a unique mark on the characters who emerge from it.
+**Origins** define the homeland of each **Character**, shaping their core identity and connection to the world of **Univium**. A **Character**’s **Origin** influences both their appearance and essence, reflecting the unique traits of their **Region**. Whether from the vibrant wilds of **Bionyx**, the celestial expanses of **Cosmyn**, the mysterious enchantment of **Mysteon**, or the futuristic landscapes of **Techyon**, each **Origin** leaves a distinct mark on those who emerge from it, contributing to the diversity and richness of **Univium**’s tapestry.
 
 #### Bio
 
@@ -120,7 +120,7 @@ Hailing from **Techyon**, **Characters** with a **Tech** **Origin** are deeply i
 
 ### Types
 
-**Types** in **Univium** define the elemental energy from which a **Character** draws their power. Each **Type** is linked to one of the **Elemental Crystals**, representing a core element that shapes a **Character**’s appearance, abilities, strengths, weaknesses, and interactions with the world around them. Thus, the influence of the **Elemental Crystals** is fundamental to a **Character**’s identity in the ever-changing world of **Univium**.
+**Types** in **Univium** define the elemental energy from which a **Character** draws their power. Each **Type** is linked to one of the **Elemental Crystals**, representing a core element that influences a **Character**’s appearance, abilities, strengths, and weaknesses, as well as their interactions with the world around them.  The elemental energy of these crystals is fundamental to a **Character**’s identity, providing a dynamic layer to the ever-changing world of **Univium**.
 
 #### Air
 
@@ -148,7 +148,7 @@ Hailing from **Techyon**, **Characters** with a **Tech** **Origin** are deeply i
 
 ### Souls
 
-In **Univium**, a **Character**’s **Soul** is the core of their identity, reflecting their deepest motivations, desires, and how they connect with the world around them. **Souls** in **Univium** manifest as either **Light** or **Dark**, each bringing unique qualities that shape a **Character**’s personality, guiding their actions and responses to the challenges they face. Beyond influencing their inner world, a **Character**’s **Soul** also affects their outward appearance, adding another layer to their presence within the diverse landscapes of **Univium**.
+**Souls** reflect the inner nature of each **Character**, influencing their motivations, personality, and outward expression. Manifesting as either **Light** or **Dark**, a **Character**’s **Soul** affects how they perceive and interact with the world, shaping their journey and relationships. Understanding **Souls** adds depth to a **Character**’s persona, revealing the driving forces behind their actions and their approach to challenges in **Univium**.
 
 #### Dark
 
@@ -164,7 +164,7 @@ These **Characters** shine brightest in moments of hope, bringing positivity and
 
 ### Roles
 
-A **Character**’s **Role** is a natural extension of their innate attributes, and overall essence, including their physical appearance. As each Character progresses on their journey, their specific combination of natural talents often inclines them toward a certain path, hinting at the **Role** they are likely to embody. This process further enhances their physical traits, adapting their appearance to better fit their evolving **Role**.
+**Roles** determine a **Character**’s function in battle and their contribution to a team’s strategy. They are a natural extension of their innate attributes, and overall essence, including their physical appearance. As each Character progresses on their journey, their specific combination of natural talents often inclines them toward a certain path, hinting at the **Role** they are likely to embody. This process further enhances their physical traits, adapting their appearance to better fit their evolving **Role**.
 
 Through rigorous training and focused development, they fully embrace their **Role**, mastering the skills that resonate with their nature and ensuring that each **Character** becomes a unique and essential part of the world. These **Roles** not only define a **Character**’s function in battle but also shape their reputation and interactions within the world of **Univium**.
 
@@ -194,19 +194,19 @@ Through rigorous training and focused development, they fully embrace their **Ro
 
 ### Classes
 
-In **Univium**, **Characters** fall into distinct **Classes**, each playing a crucial role in the world and the **Synxty League**. These classes reflect their development, responsibilities, and place within the broader narrative. Whether they are elite competitors, promising talents, wise mentors, or independent wanderers, each **Class** contributes uniquely to the rich tapestry of **Univium**’s story.
+**Classes** represent the stages of a **Character**’s development. Each class plays a crucial part in **Univium** and the **Synxty League**. These classes reflect their development, responsibilities, and place within the broader narrative. Whether they are elite competitors, promising talents, wise mentors, or independent wanderers, each **Class** contributes uniquely to the rich tapestry of **Univium**’s story.
 
 #### Legends
 
 **Legends** are characters who have achieved an elite level of development and have been drafted by a **Franchise** to compete in the **Synxty League**. Renowned for their exceptional skills, and strategic prowess, they are the pride of their regions, carrying the hopes and ambitions of their homeland as they strive for the title of **Champion** and the chance to be eternally remembered in the history of **Synxty**. With diverse backgrounds, appearances, and fighting styles, **Legends** are powerful forces on the battlefield, contributing to their team’s strategy with remarkable expertise. They captivate audiences, inspire future generations, and serve as enduring symbols of excellence and resilience across **Univium**.
 
-#### Novices
-
-**Novices** are newly spawned characters just beginning their journey in **Univium**. At this stage, they are full of untapped potential and natural talent but lack the training and refinement that comes with experience. **Novices** roam their home regions freely, learning about their innate attributes, and discovering their **Role** affinity. Closely observed by **Masters**, they strive to prove themselves worthy of being selected for a **House of Mastery** and advancing to become **Prospects**. As they embark on this initial phase, they begin to understand their deeper motivations and start shaping the direction of their growth.
-
 #### Prospects
 
 **Prospects** are characters who have been selected to train in the specialized **Houses of Mastery**, recognized for their exceptional potential and innate talents. Under the guidance of experienced **Masters**, they undergo rigorous development to refine their attributes, learn new abilities, and fully embrace their destined **Role**. During this critical phase, **Prospects** face numerous challenges, from mastering the fundamentals of combat to developing advanced strategies and teamwork skills, all while honing the unique qualities that will define them as future **Legends**. Every step they take brings them closer to the ultimate goal of being drafted into a **Franchise** and competing in the **Synxty League**, where they can prove their worth and strive to become a **Champion**.
+
+#### Novices
+
+**Novices** are newly spawned characters just beginning their journey in **Univium**. At this stage, they are full of untapped potential and natural talent but lack the training and refinement that comes with experience. **Novices** roam their home regions freely, learning about their innate attributes, and discovering their **Role** affinity. Closely observed by **Masters**, they strive to prove themselves worthy of being selected for a **House of Mastery** and advancing to become **Prospects**. As they embark on this initial phase, they begin to understand their deeper motivations and start shaping the direction of their growth.
 
 #### Rogues
 
