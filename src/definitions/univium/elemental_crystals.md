@@ -1,0 +1,51 @@
+# Elemental Crystals
+
+Forged by **The Creator** to balance **Univium**, the **Elemental Crystals** were powerful sources of energy that influenced the planet’s climate, weather, natural phenomena, and life forms. Recognizing their immense power, **The Creator** fused the crystals to unleash a concentrated blast, resulting in **The Great Sundering** that fractured **Anarkya** and reshaped the world. This cataclysm shattered the crystals into fragments, scattering them across the newly formed regions. Even in their fragmented state, these crystals retained their essence and power, merging with regional forces to shape unique landscapes. Today, these potent shards continue to influence the environments and inhabitants of the regions they occupy, making their presence a defining aspect of life in **Univium**. However, these crystal fragments are not evenly distributed. In each region, certain crystals are more predominant, their impact on the environment more pronounced, defining key aspects of the landscape, climate, and life forms. Other crystals, though present, exert a more subtle influence, contributing to the overall diversity without dominating the region’s character. This uneven distribution creates a rich tapestry of elemental energies across **Univium**, with each region reflecting a unique blend of crystal influences. An exception is **Synxty**, the core of the blast, where no crystal fragments settled after **The Great Sundering**. This absence of elemental influence makes **Synxty** a neutral ground, where the convergence of regional characteristics fosters innovation and unity.
+
+## Aeroxyn: The Crystal of Air
+
+**Aeroxyn** is the **Elemental Crystal** of **Air**, embodying the essence of wind, sky, and the breath of life that flows through **Univium**. This crystal’s power influences the currents of air that sweep across the planet, shaping weather patterns, controlling the winds, and even affecting the atmospheric conditions of the regions where its fragments have settled. The energy of **Aeroxyn** is associated with swiftness, freedom, and the unseen forces that guide the world from above.
+
+**Aeroxyn**’s influence is most evident in landscapes dominated by vast open skies, sweeping plains, and towering cliffs, where the wind is a constant presence. Floating islands drift lazily through the air, suspended by unseen currents, and the weather is highly dynamic, with frequent gusts, sudden changes in atmospheric pressure, and swirling clouds. These areas are characterized by a sense of constant motion and freedom, where the air itself seems alive.
+
+**Aeroxyn** is most predominant in the regions of **Bionyx** and **Cosmyn**, where its presence strongly shapes the environment and the lives of those who inhabit these lands. While **Aeroxyn** is a force of nature that cannot be controlled, its pervasive influence serves as a constant reminder of the world’s ever-changing, unpredictable nature.
+
+## Electrium: The Crystal of Electricity
+
+**Electrium** is the **Elemental Crystal** of **Electricity**, embodying the raw, crackling energy that powers **Univium** and its inhabitants. This crystal channels the forces of lightning, electrical storms, and the natural flow of energy, infusing the world with a dynamic and often volatile power. The energy of **Electrium** is closely associated with intensity, speed, and the vibrant pulse of life that surges through both organic and technological systems.
+
+**Electrium**’s influence is most apparent in landscapes where the environment crackles with energy. Towering storm clouds frequently gather, unleashing powerful lightning strikes that illuminate the skies. The air is often charged with static electricity, and the ground hums with energy, particularly near metallic deposits and mineral-rich areas. These regions are known for their volatile weather patterns, including frequent thunderstorms, electromagnetic anomalies, and the auroras that light up the night sky with brilliant displays of color.
+
+**Electrium** is most predominant in the regions of **Mysteon** and **Techyon**, where its energetic presence profoundly shapes both the natural environment and the technological advancements of these lands. As a force that can be both a creator and a destroyer, **Electrium** serves as a reminder of the dual nature of power—an essential force that must be respected and understood.
+
+## Pyronyte: The Crystal of Fire
+
+**Pyronyte** is the **Elemental Crystal** of **Fire**, embodying the fierce, consuming power of flames and the life-giving warmth of heat. This crystal channels the intense energy of fire, influencing volcanic activity, heatwaves, and the ignition of passion and creation throughout **Univium**. The energy of **Pyronyte** is associated with strength, transformation, and the relentless drive to overcome obstacles and evolve.
+
+**Pyronyte**’s influence is most apparent in landscapes shaped by intense heat and fiery activity. Volcanic mountains tower over the land, their peaks glowing with molten lava that flows through deep fissures in the earth. These regions often experience extreme temperatures, with blistering heat during the day and a fiery glow illuminating the night sky. The ground is often scorched, with rugged, rocky terrains that challenge even the most resilient of beings. Periodic eruptions and geysers of steam and lava are common, creating a landscape that is constantly in flux.
+
+**Pyronyte** is most predominant in the regions of **Cosmyn** and **Mysteon**, where its fiery energy fuels both the natural environment and the mystical practices that rely on the transformative power of fire. As a force of both destruction and renewal, **Pyronyte** serves as a reminder of the transformative power of fire—a force that can create and destroy, giving rise to new beginnings from the ashes.
+
+## Terrox: The Crystal of Ground
+
+**Terrox** is the **Elemental Crystal** of **Ground**, embodying the solid, enduring strength of the terrain beneath and the towering mountains that rise above. This crystal channels the stabilizing forces of the land, influencing the formation of landscapes, the fertility of soil, and the unyielding power of rock and metal throughout **Univium**. The energy of **Terrox** is associated with endurance, resilience, and the slow, steady forces that shape the world over time.
+
+**Terrox**’s influence is most apparent in landscapes defined by rugged terrain and formidable natural structures. Towering mountains, vast plains, and deep valleys mark these regions, where the ground is rich with minerals and the soil is fertile, supporting a robust ecosystem. The land here feels alive with the weight of ages, with seismic activity and tectonic shifts shaping the terrain in gradual, yet powerful, ways. Earthquakes, landslides, and the slow erosion of rock are common, constantly altering the landscape in subtle but profound ways.
+
+**Terrox** is most predominant in the regions of **Bionyx** and **Techyon**, where its stabilizing presence underpins both the natural world and the technological advancements that rely on the land’s resources. As a symbol of unyielding strength and steady progress, **Terrox** reminds us of the enduring power of the ground—a force that shapes the world with quiet, yet relentless, determination.
+
+## Cryonite: The Crystal of Ice
+
+**Cryonite** is the **Elemental Crystal** of **Ice**, embodying the cold, still power of glaciers, snow, and the frozen expanses of **Univium**. This crystal channels the frigid energy of ice, influencing the formation of glaciers, the fall of snow, and the preservation of life in stasis. The energy of **Cryonite** is associated with purity, clarity, and the harsh, yet beautiful, stillness of frozen landscapes.
+
+**Cryonite**’s influence is most apparent in landscapes defined by extreme cold and the dominance of ice and snow. Vast glaciers carve their way through the land, their slow, inevitable movement shaping valleys and fjords over millennia. Snow-covered plains stretch endlessly, reflecting the pale light of distant suns, while towering icebergs drift in frigid seas. The air is crisp and clear, with biting winds that carry the chill of endless winters. These regions are often marked by long, harsh winters, brief summers, and a landscape that remains frozen for much of the year.
+
+**Cryonite** is most predominant in the regions of **Cosmyn** and **Techyon**, where its chilling presence shapes both the natural environment and the technological advancements that rely on the clarity and purity of ice. As a force of preservation and stasis, **Cryonite** serves as a reminder of the beauty and danger of the frozen world—a force that can protect and preserve, but also isolate and freeze.
+
+## Tidalyn: The Crystal of Water
+
+**Tidalyn** is the **Elemental Crystal** of **Water**, embodying the fluid, ever-changing nature of the oceans, rivers, and all bodies of water on **Univium**. This crystal channels the life-sustaining energy of water, influencing the ebb and flow of tides, the course of rivers, and the nourishment of life across the planet. The energy of **Tidalyn** is associated with adaptability, flow, and the constant movement that sustains and shapes the world.
+
+**Tidalyn**’s influence is most apparent in landscapes dominated by water. Vast oceans stretch to the horizon, their tides rising and falling in rhythm with the crystal’s energy. Rivers carve their paths through the land, bringing life to the regions they touch, while tranquil lakes and bubbling springs serve as vital sources of water for all living things. The weather in these regions is often marked by frequent rainfall, mists that hang in the air, and the ever-present sound of water in motion. Storms can arise suddenly, with torrential rains and powerful waves that reshape coastlines and floodplains.
+
+**Tidalyn** is most predominant in the regions of **Bionyx** and **Mysteon**, where its presence shapes both the lush natural environments and the mystical practices that rely on the cleansing and transformative power of water. As a force that both nurtures and reshapes, **Tidalyn** serves as a reminder of the essential, yet unpredictable, nature of water—a force that sustains life but also commands respect for its ability to change the world.
