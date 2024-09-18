@@ -14,6 +14,14 @@ hero:
       link: /definitions/intro
 
 features:
+  - title: One Page Mode
+    details: View all content on a single page.
+    link: /one
+  
+  - title: Old Concepts
+    details: Old concepts that may be removed or revised.
+    link: /old
+
   - title: TODO
     details: Quick Links to Popular Sections
     link: /

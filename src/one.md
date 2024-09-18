@@ -2,6 +2,8 @@
 outline:
   - 2
   - 3
+sidebar: false
+search: false
 ---
 
 # Synxty

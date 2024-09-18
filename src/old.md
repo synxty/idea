@@ -2,6 +2,8 @@
 outline:
   - 2
   - 3
+sidebar: false
+search: false
 ---
 
 # Synxty
@@ -551,5 +553,3 @@ As characters immerse themselves in the rigorous curriculum, the following attri
 - **Evasion**
 
 #### 10.1.2. Assassins Abilities
-
-_TODO_
