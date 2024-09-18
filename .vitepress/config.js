@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'Synxty Infopedia',
+  title: 'Synxty',
   description: 'Your ultimate guide to a world of epic battles, stunning landscapes, and heroic journeys, where teamwork and collaboration shape the path to greatness.',
   base: '/idea',
   srcDir: 'src',
