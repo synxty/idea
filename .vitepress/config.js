@@ -31,7 +31,8 @@ export default defineConfig({
         docFooter: {
           prev: 'Página Anterior',
           next: 'Próxima Página',
-        }
+        },
+        darkModeSwitchLabel: 'Aparência',
       }
     },
   },
