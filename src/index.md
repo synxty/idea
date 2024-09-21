@@ -6,12 +6,12 @@ hero:
   text: Infopedia
   tagline: Your ultimate guide to a world of thrilling battles and epic team-driven competition.
   actions:
+    - theme: brand
+      text: Explore
+      link: /explore/intro
     - theme: alt
       text: Journeys [TODO]
       link: /journeys
-    - theme: brand
-      text: Definitions
-      link: /definitions/intro
 
 features:
   - title: One Page Mode
