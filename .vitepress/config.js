@@ -85,14 +85,19 @@ export default defineConfig({
           collapsed: false,
           items: [
             {
-              text: 'Overview',
-              link: '/explore/univium/overview',
-              docFooterText: 'Univium: Unveiled',
+              text: 'Unveiling',
+              link: '/explore/univium/unveiling',
+              docFooterText: 'Univium: Unveiling',
             },
             {
-              text: 'Regions',
-              link: '/explore/univium/regions',
-              docFooterText: 'Univium: Regions'
+              text: 'Primal Forces',
+              link: '/explore/univium/primal_forces',
+              docFooterText: 'Univium: Primal Forces',
+            },
+            {
+              text: 'Continents',
+              link: '/explore/univium/continents',
+              docFooterText: 'Univium: Continents'
             },
             {
               text: 'Elemental Crystals',
