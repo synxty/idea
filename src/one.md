@@ -12,23 +12,25 @@ Welcome to the **Synxty Infopedia**, your comprehensive gateway to the dynamic w
 
 Within these pages, you’ll explore the history of **Univium**, **Synxty**, and the other continents, uncover the mysteries of the **Elemental Crystals**, and learn about the various characters that inhabit this world—examining their origins, types, roles, and attributes. Discover the cities, towns, franchises, and arenas that make up **Synxty**, as well as the structure, rules, events, and awards of the **Synxty League** itself. These are just a few of the many topics waiting for you to explore. Get ready to delve into the gameplay and experience the excitement firsthand!
 
-Your adventure begins [here](#univium-unveiled)!
+Your adventure begins [here](#univium)!
 
-## Univium: Unveiled
+## Univium
+
+### Unveiling
 
 **Univium** is a world of remarkable diversity, both in its landscapes and the beings that inhabit it. From lush forests to sprawling cities, every corner of this planet pulses with life and energy. But beneath the surface of its vibrant present lies a rich yet turbulent past—one shaped by epic events that have defined its continents and the beings who call it home today. To truly understand **Univium**, we must look back to the events that set the foundation for this extraordinary world.
 
-### The Age of Chaos
+#### The Age of Chaos
 
-Eons ago, **Univium** was a world consumed by chaos. Its vast, singular and massive continent, **Anarkya**, was the stage for an endless war where the four **Primal Forces**—**Biological**, **Cosmic**, **Mystical**, and **Technological**—waged brutal and merciless battles for supremacy. Fighters from every force clashed without mercy, their relentless conflicts drenching the land in bloodshed, death, and ruin. The skies burned, the ground shook, and the oceans boiled as the very essence of the planet threatened to unravel. No place on **Anarkya** was spared from the fury, as each force sought total control, pushing the world itself to the brink of destruction.
+Eons ago, **Univium** was a world consumed by chaos. Its vast, singular and massive continent, **Anarkya**, was the stage for an endless war where the four **Primal Forces**—**Biological**, **Cosmical**, **Mystical**, and **Technological**—waged brutal and merciless battles for supremacy. Fighters from every force clashed without mercy, their relentless conflicts drenching the land in bloodshed, death, and ruin. The skies burned, the ground shook, and the oceans boiled as the very essence of the planet threatened to unravel. No place on **Anarkya** was spared from the fury, as each force sought total control, pushing the world itself to the brink of destruction.
 
-### The Great Sundering
+#### The Great Sundering
 
 Amidst the devastation, recognizing that the planet could not survive the escalating chaos, a powerful and mysterious entity known as **The Creator** intervened. In a desperate effort to restore balance to the crumbling world, **The Creator** fused six crystals, filled with elemental energy that had long shaped the planet’s climate, weather, natural phenomena, and life forms—the **Elemental Crystals**. This fusion unleashed an immense surge of energy, culminating in a catastrophic blast at the heart of **Anarkya**—an event that would come to be known as **The Great Sundering**. In a single, world-altering strike, the vast continent was shattered into five distinct continents. Four of these continents—**Bionyx**, **Cosmyn**, **Mysteon**, and **Techyon**—each confined one of the **Primal Forces**, while the fifth became the enormous crater left by the blast, a nameless barren wasteland devoid of life.
 
 In the aftermath, countless lives were claimed, and the landscape of **Univium** was forever altered. The **Elemental Crystals**, once fused, did not resist the blast and fractured into fragments that scattered across the world, embedding themselves in the very fabric of the land. These fragments, imbued with the essence of their respective elements, would go on to shape the new continents of **Univium**, influencing the climate, terrain, and inhabitants in profound ways. In contrast, the central continent was completely destroyed, inhospitable to life. The ground was scorched black from the blast, toxic and barren. The air was thick with the remnants of chaos. The fragments of the crystals lay completely powerless—a haunting reminder of the conflict that had ravaged the land.
 
-### The Dawn of Synxty
+#### The Dawn of Synxty
 
 As the ages passed, the once desolate crater blossomed into a thriving landscape, fueled by the scattered fragments of the **Elemental Crystals** that emerged from the ashes of the site. Nature’s resilience took hold as volcanic activity resumed, reshaping the land and giving rise to hills that radiated warmth. Lush forests flourished with exotic plants and vibrant flowers thriving in the rich soil, while vast plains stretched out, adorned with wild grasses and colorful blooms. Shimmering lakes mirrored the expansive sky, and rivers meandered through the terrain, with streams trickling alongside to nourish the burgeoning life. In cooler shaded areas, glistening glaciers towered majestically, their surfaces sparkling in the sunlight, while soft blankets of snow adorned the landscape. Thunderstorms rumbled overhead, refreshing the land with life-giving rain. The air, once heavy with chaos, became crisp and invigorating, alive with the sounds of rustling leaves and wildlife. This vibrant landscape stood as a testament to the remarkable power of the **Elemental Crystals**, which, alongside the relentless force of nature to heal and renew, helped transform this continent into a thriving cradle of life, no longer resembling a crater.
 
@@ -36,39 +38,67 @@ Observing the transformation of the central continent, now blooming with wildlif
 
 Over time, the inhabitants of **Univium** began to put aside their differences and embrace the vibrant possibilities of the central continent. Formerly divided by the **Primal Forces**, these diverse beings began to coexist harmoniously and discovered that they had much more in common than they initially believed. This newfound **syn**ergy, fostered by the **Anarkya Championship**, brought peace and tranquility as everyone engaged in the tournament. Settling in this region, former rivals became neighbors, working together in a spirit of uni**ty**, sharing their unique cultures, traditions, and knowledge. This collaboration transformed the area into a melting pot of ideas and innovations, forging new communities and developing bustling towns and cities. Nowadays, the inhabitants of this continent take pride in the values of **syn**ergy and uni**ty** that define it, which was aptly named **Synxty**.
 
-### New Era, New Challenges
+#### New Era, New Challenges
 
 Today, **Univium** stands as a testament to the power of balance, cooperation, and renewal. The scars of the past have healed, and the wounds of **The Great Sundering** have given way to new growth and vitality. The four continents **Bionyx**, **Cosmyn**, **Mysteon**, and **Techyon** showcase the essence of their respective **Primal Forces** through their unique landscapes, inhabitants, and cultures. As for **Synxty**, what was once a barren wasteland has emerged as the heart of **Univium**—a thriving hub of life and community where most of the planet’s activities and events take place, making it the capital of this exciting world.
 
 With **Synxty** thriving, the rivalries between continents are starting to fade, and with them, the interest in the **Anarkya Championship**. Cities and communities are eager to be represented in a competition that reflects their unique identities and aspirations, seeking a more engaging and dynamic contest. In response to this call, a new league is about to be born—the **Synxty League**. This league will feature **Franchises** representing cities and communities, each managing teams of the most skilled fighters from all continents of **Univium**. These teams will compete in a series of challenging battles to prove their worth and claim the title of **Champion** of the world. The **Synxty League** is meant to be a celebration of diversity, **syn**ergy, and uni**ty**, as each **Franchise** strives for greatness in a showcase of strategy, teamwork, and individual skills.
 
-## Regions of Univium
+### Primal Forces
 
-**Univium** is an expansive and diverse world, composed of five regions that collectively contribute to its overall harmony and vibrancy. It embodies the balance and uni**ty** of **Biological**, **Cosmic**, **Mystical**, and **Technological** forces. This world is not just a backdrop but a living, breathing entity that evolves with the **Characters** and events within it. The planet’s rich history and dynamic landscapes offer a tapestry of experiences and challenges, making **Univium** a place of endless possibilities and adventures.
+**Univium** is shaped by four fundamental **Primal Forces**, each representing a core aspect of existence that influences the world and its inhabitants. These forces drive the emergence of life, the development of technology, the laws of the cosmos, and the pursuit of spiritual understanding. Together, they create a dynamic interplay that defines the essence of reality, guiding the evolution of ecosystems, the advancement of civilizations, and the exploration of deeper truths.
 
-In this section, we will explore four of these five regions, highlighting their unique characteristics. The fifth region, **Synxty**, will be discussed in detail later in the section titled [**Synxty: The Heart of Univium**](#synxty-the-heart-of-univium) due to its special significance and central role in **Univium**.
+#### Biological
 
-### Bionyx: Univium’s Biome
+The **Biological Force** regulates the emergence of life, laying the groundwork for diverse ecosystems and rich biodiversity. It drives processes such as growth, reproduction, and adaptation, enabling organisms to thrive in various environments. This force fosters complex interactions among species, establishing food webs and symbiotic relationships that create balance within ecosystems. Through continuous evolution and adaptation, the **Biological Force** ensures resilience and sustainability in response to changing conditions.
 
-Born from the isolation of **Biological** forces unleashed by the cataclysmic explosion that fractured **Anarkya**, **Bionyx** is a lush and vibrant area teeming with life and natural beauty. It encompasses dense forests, expansive plains, vast oceans, and even volcanic and glacial areas, creating a dynamic environment rich in contrasts. The region features small settlements that blend seamlessly with the natural surroundings, promoting sustainability and harmony with nature. These communities serve as hubs for interaction and resource gathering, while the wilderness remains largely untouched, fostering a deep connection with the environment. This balance makes **Bionyx** a vital and cherished part of **Univium**, embodying the essence of life and nature.
+#### Cosmical
 
-### Cosmyn: Univium’s Cosmic Expanse
+The **Cosmical Force** governs the fundamental laws of the universe, influencing physical properties and interactions within the cosmos. This force dictates gravitational pull, atmospheric conditions, and geological activity, shaping environments and climates. It fosters celestial interactions, such as orbits and alignments, that contribute to the unique characteristics of worlds. The **Cosmical Force** creates a sense of interconnectedness with the broader universe, reflecting the dynamics of celestial bodies and the laws that underpin existence itself.
 
-Cosmyn is an otherworldly region shaped by the **Cosmic** forces that converged here in the wake of the great explosion that split **Anarkya** apart. Characterized by surreal landscapes and celestial phenomena, **Cosmyn** features floating islands, luminous crystal formations, asteroid fields, and vast starry skies that create a celestial ambiance. Small settlements and observatories are scattered throughout, serving as hubs for exploration and study, blending seamlessly with the cosmic landscape. Utilizing advanced technology, inhabitants harness the energy of the stars and asteroids, deeply connecting with the mysteries of the universe. This endless quest for cosmic understanding makes **Cosmyn** a center of curiosity and exploration within **Univium**.
+#### Technological
 
-### Mysteon: Univium’s Mystic Realm
+The **Technological Force** harnesses the potential of materials and energy, leading to the development of intricate systems and structures that optimize resource use. This force enables the creation of tools, networks, and processes that enhance functionality and organization within environments. As it evolves, the **Technological Force** drives innovation, addressing challenges and improving efficiency in various systems. It plays a crucial role in shaping how beings interact with their surroundings, facilitating problem-solving mechanisms that promote stability and advancement.
 
-Rooted in ancient mysticism and magic, **Mysteon** emerged as a realm where **Mystical** forces converged following **The Great Sundering** and converged in this region. This enchanting realm is characterized by ancient forests, shimmering lakes, and mystical ruins, creating an atmosphere steeped in wonder and mystery. The landscape is dotted with ethereal phenomena such as floating orbs of light, enchanted flora, and ancient stone circles that pulse with magical energy. Interspersed with these serene settings are powerful thunderstorms, raging blizzards, and tempestuous ocean storms, reminiscent of mythical battles and godly conflicts, that sweep through the region, adding to its mystique. Small villages and hidden sanctuaries blend harmoniously with the natural surroundings, serving as centers for mystical study and practice. The inhabitants of **Mysteon** are deeply attuned to the magical energies of the land, using their powers to explore the arcane. This profound connection to mysticism, combined with its dramatic and powerful natural phenomena, makes **Mysteon** a place of significant spiritual importance and a vital part of **Univium**’s rich tapestry.
+#### Mystical
 
-### Techyon: Univium’s Technological Hub
+The **Mystical Force** represents the search for deeper meanings and spiritual insights within the fabric of reality. It inspires exploration beyond the material realm, guiding consciousness toward understanding and connection with transcendent dimensions. This force fosters intuitive experiences, rituals, and philosophies that seek to uncover the nature of reality and the universe. The **Mystical Force** encourages contemplation of one’s place in the cosmos, nurturing a sense of wonder and the pursuit of enlightenment.
 
-Forged by the **Technological** forces unleashed in the aftermath of **The Great Sundering**, **Techyon** is a sprawling metropolis of gleaming skyscrapers, intricate machinery, and expansive research facilities. The landscape is dominated by towering structures, automated factories, and networks of high-speed transit systems that connect the various districts of this futuristic cityscape. Beneath the surface, an equally complex underground network thrives, with tunnels, subterranean laboratories, and expansive research centers driving the region’s relentless pursuit of innovation. The inhabitants of **Techyon** are deeply immersed in technological pursuits, constantly pushing the boundaries of science and engineering. This relentless drive for progress makes **Techyon** the engine of innovation within **Univium**.
+### Continents
 
-## Elemental Crystals
+**Univium** is a vast and diverse world, shaped by the remnants of the chaotic past and the unique influences of the **Elemental Crystals** and the four **Primal Forces**. Each continent—**Bionyx**, **Cosmyn**, **Mysteon**, **Techyon**, and **Synxty**—boasts its own distinct landscapes, cultures, and inhabitants.
+
+In this section, we will explore four of these five continents, highlighting their unique characteristics. The fifth continent, **Synxty**, the capital of **Univium**, will be discussed in detail later in the section [**Synxty: The Heart of Univium**](#synxty-the-heart-of-univium) due to its special significance and central role in the world.
+
+#### Bionyx
+
+In the lush expanse of **Bionyx**, the essence of life flourishes, driven by the **Biological Force**. This vibrant continent teems with natural beauty, encompassing dense forests, expansive plains, vast oceans, and even volcanic and glacial areas, creating a dynamic environment rich in contrasts.
+
+The continent features small settlements developed by its inhabitants, the **Bionians**, that blend seamlessly with the natural surroundings, promoting sustainability and harmony with nature. These communities serve as hubs for interaction and resource gathering, while the surrounding wilderness remains largely untouched, fostering a deep connection with the environment. This balance makes **Bionyx** a vital and cherished part of **Univium**, embodying the essence of life and nature.
+
+#### Cosmyn
+
+**Cosmyn** is an otherworldly continent shaped by the **Cosmical Force**. Characterized by surreal landscapes and celestial phenomena, **Cosmyn** features floating islands, luminous crystal formations, asteroid fields, and vast starry skies that create an enchanting ambiance.
+
+Small observatories are scattered throughout the continent, serving as hubs for exploration and study, blending seamlessly with the cosmic landscape. The inhabitants, known as the **Cosmyes**, make use of interstellar matter to harness the energy of the stars and asteroids, forging a deep connection with the universe. This endless quest for cosmic understanding makes **Cosmyn** a center of curiosity and exploration within **Univium**.
+
+#### Mysteon
+
+Rooted in mysticism and magic, **Mysteon** is the continent where the **Mystical Force** converged following **The Great Sundering**. This enchanting land features ancient forests, shimmering lakes, and mystical ruins, creating an atmosphere steeped in wonder and intrigue. The landscape is adorned with ethereal phenomena, including floating orbs of light, enchanted flora, ancient stone circles that pulse with magical energy, and mysterious portals that lead to other dimensions. Powerful thunderstorms, raging blizzards, and tempestuous ocean storms sweep through the continent, adding to its mystique.
+
+Small villages and hidden sanctuaries blend harmoniously with the natural surroundings, serving as centers for mystical study and practice. The inhabitants, known as the **Mystes**, use their arcane knowledge to deepen their spiritual connection with mystical forces and explore other realms and dimensions, seeking enlightenment to harness magical energies. This profound connection to mysticism, combined with the dramatic natural phenomena, makes **Mysteon** a place of significant spiritual importance within **Univium**.
+
+#### Techyon
+
+In the bustling expanse of **Techyon**, innovation and technology reign supreme, propelled by the relentless **Technological Force**. This continent is characterized by its gleaming skyscrapers, intricate machinery, and expansive research and development facilities. The landscape is dotted with towering structures, automated factories, and networks of high-speed transit systems that connect the various districts of this advanced cybernetic society.
+
+Beneath the surface, a complex underground network thrives, featuring tunnels, subterranean laboratories, and vast research centers, alongside additional factories that drive the region’s relentless pursuit of innovation. The inhabitants of **Techyon**, known as the **Techyans**,  are primarily synthetic and cybernetic beings, equipped with emotions and creativity, deeply immersed in technological pursuits and constantly pushing the boundaries of science and engineering. This relentless drive for progress makes **Techyon** the engine of innovation within **Univium**.
+
+### Elemental Crystals
 
 Forged by **The Creator** to balance **Univium**, the **Elemental Crystals** were powerful sources of energy that influenced the planet’s climate, weather, natural phenomena, and life forms. Recognizing their immense power, **The Creator** fused the crystals to unleash a concentrated blast, resulting in **The Great Sundering** that fractured **Anarkya** and reshaped the world. This cataclysm shattered the crystals into fragments, scattering them across the newly formed regions. Even in their fragmented state, these crystals retained their essence and power, merging with regional forces to shape unique landscapes. Today, these potent shards continue to influence the environments and inhabitants of the regions they occupy, making their presence a defining aspect of life in **Univium**. However, these crystal fragments are not evenly distributed. In each region, certain crystals are more predominant, their impact on the environment more pronounced, defining key aspects of the landscape, climate, and life forms. Other crystals, though present, exert a more subtle influence, contributing to the overall diversity without dominating the region’s character. This uneven distribution creates a rich tapestry of elemental energies across **Univium**, with each region reflecting a unique blend of crystal influences. An exception is **Synxty**, the core of the blast, where no crystal fragments settled after **The Great Sundering**. This absence of elemental influence makes **Synxty** a neutral ground, where the convergence of regional characteristics fosters innovation and unity.
 
-### Aeroxyn: The Crystal of Air
+#### Aeroxyn: The Crystal of Air
 
 **Aeroxyn** is the **Elemental Crystal** of **Air**, embodying the essence of wind, sky, and the breath of life that flows through **Univium**. This crystal’s power influences the currents of air that sweep across the planet, shaping weather patterns, controlling the winds, and even affecting the atmospheric conditions of the regions where its fragments have settled. The energy of **Aeroxyn** is associated with swiftness, freedom, and the unseen forces that guide the world from above.
 
@@ -76,7 +106,7 @@ Forged by **The Creator** to balance **Univium**, the **Elemental Crystals** wer
 
 **Aeroxyn** is most predominant in the regions of **Bionyx** and **Cosmyn**, where its presence strongly shapes the environment and the lives of those who inhabit these lands. While **Aeroxyn** is a force of nature that cannot be controlled, its pervasive influence serves as a constant reminder of the world’s ever-changing, unpredictable nature.
 
-### Electrium: The Crystal of Electricity
+#### Electrium: The Crystal of Electricity
 
 **Electrium** is the **Elemental Crystal** of **Electricity**, embodying the raw, crackling energy that powers **Univium** and its inhabitants. This crystal channels the forces of lightning, electrical storms, and the natural flow of energy, infusing the world with a dynamic and often volatile power. The energy of **Electrium** is closely associated with intensity, speed, and the vibrant pulse of life that surges through both organic and technological systems.
 
@@ -84,7 +114,7 @@ Forged by **The Creator** to balance **Univium**, the **Elemental Crystals** wer
 
 **Electrium** is most predominant in the regions of **Mysteon** and **Techyon**, where its energetic presence profoundly shapes both the natural environment and the technological advancements of these lands. As a force that can be both a creator and a destroyer, **Electrium** serves as a reminder of the dual nature of power—an essential force that must be respected and understood.
 
-### Pyronyte: The Crystal of Fire
+#### Pyronyte: The Crystal of Fire
 
 **Pyronyte** is the **Elemental Crystal** of **Fire**, embodying the fierce, consuming power of flames and the life-giving warmth of heat. This crystal channels the intense energy of fire, influencing volcanic activity, heatwaves, and the ignition of passion and creation throughout **Univium**. The energy of **Pyronyte** is associated with strength, transformation, and the relentless drive to overcome obstacles and evolve.
 
@@ -92,7 +122,7 @@ Forged by **The Creator** to balance **Univium**, the **Elemental Crystals** wer
 
 **Pyronyte** is most predominant in the regions of **Cosmyn** and **Mysteon**, where its fiery energy fuels both the natural environment and the mystical practices that rely on the transformative power of fire. As a force of both destruction and renewal, **Pyronyte** serves as a reminder of the transformative power of fire—a force that can create and destroy, giving rise to new beginnings from the ashes.
 
-### Terrox: The Crystal of Ground
+#### Terrox: The Crystal of Ground
 
 **Terrox** is the **Elemental Crystal** of **Ground**, embodying the solid, enduring strength of the terrain beneath and the towering mountains that rise above. This crystal channels the stabilizing forces of the land, influencing the formation of landscapes, the fertility of soil, and the unyielding power of rock and metal throughout **Univium**. The energy of **Terrox** is associated with endurance, resilience, and the slow, steady forces that shape the world over time.
 
@@ -100,7 +130,7 @@ Forged by **The Creator** to balance **Univium**, the **Elemental Crystals** wer
 
 **Terrox** is most predominant in the regions of **Bionyx** and **Techyon**, where its stabilizing presence underpins both the natural world and the technological advancements that rely on the land’s resources. As a symbol of unyielding strength and steady progress, **Terrox** reminds us of the enduring power of the ground—a force that shapes the world with quiet, yet relentless, determination.
 
-### Cryonite: The Crystal of Ice
+#### Cryonite: The Crystal of Ice
 
 **Cryonite** is the **Elemental Crystal** of **Ice**, embodying the cold, still power of glaciers, snow, and the frozen expanses of **Univium**. This crystal channels the frigid energy of ice, influencing the formation of glaciers, the fall of snow, and the preservation of life in stasis. The energy of **Cryonite** is associated with purity, clarity, and the harsh, yet beautiful, stillness of frozen landscapes.
 
@@ -108,7 +138,7 @@ Forged by **The Creator** to balance **Univium**, the **Elemental Crystals** wer
 
 **Cryonite** is most predominant in the regions of **Cosmyn** and **Techyon**, where its chilling presence shapes both the natural environment and the technological advancements that rely on the clarity and purity of ice. As a force of preservation and stasis, **Cryonite** serves as a reminder of the beauty and danger of the frozen world—a force that can protect and preserve, but also isolate and freeze.
 
-### Tidalyn: The Crystal of Water
+#### Tidalyn: The Crystal of Water
 
 **Tidalyn** is the **Elemental Crystal** of **Water**, embodying the fluid, ever-changing nature of the oceans, rivers, and all bodies of water on **Univium**. This crystal channels the life-sustaining energy of water, influencing the ebb and flow of tides, the course of rivers, and the nourishment of life across the planet. The energy of **Tidalyn** is associated with adaptability, flow, and the constant movement that sustains and shapes the world.
 
