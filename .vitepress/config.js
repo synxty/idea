@@ -33,6 +33,9 @@ export default defineConfig({
           next: 'Próxima Página',
         },
         darkModeSwitchLabel: 'Aparência',
+        outline: {
+          label: 'Nesta página',
+        }
       }
     },
   },
