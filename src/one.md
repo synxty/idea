@@ -46,7 +46,7 @@ With **Synxty** thriving, the rivalries between continents are starting to fade,
 
 ### Primal Forces
 
-**Univium** is shaped by four fundamental **Primal Forces**, each representing a core aspect of existence that influences the world and its inhabitants. These forces drive the emergence of life, the development of technology, the laws of the cosmos, and the pursuit of spiritual understanding. Together, they create a dynamic interplay that defines the essence of reality, guiding the evolution of ecosystems, the advancement of civilizations, and the exploration of deeper truths.
+The **Primal Forces** are powerful and dynamic sources of fundamental energies that shape the landscapes and cultures of **Univium**. Each force represents a core aspect of existence, driving the emergence of life and influencing the evolution of species. They play a vital role in the development of societies, guiding technological advancements and shaping spiritual beliefs. The impact of these forces extends deeply into the environment, affecting not only the physical landscapes but also the cultural identities of the inhabitants, making them essential to the very fabric of life in **Univium**.
 
 #### Biological
 
@@ -96,9 +96,7 @@ Beneath the surface, a complex underground network thrives, featuring tunnels, s
 
 ### Elemental Crystals
 
-The Elemental Crystals are extraordinary sources of elemental energy—Air, Electricity, Fire, Ground, Ice, and Water—that profoundly influence Univium’s climate, weather, natural phenomena, and life forms. However, in the wake of The Great Sundering, these powerful crystals shattered into countless fragments, scattering across the newly formed continents. Despite their fragmented state, they retained their essence and power, contributing to the shaping of new landscapes alongside the Primal Forces of each continent. Today, these shards continue to impact the environments and inhabitants of the lands they occupy, making their presence a defining aspect of life in Univium.
-
-As a result of the blast, the fragments of the Elemental Crystals were not distributed evenly across the continents. In each continent, certain crystals are more predominant, their effects on the environment more pronounced. Others, while present, exert a more subtle influence, contributing to the overall diversity without overshadowing the continent’s character. This uneven distribution creates a rich tapestry of elemental energies across Univium, with each continent reflecting a unique blend of influences that shape both the environment and the cultures of its inhabitants.
+The Elemental Crystals are extraordinary sources of elemental energy—Air, Electricity, Fire, Ground, Ice, and Water—that profoundly influence Univium’s climate, weather, natural phenomena, and life forms. Even in their fragmented state after The Great Sundering, these crystals retain their essence and power. However, as a result of the blast, the fragments were not distributed evenly across the continents. In each continent, certain crystals are more predominant, their effects on the environment more pronounced. Others, while present, exert a more subtle influence, contributing to the overall diversity without overshadowing the continent’s character. This uneven distribution creates a rich tapestry of elemental energies across Univium, with each continent reflecting a unique blend of influences that shape both the environment and the cultures of its inhabitants.
 
 #### Aeroxyn: The Crystal of Air
 
