@@ -78,7 +78,7 @@ export default defineConfig({
         {
           text: 'Intro',
           link: '/explore/intro',
-          docFooterText: 'Intro'
+          docFooterText: 'Introduction'
         },
         {
           text: 'Univium',
@@ -174,10 +174,15 @@ export default defineConfig({
           collapsed: false,
           items: [
             {
-              text: 'Visão Geral',
-              link: '/pt/explore/univium/overview',
-              docFooterText: 'Univium: Revelado',
+              text: 'Revelando',
+              link: '/pt/explore/univium/unveiling',
+              docFooterText: 'Univium: Revelando',
             },
+            {
+              text: 'Forças Primais',
+              link: '/pt/explore/univium/primal_forces',
+              docFooterText: 'Univium: Forças Primais',
+            }
           ]
         },
       ],
