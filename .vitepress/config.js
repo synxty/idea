@@ -182,6 +182,11 @@ export default defineConfig({
               text: 'Forças Primais',
               link: '/pt/explore/univium/primal_forces',
               docFooterText: 'Univium: Forças Primais',
+            },
+            {
+              text: 'Continentes',
+              link: '/pt/explore/univium/continents',
+              docFooterText: 'Univium: Continentes'
             }
           ]
         },

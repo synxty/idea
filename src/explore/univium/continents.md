@@ -20,7 +20,7 @@ Small observatories are scattered throughout the continent, serving as hubs for 
 
 Rooted in mysticism and magic, **Mysteon** is the continent where the **Mystical Force** converged following **The Great Sundering**. This enchanting land features ancient forests, shimmering lakes, and mystical ruins, creating an atmosphere steeped in wonder and intrigue. The landscape is adorned with ethereal phenomena, including floating orbs of light, enchanted flora, ancient stone circles that pulse with magical energy, and mysterious portals that lead to other dimensions. Powerful thunderstorms, raging blizzards, and tempestuous ocean storms sweep through the continent, adding to its mystique.
 
-Small villages and hidden sanctuaries blend harmoniously with the natural surroundings, serving as centers for mystical study and practice. The inhabitants, known as the **Mystes**, use their arcane knowledge to deepen their spiritual connection with mystical forces and explore other realms and dimensions, seeking enlightenment to harness magical energies. This profound connection to mysticism, combined with the dramatic natural phenomena, makes **Mysteon** a place of significant spiritual importance within **Univium**.
+Small villages and hidden sanctuaries blend harmoniously with the magical surroundings, serving as centers for mystical study and practice. The inhabitants, known as the **Mystes**, use their arcane knowledge to deepen their spiritual connection with mysticism and explore other realms and dimensions, seeking enlightenment to harness magical energies. This profound connection to mysticism, combined with the dramatic phenomena, makes **Mysteon** a place of significant spiritual importance within **Univium**.
 
 ## Techyon
 
