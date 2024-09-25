@@ -1,6 +1,6 @@
 # Continentes
 
-**Univium** é um mundo vasto e diverso, moldado pelos remanescentes do passado caótico e pelas influências únicas dos **Cristais Elementais** e das quatro **Forças Primais**. Cada continente—**Bionyx**, **Cosmyn**, **Mysteon**, **Techyon** e **Synxty**—possui suas próprias paisagens, culturas e habitantes distintos.
+**Univium** é um mundo vasto e diverso, moldado pelos remanescentes do passado caótico e pelas influências únicas dos **Cristais Elementais** e das quatro **Forças Primais**. Cada continente possui suas próprias paisagens, culturas e habitantes distintos.
 
 Nesta seção, exploraremos quatro desses cinco continentes, destacando suas características únicas. O quinto continente, **Synxty**, a capital de **Univium**, será discutido em detalhes mais adiante na seção **Synxty: O Coração de Univium** devido à sua importância especial e papel central no mundo.
 
