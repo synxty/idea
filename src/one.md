@@ -66,7 +66,7 @@ The **Technological Force** harnesses the potential of materials and energy, lea
 
 ### Continents
 
-**Univium** is a vast and diverse world, shaped by the remnants of the chaotic past and the unique influences of the **Elemental Crystals** and the four **Primal Forces**. Each continent—**Bionyx**, **Cosmyn**, **Mysteon**, **Techyon**, and **Synxty**—boasts its own distinct landscapes, cultures, and inhabitants.
+**Univium** is a vast and diverse world, shaped by the remnants of the chaotic past and the unique influences of the **Elemental Crystals** and the four **Primal Forces**. Each continent boasts its own distinct landscapes, cultures, and inhabitants.
 
 In this section, we will explore four of these five continents, highlighting their unique characteristics. The fifth continent, **Synxty**, the capital of **Univium**, will be discussed in detail later in the section [**Synxty: The Heart of Univium**](#synxty-the-heart-of-univium) due to its special significance and central role in the world.
 
