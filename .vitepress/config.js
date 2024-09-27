@@ -190,6 +190,11 @@ export default defineConfig({
               text: 'Continentes',
               link: '/pt/explore/univium/continents',
               docFooterText: 'Univium: Continentes'
+            },
+            {
+              text: 'Cristais Elementais',
+              link: '/pt/explore/univium/elemental_crystals',
+              docFooterText: 'Univium: Cristais Elementais'
             }
           ]
         },
