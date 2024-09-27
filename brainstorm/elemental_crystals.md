@@ -48,15 +48,15 @@ Terrox symbolizes the steadfast, unyielding nature of the earth—slow to change
 
 Predominant in: Bionyx and Techyon.
 
-## Cryonite: The Crystal of Ice
+## Cryonyte: The Crystal of Ice
 
-Cryonite is the Elemental Crystal of Ice, embodying the cold, still power of glaciers, snow, and the frozen expanses of Univium. This crystal influences the chill of winter, the formation of ice, and the preservation of life in stasis. The energy of Cryonite is associated with purity, clarity, and the harsh, yet beautiful, stillness of frozen landscapes.
+Cryonyte is the Elemental Crystal of Ice, embodying the cold, still power of glaciers, snow, and the frozen expanses of Univium. This crystal influences the chill of winter, the formation of ice, and the preservation of life in stasis. The energy of Cryonyte is associated with purity, clarity, and the harsh, yet beautiful, stillness of frozen landscapes.
 
-After The Great Sundering, Cryonite fragmented into icy shards that scattered across the regions of Univium. In areas where Cryonite is predominant, the environment is often marked by extreme cold, snow-covered landscapes, and the presence of glaciers and icebergs. These regions may experience long, harsh winters, frequent snowstorms, and a landscape that remains frozen for much of the year.
+After The Great Sundering, Cryonyte fragmented into icy shards that scattered across the regions of Univium. In areas where Cryonyte is predominant, the environment is often marked by extreme cold, snow-covered landscapes, and the presence of glaciers and icebergs. These regions may experience long, harsh winters, frequent snowstorms, and a landscape that remains frozen for much of the year.
 
-The influence of Cryonite also extends to the beings within these regions. Creatures and inhabitants in proximity to Cryonite shards often exhibit traits of endurance in the face of cold, resistance to freezing temperatures, and a calm, composed demeanor. Some may develop the ability to generate or control ice, withstand extreme cold, or enter a state of hibernation or stasis to survive harsh conditions.
+The influence of Cryonyte also extends to the beings within these regions. Creatures and inhabitants in proximity to Cryonyte shards often exhibit traits of endurance in the face of cold, resistance to freezing temperatures, and a calm, composed demeanor. Some may develop the ability to generate or control ice, withstand extreme cold, or enter a state of hibernation or stasis to survive harsh conditions.
 
-Cryonite represents the beauty and danger of ice—preserving and protecting but also isolating and freezing. Those who master the power of Cryonite can harness its energy for preservation and defense, but they must also be wary of its isolating and potentially suffocating nature.
+Cryonyte represents the beauty and danger of ice—preserving and protecting but also isolating and freezing. Those who master the power of Cryonyte can harness its energy for preservation and defense, but they must also be wary of its isolating and potentially suffocating nature.
 
 Predominant in: Cosmyn and Mysteon.
 

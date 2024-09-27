@@ -122,11 +122,11 @@ While **Pyronyte** is most predominant in the continents of **Cosmyn** and **Mys
 
 While **Terrox** is most predominant in the continents of **Bionyx** and **Techyon**, its influence can be felt across every continent. It is particularly evident in landscapes defined by rugged terrain and formidable natural structures. Towering mountains, vast plains, and deep valleys mark these regions, where the ground is rich with minerals and the soil is fertile, supporting a robust ecosystem. The land here feels alive with the weight of ages, with seismic activity and tectonic shifts shaping the terrain in gradual yet powerful ways. Earthquakes, landslides, and the slow erosion of rock are common, constantly altering the landscape in subtle but profound manners.
 
-#### Cryonite
+#### Cryonyte
 
-**Cryonite** is the crystal of the element **Ice**, embodying the essence of cold, stillness, and the beauty of frozen landscapes that grace **Univium**. This crystal’s influence brings forth frigid temperatures, sculpting glaciers, ice formations, and snow-covered terrains where its fragments have settled. The energy of **Cryonite** is associated with clarity, purity, preservation, and the delicate balance between beauty and harshness.
+**Cryonyte** is the crystal of the element **Ice**, embodying the essence of cold, stillness, and the beauty of frozen landscapes that grace **Univium**. This crystal’s influence brings forth frigid temperatures, sculpting glaciers, ice formations, and snow-covered terrains where its fragments have settled. The energy of **Cryonyte** is associated with clarity, purity, preservation, and the delicate balance between beauty and harshness.
 
-While **Cryonite** is most predominant in the continents of **Cosmyn** and **Techyon**, its influence can be felt across other continents as well. Its presence is most apparent in landscapes defined by extreme cold and the dominance of ice and snow. Vast glaciers carve their way through the land, their slow, inevitable movement shaping valleys and fjords. Snow-covered plains stretch endlessly, reflecting the pale light of distant suns, while towering icebergs drift in frigid seas. The air is crisp and clear, with biting winds that carry the chill of endless winters. These lands are often marked by long, harsh winters, brief summers, and a landscape that remains predominantly frozen.
+While **Cryonyte** is most predominant in the continents of **Cosmyn** and **Techyon**, its influence can be felt across other continents as well. Its presence is most apparent in landscapes defined by extreme cold and the dominance of ice and snow. Vast glaciers carve their way through the land, their slow, inevitable movement shaping valleys and fjords. Snow-covered plains stretch endlessly, reflecting the pale light of distant suns, while towering icebergs drift in frigid seas. The air is crisp and clear, with biting winds that carry the chill of endless winters. These lands are often marked by long, harsh winters, brief summers, and a landscape that remains predominantly frozen.
 
 #### Tidalyn
 
@@ -180,7 +180,7 @@ Hailing from **Techyon**, **Characters** with a **Tech** **Origin** are deeply i
 
 #### Ice
 
-**Ice**-type **Characters** draw their power from the **Cryonite** crystal, embodying the cold, still energy of ice, frost and snow. Known for their clarity and purity, they often have features that reflect the frozen expanses, such as icy skin, crystalline patterns, or frost-covered elements. Their appearance is typically adorned with cool shades like light blue, white, and light gray, mirroring the colors of glaciers, snow, and frozen lakes. These **Characters** thrive in arctic landscapes, frozen tundras, glacial fields, and other cold environments, where they can fully tap into the power of **Cryonite**.
+**Ice**-type **Characters** draw their power from the **Cryonyte** crystal, embodying the cold, still energy of ice, frost and snow. Known for their clarity and purity, they often have features that reflect the frozen expanses, such as icy skin, crystalline patterns, or frost-covered elements. Their appearance is typically adorned with cool shades like light blue, white, and light gray, mirroring the colors of glaciers, snow, and frozen lakes. These **Characters** thrive in arctic landscapes, frozen tundras, glacial fields, and other cold environments, where they can fully tap into the power of **Cryonyte**.
 
 #### Water
 

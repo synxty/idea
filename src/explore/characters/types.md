@@ -20,7 +20,7 @@
 
 ## Ice
 
-**Ice**-type **Characters** draw their power from the **Cryonite** crystal, embodying the cold, still energy of ice, frost and snow. Known for their clarity and purity, they often have features that reflect the frozen expanses, such as icy skin, crystalline patterns, or frost-covered elements. Their appearance is typically adorned with cool shades like light blue, white, and light gray, mirroring the colors of glaciers, snow, and frozen lakes. These **Characters** thrive in arctic landscapes, frozen tundras, glacial fields, and other cold environments, where they can fully tap into the power of **Cryonite**.
+**Ice**-type **Characters** draw their power from the **Cryonyte** crystal, embodying the cold, still energy of ice, frost and snow. Known for their clarity and purity, they often have features that reflect the frozen expanses, such as icy skin, crystalline patterns, or frost-covered elements. Their appearance is typically adorned with cool shades like light blue, white, and light gray, mirroring the colors of glaciers, snow, and frozen lakes. These **Characters** thrive in arctic landscapes, frozen tundras, glacial fields, and other cold environments, where they can fully tap into the power of **Cryonyte**.
 
 ## Water
 

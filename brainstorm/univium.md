@@ -74,13 +74,13 @@ Forged by **The Creator** to balance **Univium**, the **Elemental Crystals** wer
 
 **Terrox** is most predominant in the regions of **Bionyx** and **Techyon**, where its stabilizing presence underpins both the natural world and the technological advancements that rely on the land’s resources. As a symbol of unyielding strength and steady progress, **Terrox** reminds us of the enduring power of the ground—a force that shapes the world with quiet, yet relentless, determination.
 
-### Cryonite: The Crystal of Ice
+### Cryonyte: The Crystal of Ice
 
-**Cryonite** is the **Elemental Crystal** of **Ice**, embodying the cold, still power of glaciers, snow, and the frozen expanses of **Univium**. This crystal channels the frigid energy of ice, influencing the formation of glaciers, the fall of snow, and the preservation of life in stasis. The energy of **Cryonite** is associated with purity, clarity, and the harsh, yet beautiful, stillness of frozen landscapes.
+**Cryonyte** is the **Elemental Crystal** of **Ice**, embodying the cold, still power of glaciers, snow, and the frozen expanses of **Univium**. This crystal channels the frigid energy of ice, influencing the formation of glaciers, the fall of snow, and the preservation of life in stasis. The energy of **Cryonyte** is associated with purity, clarity, and the harsh, yet beautiful, stillness of frozen landscapes.
 
-**Cryonite**’s influence is most apparent in landscapes defined by extreme cold and the dominance of ice and snow. Vast glaciers carve their way through the land, their slow, inevitable movement shaping valleys and fjords over millennia. Snow-covered plains stretch endlessly, reflecting the pale light of distant suns, while towering icebergs drift in frigid seas. The air is crisp and clear, with biting winds that carry the chill of endless winters. These regions are often marked by long, harsh winters, brief summers, and a landscape that remains frozen for much of the year.
+**Cryonyte**’s influence is most apparent in landscapes defined by extreme cold and the dominance of ice and snow. Vast glaciers carve their way through the land, their slow, inevitable movement shaping valleys and fjords over millennia. Snow-covered plains stretch endlessly, reflecting the pale light of distant suns, while towering icebergs drift in frigid seas. The air is crisp and clear, with biting winds that carry the chill of endless winters. These regions are often marked by long, harsh winters, brief summers, and a landscape that remains frozen for much of the year.
 
-**Cryonite** is most predominant in the regions of **Cosmyn** and **Techyon**, where its chilling presence shapes both the natural environment and the technological advancements that rely on the clarity and purity of ice. As a force of preservation and stasis, **Cryonite** serves as a reminder of the beauty and danger of the frozen world—a force that can protect and preserve, but also isolate and freeze.
+**Cryonyte** is most predominant in the regions of **Cosmyn** and **Techyon**, where its chilling presence shapes both the natural environment and the technological advancements that rely on the clarity and purity of ice. As a force of preservation and stasis, **Cryonyte** serves as a reminder of the beauty and danger of the frozen world—a force that can protect and preserve, but also isolate and freeze.
 
 ### Tidalyn: The Crystal of Water
 
