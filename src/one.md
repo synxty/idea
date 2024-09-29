@@ -34,7 +34,7 @@ In the aftermath, countless lives were claimed, and the landscape of **Univium**
 
 As the ages passed, the once desolate crater blossomed into a thriving landscape, fueled by the scattered fragments of the **Elemental Crystals** that emerged from the ashes of the site. Nature’s resilience took hold as volcanic activity resumed, reshaping the land and giving rise to hills that radiated warmth. Lush forests flourished with exotic plants and vibrant flowers thriving in the rich soil, while vast plains stretched out, adorned with wild grasses and colorful blooms. Shimmering lakes mirrored the expansive sky, and rivers meandered through the terrain, with streams trickling alongside to nourish the burgeoning life. In cooler shaded areas, glistening glaciers towered majestically, their surfaces sparkling in the sunlight, while soft blankets of snow adorned the landscape. Thunderstorms rumbled overhead, refreshing the land with life-giving rain. The air, once heavy with chaos, became crisp and invigorating, alive with the sounds of rustling leaves and wildlife. This vibrant landscape stood as a testament to the remarkable power of the **Elemental Crystals**, which, alongside the relentless force of nature to heal and renew, helped transform this continent into a thriving cradle of life, no longer resembling a crater.
 
-Observing the transformation of the central continent, now blooming with wildlife and vitality, **The Creator** realized that while the containment of the **Primal Forces** brought a measure of balance, the once inhospitable land could become a focal point for new conflicts over territorial dominance as it was encircled by the other four newly formed continents. Although many years had passed since **The Great Sundering**, the echoes of past conflicts still resonated, and ambitions to dominate the now habitable land could easily spark new hostilities. To safeguard the fragile peace, **The Creator** established this continent as a controlled battleground for the **Anarkya Championship**, a tournament created to honor the countless lives lost during the conflicts of the past and the legacy of the continent that once existed. In doing so, **The Creator** aimed to foster uni**ty** and respect among all inhabitants of **Univium** by channeling conflicts into a structured contest rather than chaos. This competition would bring together the strongest fighters from each continent to compete for the title of **Champion**, creating an atmosphere of anticipation and excitement.
+Observing the transformation of the central continent, now blooming with wildlife and vitality, **The Creator** realized that while the containment of the **Primal Forces** brought a measure of balance, the once inhospitable land could become a focal point for new conflicts over territorial dominance as it was encircled by the other four newly formed continents. Although a long time had passed since **The Great Sundering**, the echoes of past conflicts still resonated, and ambitions to dominate the now habitable land could easily spark new hostilities. To safeguard the fragile peace, **The Creator** established this continent as a controlled battleground for the **Anarkya Championship**, a tournament created to honor the countless lives lost during the conflicts of the past and the legacy of the continent that once existed. In doing so, **The Creator** aimed to foster uni**ty** and respect among all inhabitants of **Univium** by channeling conflicts into a structured contest rather than chaos. This competition would bring together the strongest fighters from each continent to compete for the title of **Champion**, creating an atmosphere of anticipation and excitement.
 
 Over time, the inhabitants of **Univium** began to put aside their differences and embrace the vibrant possibilities of the central continent. Formerly divided by the **Primal Forces**, these diverse beings began to coexist harmoniously and discovered that they had much more in common than they initially believed. This newfound **syn**ergy, fostered by the **Anarkya Championship**, brought peace and tranquility as everyone engaged in the tournament. Settling in this continent, former rivals became neighbors, working together in a spirit of uni**ty**, sharing their unique cultures, traditions, and knowledge. This collaboration transformed the area into a melting pot of ideas and innovations, forging new communities and developing bustling towns and cities. Nowadays, the inhabitants of this continent take pride in the values of **syn**ergy and uni**ty** that define it, which was aptly named **Synxty**.
 
@@ -68,7 +68,7 @@ The **Technological Force** harnesses the potential of materials and energy, lea
 
 **Univium** is a vast and diverse world, shaped by the remnants of the chaotic past and the unique influences of the **Elemental Crystals** and the four **Primal Forces**. Each continent boasts its own distinct landscapes, cultures, and inhabitants.
 
-In this section, we will explore four of these five continents, highlighting their unique characteristics. The fifth continent, **Synxty**, the capital of **Univium**, will be discussed in detail later in the section [**Synxty: The Heart of Univium**](#synxty-the-heart-of-univium) due to its special significance and central role in the world.
+In this section, we will explore four of these five continents, highlighting their unique characteristics. The fifth continent, **Synxty**, the capital of **Univium**, will be discussed in detail later in the section [**Synxty: The Heart of Univium**](#the-heart-of-univium) due to its special significance and central role in the world.
 
 #### Bionyx
 
@@ -133,6 +133,56 @@ Where **Cryonyte** is present, it creates regions dominated by extreme cold. The
 The crystal of **Water**, **Tidalyn** embodies fluidity, adaptability, and the life-giving essence flowing through **Univium**. It governs water’s movement—shaping rivers, lakes, oceans, and regulating tides and precipitation where its fragments reside. Linked to adaptability, flow, and constant movement sustaining the world, **Tidalyn** is most prominent in **Bionyx** and **Mysteon**, influencing all continents.
 
 In landscapes where **Tidalyn**‘s fragments are found, rich water sources and aquatic ecosystems flourish. The crystal’s energy forms serene lakes, abundant rivers, and vast oceans, nourishing thriving flora and fauna. Waterfalls cascade down cliffs, creating misty rainbows, and the sound of flowing water fills the air, invoking tranquility and renewal. The weather in these regions is often characterized by frequent rainfall, lingering mists, and sudden storms, with torrential rains and powerful waves reshaping coastlines and floodplains.
+
+## Synxty
+
+### The Heart of Univium
+
+**Synxty**, the illustrious capital of **Univium**, is a continent of breathtaking beauty and dynamic contrasts. Distinguished by its vibrant cities and tranquil towns, it is nestled within a landscape that seamlessly blends urban innovation with the serenity of nature. The geography here is a stunning mosaic: rugged cliffs plunge into deep valleys, fertile plains stretch toward the horizon, and meandering rivers carve paths through lush terrains. Towering mountains, some crowned with glistening glaciers that sparkle under the sun, provide a majestic backdrop, while the coastline unveils pristine beaches where the azure ocean gently kisses the land.
+
+As the beating heart of **Univium**, **Synxty** is a thriving hub of culture, commerce, and creativity, reflecting the rich tapestry of influences from all corners of the world. The climate across the continent is as diverse as its inhabitants, ranging from temperate zones that encourage agricultural abundance to highland areas where snow-capped peaks and crystal-clear lakes maintain an ethereal beauty year-round. This variety fosters a dynamic environment where different forms of life flourish and where the changing seasons paint the landscape with ever-new hues.
+
+Currently, **Synxty** is undergoing a vibrant transformation as it prepares for the highly anticipated **Synxty League**. This prestigious competition has ignited a wave of excitement and innovation across the continent. Cities and towns are abuzz with activity, as communities strive to showcase their unique identities and strengths. New arenas are being constructed, training facilities are bustling, and public spaces are adorned with banners and art installations celebrating the upcoming event. The **League** has become a catalyst for unity, bringing together beings from all walks of life in a shared spirit of anticipation and pride.
+
+Together, the cities and towns of **Synxty** create a harmonious balance between the vibrancy of urban living and the tranquility of the natural world. This synergy makes **Synxty** not just the capital of **Univium**, but also its cultural and spiritual heart—a place where ingenuity and natural splendor coexist seamlessly. It is a continent that embodies the ideals of unity and synergy, standing as a shining example of what can be achieved when beings come together with a shared vision of progress and harmony.
+
+### Cities
+
+Built across diverse terrains—from the edges of serene lakes to the tops of verdant hills—cities in **Synxty** embody the values of progress, unity, and synergy. Drawing inspiration from the lush forests and fertile plains of **Bionyx**, the celestial wonders of **Cosmyn**, the mystical energies of **Mysteon**, and the technological innovations of **Techyon**, these urban centers are teeming with life and diversity. Streets buzz with the sounds of multiple languages and the aromas of intercontinental cuisines, creating an atmosphere rich in cultural exchange. Art and music festivals celebrate the continent’s vibrant heritage, with communities coming together to showcase their unique traditions and talents.
+
+Anticipation fills the air as the **Synxty League** draws near. Each city serves as a vital hub for a **Franchise** that embodies its unique identity in the competition. Preparations are in full swing, with residents passionately rallying behind their teams. In this vibrant atmosphere, the creativity and indomitable spirit of the inhabitants shine brightly, setting the stage for an unforgettable celebration of competition and camaraderie in the upcoming **Synxty League**.
+
+#### Arenas
+
+Each arena is being meticulously crafted to host thrilling matches that showcase the skills and strategies of **Legends**, the elite characters representing the city’s **Franchises**. These architectural masterpieces are being outfitted with the latest innovations to create immersive environments designed to captivate, inspire, and enhance every moment for fans and spectators alike.
+
+#### Training Facilities
+
+Training facilities across the continent are buzzing with activity. **Legends** push themselves to the limits under the guidance of renowned **Masters**. In state-of-the-art facilities that blend elements from all corners of **Univium**, they refine their skills, develop new strategies, and forge the teamwork necessary to triumph in the **League**. These centers are crucibles of excellence, where dedication and innovation meld to produce extraordinary talent.
+
+#### Stores
+
+The excitement spills into the streets, where merchandise stores are bustling with enthusiastic fans eager to support their **Franchises**. Colorful jerseys, intricately designed banners, and a myriad of collectibles adorn storefronts and marketplaces. City colors and emblems are displayed proudly, fostering a deep sense of community and shared identity. Festivals and parades enliven public spaces, featuring performances and exhibitions that celebrate each city’s unique culture and the impending competition.
+
+#### Rivalries
+
+While synergy and unity are cherished values in **Synxty**, a spirited rivalry ignites the hearts of its inhabitants as cities vie for dominance in the **Synxty League**. Each city is fervently determined to elevate its **Franchise** through exceptional training, innovative tactics, and vibrant community engagement. This competitive spirit electrifies the entire continent, creating an atmosphere where excellence thrives. The rivalries push **Franchises** to innovate, grow, and continually surpass their own boundaries in the relentless pursuit of victory.
+
+### Towns
+
+Complementing the bustling cities, the towns of **Synxty** enrich the continent’s dynamic landscape by offering distinct environments for growth, training, and rejuvenation. With sparser populations, expansive terrains, and untouched natural beauty, these towns provide serene, rustic settings that contrast with the vibrant activity of the urban centers. As the **Synxty League** approaches, these towns are also experiencing transformations. Residents are banding together to enhance their facilities and prepare for the influx of visitors and competitors while maintaining the tranquil charm that makes them unique.
+
+#### Border Towns
+
+Situated along **Synxty**’s periphery, the border towns are profoundly influenced by their proximity to neighboring continents. From the dense forests and rolling plains of **Bionyx** to the mystical mists of **Mysteon**, the celestial skies of **Cosmyn**, and the technological advancements of **Techyon**, each border town presents a unique blend of landscapes, climates, and cultures. This fusion creates distinct identities that bridge **Synxty** and its neighboring continents.
+
+Within these border towns, as preparations for the **Synxty League** intensify, **Specialized Training Hubs** have been established to tap into the unique **Primal Forces** of the adjacent lands, providing **Legends** with tailored environments to refine their skills. These hubs utilize the distinct features and conditions of the surrounding areas, making them ideal for **Legends** to enhance their core strengths, attributes, and overall performance in alignment with their **Origin**. Additionally, these towns host **Cross-Continental Training Programs**, where **Legends** from other **Origins** can build resistance or improve their effectiveness.
+
+#### Inner Towns
+
+Deeper within **Synxty**, away from the direct influences of the bordering continents, the inner towns serve as tranquil havens offering a calm and focused environment. Known for their peaceful atmosphere and leisurely pace of life, these towns are ideal settings for introspection, recovery, and personal growth. With cobblestone streets, quaint inns, and lush gardens, they provide a serene contrast to **Synxty**’s bustling cities. Popular among travelers and **Wanderers**, these towns offer a much-needed respite during their journeys across **Univium**.
+
+As the **Synxty League** approaches, these inner towns are also becoming sanctuaries for **Legends** to prepare themselves thoroughly. They serve as ideal places to heal injuries, regain strength, and receive holistic treatments that enhance physical conditioning and overall well-being. Beyond physical rejuvenation, the towns offer a space for **Legends** to reconnect with their purpose, rebuild confidence, find inspiration, and reignite motivation. The blend of natural beauty, quiet reflection, and supportive communities fosters an environment where **Legends** can return stronger and more focused, ready to face their next challenges in the competition.
 
 ## Characters
 
@@ -260,32 +310,6 @@ Through rigorous training and focused development, they fully embrace their **Ro
 
 **Wanderers** are former **Legends** or **Masters** who have retired and are now exploring the world. Distinguished by their past accomplishments and experience, **Wanderers** carry a reputation that grants them a certain level of respect and freedom, allowing them to move more easily across **Regions**. They are often on personal quests, adventures, or in search of new challenges, driven by motivations such as seeking knowledge, mentoring younger **Prospects**, or finding peace after a demanding career. Their journeys and choices continue to inspire others, and they occasionally play key roles in events that shape the future of **Univium**.
 
-## Synxty: The heart of Univium
-
-At the center of **Univium** lies **Synxty**, a region of unparalleled grandeur and importance. Emerging from the aftermath of **The Great Sundering**, **Synxty** has transformed from a war-torn land into a flourishing center of innovation, cultural exchange, and boundless ambition. It is a region defined by its diversity, where a tapestry of cities, towns, and natural landscapes thrives under a spirit of unity, healthy rivalry, and progress.
-
-### Cities
-
-Cities in **Synxty** are vibrant and dynamic, shaped by a rich blend of traditions, ideas, and influences from all regions across **Univium**. Each city reflects the unique creativity and determination of its inhabitants, drawing inspiration from the lush biomes of **Bionyx**, the cosmic wonders of **Cosmyn**, the mystical forces of **Mysteon**, and the technological marvels of **Techyon**. Built across diverse landscapes—from rugged cliffs to fertile plains—these cities embody the values of progress, unity, and, above all, healthy rivalry.
-
-The social fabric of **Synxty**’s cities is woven from the diverse backgrounds of its inhabitants. Here, individuals from all regions of **Univium** come together, bringing their unique skills, perspectives, and traditions. While collaboration is encouraged and celebrated, it is the rivalry between the cities that truly fuels the energy of **Synxty**. Each city strives to outdo the others in various fields, from technological advancements and cultural achievements to, most prominently, their performance in the **Synxty League**. This rivalry is more than mere competition; it is the foundation upon which **Synxty**’s spirit of excellence is built, inspiring cities to innovate, grow, and continuously push beyond their limits.
-
-### Towns
-
-Towns in **Synxty** enrich the region’s dynamic landscape, offering distinct environments for growth, training, and recovery. With sparse populations, expansive terrains, and untouched natural beauty, these towns provide serene, rustic settings that stand in contrast to the vibrant activity of the cities.
-
-#### Border Towns
-
-Border towns in **Synxty** are located along the region’s periphery, where proximity to neighboring areas profoundly influences their character. From the dense forests and rolling plains of **Bionyx** to the mystical mists of **Mysteon**, the celestial skies of **Cosmyn**, and the technological advancements of **Techyon**, each town presents a unique blend of landscape, climate, and culture. This fusion creates distinct identities that bridge **Synxty** and its neighboring regions.
-
-Within these border towns, **Specialized Training Hubs** have been established to harness the unique **Origin** forces of the neighboring regions, providing **Legends** with tailored environments to refine their skills. These hubs utilize the distinct features and conditions of the surrounding areas, making them ideal locations for **Legends** to train and enhance their core strengths, attributes, and overall performance in alignment with their **Origin**. Additionally, these hubs host **Cross-Regional Training Programs**, where **Legends** from other **Origins** can enroll to build resistance or to enhance their effectiveness against that specific **Origin**.
-
-#### Inner Towns
-
-Deeper within **Synxty**, away from the direct influences of the bordering regions, inner towns serve as tranquil havens with a calm and focused environment. Known for their peaceful atmosphere and slower pace of life, these towns provide ideal settings for introspection, recovery, and personal growth. With cobblestone streets, quaint inns, and lush gardens, they offer a serene contrast to the bustling cities of **Synxty**. Popular among travelers and wanderers, these towns offer a much-needed respite from their journeys across **Univium**.
-
-For **Legends**, these towns serve as places for comprehensive recovery—healing injuries, regaining strength, and receiving holistic treatments that enhance physical conditioning and overall well-being. Beyond the physical, the inner towns offer a sanctuary for **Legends** to reconnect with their purpose, rebuild confidence, find inspiration, and regain motivation. The blend of natural beauty, quiet reflection, and supportive communities helps them return stronger and more focused, ready to face their next challenge.
-
 ### Houses of Mastery
 
 The **Houses of Mastery** are prestigious institutions in the inner towns of **Synxty**, distanced from the competitive cities and border region influences. These expansive campuses serve as focused training grounds where **Prospects** undergo rigorous development to refine their innate traits and fully embrace their destined **Role**.
@@ -295,9 +319,3 @@ Each **House** specializes in one of these six distinct **Roles**, guiding **Pro
 Beyond training, the **Houses of Mastery** also serve as centers of innovation, where **Masters** undertake expeditions to other **Regions** to discover and refine new abilities that can be learned by **Legends**. While some of these abilities are created through direct field research and exploration, others are developed in-house by **Masters** drawing on their deep knowledge, ancient texts, and the teachings passed down through generations. This blend of traditional knowledge and new discoveries ensures that **Legends** are equipped with a diverse range of abilities to engage in battle with strength and versatility.
 
 The **Houses of Mastery** are foundational pillars of the **Synxty League**, shaping the next generation of **Legends** and advancing the strategic evolution of battles. Through a blend of rigorous training, **Role** specialization, and ongoing innovation, they ensure every **Legend** is prepared to face fierce competitions and relentless challenges in their quest to become a **Champion**.
-
-### Franchises
-
-### Arenas
-
-### Training Grounds

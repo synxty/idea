@@ -110,6 +110,27 @@ export default defineConfig({
           ]
         },
         {
+          text: 'Synxty',
+          collapsed: false,
+          items: [
+            {
+              text: 'The Heart of Univium',
+              link: '/explore/synxty/overview',
+              docFooterText: 'Synxty: The Heart of Univium'
+            },
+            {
+              text: 'Cities',
+              link: '/explore/synxty/cities',
+              docFooterText: 'Synxty: Cities'
+            },
+            {
+              text: 'Towns',
+              link: '/explore/synxty/towns',
+              docFooterText: 'Synxty: Towns'
+            }
+          ]
+        },
+        {
           text: 'Characters',
           collapsed: false,
           link: '/explore/characters/overview',
@@ -139,29 +160,6 @@ export default defineConfig({
               text: 'Classes',
               link: '/explore/characters/classes',
               docFooterText: 'Characters: Classes'
-            }
-          ]
-        },
-        {
-          text: 'Synxty',
-          collapsed: false,
-          link: '/explore/synxty/overview',
-          docFooterText: 'Synxty: The Heart of Univium',
-          items: [
-            {
-              text: 'Cities',
-              link: '/explore/synxty/cities',
-              docFooterText: 'Synxty: Cities'
-            },
-            {
-              text: 'Towns',
-              link: '/explore/synxty/towns',
-              docFooterText: 'Synxty: Towns'
-            },
-            {
-              text: 'Houses of Mastery',
-              link: '/explore/synxty/houses_of_mastery',
-              docFooterText: 'Synxty: Houses of Mastery'
             }
           ]
         }
