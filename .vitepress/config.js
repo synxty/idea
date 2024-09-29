@@ -196,6 +196,27 @@ export default defineConfig({
             }
           ]
         },
+        {
+          text: 'Synxty',
+          collapsed: false,
+          items: [
+            {
+              text: 'O Coração de Univium',
+              link: '/pt/explore/synxty/overview',
+              docFooterText: 'Synxty: O Coração de Univium'
+            },
+            {
+              text: 'Cidades',
+              link: '/pt/explore/synxty/cities',
+              docFooterText: 'Synxty: Cidades'
+            },
+            {
+              text: 'Vilarejos',
+              link: '/pt/explore/synxty/towns',
+              docFooterText: 'Synxty: Vilarejos'
+            }
+          ]
+        },
       ],
     }
   },

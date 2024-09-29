@@ -2,7 +2,7 @@
 
 **Univium** is a vast and diverse world, shaped by the remnants of the chaotic past and the unique influences of the **Elemental Crystals** and the four **Primal Forces**. Each continent boasts its own distinct landscapes, cultures, and inhabitants.
 
-In this section, we will explore four of these five continents, highlighting their unique characteristics. The fifth continent, **Synxty**, the capital of **Univium**, will be discussed in detail later in the section [**Synxty: The Heart of Univium**](../synxty/overview.md) due to its special significance and central role in the world.
+In this section, we will explore four of these five continents, highlighting their unique characteristics. The fifth continent, **Synxty**, the capital of **Univium**, will be unveiled in detail later in the section [**Synxty: The Heart of Univium**](../synxty/overview.md) due to its special significance and central role in the world.
 
 ## Bionyx
 
