@@ -71,3 +71,10 @@ The influence of Tidalyn extends to the beings within these regions. Creatures a
 Tidalyn embodies the duality of water—nurturing and sustaining life while also having the power to overwhelm and destroy. Those who wield the power of Tidalyn can bring forth life and healing, but they must also respect the ocean’s depths and the potential for untamed waters to sweep away all in their path.
 
 Predominant in: Bionyx and Mysteon.
+
+1. Aeroxyn (Air): Governing the winds, atmospheric currents, and aerial phenomena.
+ 2. Electrium (Electric): Controlling electrical energy, storms, and technological advancements.
+ 3. Pyronyte (Fire): Managing heat, combustion, and volcanic activity.
+ 4. Terrox (Ground): Governing earth, minerals, and foundational stability.
+ 5. Cryonyte (Ice): Controlling cold, glacial movements, and water preservation.
+ 6. Tidalyn (Water): Managing water bodies, aquatic life, and hydration cycles.

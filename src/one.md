@@ -190,6 +190,8 @@ As the **Synxty League** approaches, these inner towns are also becoming sanctua
 
 **Characters** are the driving force of **Univium**, propelling its narrative forward and encapsulating the very essence of the world. Each character is a distinct entity, molded by their **Origin**—the region from which they hail, by their **Type**—from the elemental crystal they draw their power, and by their **Soul**—their inner nature. These characters are more than mere participants in the unfolding story of **Univium**; they are its heartbeat, its voice, and its soul, each one contributing to the rich and diverse tapestry that makes up this extraordinary world.
 
+### Overview
+
 ### Origins
 
 **Origins** define the homeland of each **Character**, shaping their core identity and connection to the world of **Univium**. A **Character**’s **Origin** influences both their appearance and essence, reflecting the unique traits of their **Region**. Whether from the vibrant wilds of **Bionyx**, the celestial expanses of **Cosmyn**, the mysterious enchantment of **Mysteon**, or the futuristic landscapes of **Techyon**, each **Origin** leaves a distinct mark on those who emerge from it, contributing to the diversity and richness of **Univium**’s tapestry.

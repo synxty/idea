@@ -15,3 +15,8 @@ The Cosmic Force governs the fundamental laws of the universe, influencing physi
 ## Mystical
 
 The Mystical Force represents the search for deeper meanings and spiritual insights within the fabric of reality. It inspires exploration beyond the material realm, guiding consciousness toward understanding and connection with transcendent dimensions. This force fosters intuitive experiences, rituals, and philosophies that seek to uncover the nature of reality and the universe. The Mystical Force encourages contemplation of one’s place in the cosmos, nurturing a sense of wonder and the pursuit of enlightenment.
+
+ 1. Cosmical Energy: Embodying space, celestial phenomena, and cosmic wisdom.
+ 2. Mystical Energy: Encompassing magic, arcane knowledge, and supernatural phenomena.
+ 3. Biological Energy: Representing life, growth, and organic evolution.
+ 4. Technological Energy: Symbolizing innovation, machinery, and artificial intelligence.

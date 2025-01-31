@@ -2,6 +2,26 @@
 
 **Univium** is a world of remarkable diversity, both in its landscapes and the beings that inhabit it. From lush forests to sprawling cities, every corner of this planet pulses with life and energy. But beneath the surface of its vibrant present lies a rich yet turbulent past—one shaped by epic events that have defined its continents and the beings who call it home today. To truly understand **Univium**, we must look back to the events that set the foundation for this extraordinary world.
 
+## Genesis of a Silent Sentinel
+
+In the far reaches of the cosmos, nestled within the vast expanse of an uncharted galaxy, drifted a solitary celestial body known as **Univium**. For eons, **Univium** remained an inert rock, a silent sentinel orbiting a distant star. Its surface was a desolate expanse of craggy terrains and barren plains, scarred by the relentless bombardment of meteors and devoid of any signs of life. The planet’s atmosphere, thin and unbreathable, offered no sanctuary for the emergence of flora or fauna. Beneath its rocky exterior, a molten core pulsed with untapped energy, hinting at the planet’s latent potential for transformation.
+
+Amidst the cosmic ballet of stars and galaxies, an enigmatic and omnipotent entity known only as **The Creator** observed **Univium** from afar. Intrigued by the planet’s untapped potential, **The Creator** envisioned a world vibrant with life and diverse ecosystems. Determined to awaken **Univium** from its eternal slumber, **The Creator** embarked on a mission to infuse the lifeless rock with the essential elements required to foster an ecosystem capable of giving rise to life.
+
+To achieve this, **The Creator** bestowed **Univium** with six crystals of elemental energy, the **Elemental Crystals**—**Aeroxyn** (Air), **Electrium** (Electric), **Pyronyte** (Fire), **Terrox** (Ground), **Cryonyte** (Ice), and **Tidalyn** (Water)—that were strategically placed across the planet to act as catalysts, channeling and balancing the energies essential for its metamorphosis.
+
+## The Awakening of Univium
+
+As millennia passed, the **Elemental Crystals** began to interact, setting off a cascade of geological and atmospheric transformations. The convergence of **Aeroxyn** and **Pyronyte** ignited intense volcanic activity, birthing towering mountain ranges and vast lava flows that reshaped the planet’s surface. **Electrium** and **Terrox** interacted to generate powerful electrical storms and magnetic fields, influencing tectonic movements and fostering the formation of mineral-rich landscapes.
+
+Simultaneously, **Cryonyte** and **Tidalyn** wove intricate patterns of glaciers and expansive water bodies, giving rise to deep oceans, winding rivers, and shimmering lakes. The interplay of these elemental forces created a dynamic and ever-evolving environment, marked by massive storms and relentless rainfalls that sculpted the land with relentless precision.
+
+Amidst this turmoil, **Anarkya**, a single colossal continent, emerged as the heart of **Univium**. Encircled by the vast Oceanus Primus, **Anarkya** became the primary stage for the planet’s transformation. Its diverse landscapes—ranging from fiery volcanic peaks and electrically charged storm regions to icy glacial zones and fertile mineral-rich plains—became a testament to the harmonious yet volatile interaction of the **Elemental Crystals**.
+
+## Rise of Civilization
+
+With the climate gradually stabilizing, **The Creator** sought to propel **Univium** towards the dawn of life. To achieve this, **The Creator** infused the planet with four distinct **Fundamental Energies**—**Biological**, **Cosmical**, **Mystical**, and **Technological**—each representing a unique aspect of existence. These energies are inherently mutually exclusive, ensuring that they cannot interact or blend with one another. This inherent mutual exclusivity has resulted in a profound energetic division across the entire planet of **Univium**, effectively partitioning the land and ocean into regions dominated by each **Fundamental Energy**, fostering the emergence of specialized environments and setting the stage for the development of life unique to each region.
+
 ## The Age of Chaos
 
 Eons ago, **Univium** was a world consumed by chaos. Its vast, singular and massive continent, **Anarkya**, was the stage for an endless war where the four **Primal Forces**—**Biological**, **Cosmical**, **Mystical**, and **Technological**—waged brutal and merciless battles for supremacy. Fighters from every force clashed without mercy, their relentless conflicts drenching the land in bloodshed, death, and ruin. The skies burned, the ground shook, and the oceans boiled as the very essence of the planet threatened to unravel. No place on **Anarkya** was spared from the fury, as each force sought total control, pushing the world itself to the brink of destruction.
