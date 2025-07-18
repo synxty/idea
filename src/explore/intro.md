@@ -1,7 +1,7 @@
 # Synxty Infopedia
 
-Welcome to the **Synxty Infopedia**, your comprehensive gateway to the dynamic world of **Univium**! Here, **syn**ergy and uni**ty** flourish in a land where thrilling contests of strategy, teamwork, and skill are about to unfold. Dive into the rich tapestry of diverse continents, each with its unique cultures, breathtaking landscapes, and innovative communities—especially **Synxty**, the capital, the epicenter of competition and camaraderie, soon to host the highly anticipated **Synxty League**.
+Welcome to the **Synxty Infopedia**, your gateway to the vibrant world of **Univium**! Here, **syn**ergy and uni**ty** shape a land of thrilling contests, strategy, teamwork, and skill. Explore diverse continents, each with unique cultures and landscapes. Discover **Synxty**, the capital city and heart of competition, soon to host the exciting **Synxty League**.
 
-Within these pages, you’ll explore the history of **Univium**, **Synxty**, and the other continents, uncover the mysteries of the **Elemental Crystals**, and learn about the various characters that inhabit this world—examining their origins, types, roles, and attributes. Discover the cities, towns, franchises, and arenas that make up **Synxty**, as well as the structure, rules, events, and awards of the **Synxty League** itself. These are just a few of the many topics waiting for you to explore. Get ready to delve into the gameplay and experience the excitement firsthand!
+Inside, you’ll find the history of **Univium** and its continents, the secrets of the **Elemental Crystals**, and profiles of the world’s characters—their origins, roles, and attributes. Learn about the cities, towns, franchises, and arenas of **Synxty**, and uncover the structure, rules, and rewards of the **Synxty League**. These are just a few of the many topics waiting for you.
 
-Your adventure begins [here](./univium/unveiling.md)!
+**Begin your adventure with [the Unveiling of Univium](./univium/unveiling.md)!**
